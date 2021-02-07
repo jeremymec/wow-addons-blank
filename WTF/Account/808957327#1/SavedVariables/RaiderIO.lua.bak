@@ -1,0 +1,14 @@
+
+RaiderIO_Config = {
+}
+RaiderIO_LastCharacter = "us-Radishspirit-frostmourne"
+RaiderIO_MissingCharacters = {
+	["us-Pamëda-barthilas"] = true,
+	["us-Elior-thaurissan"] = true,
+	["us-Onez-saurfang"] = true,
+	["us-Cosmoclysm-nagrand"] = true,
+	["us-Yogaorc-barthilas"] = true,
+	["us-Yalam-frostmourne"] = true,
+	["us-Pibesito-frostmourne"] = true,
+}
+RaiderIO_CachedRuns = nil

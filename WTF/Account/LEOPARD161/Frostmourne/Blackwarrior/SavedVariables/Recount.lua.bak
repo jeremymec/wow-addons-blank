@@ -1,0 +1,9003 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Forti-Dreadmaul"] = {
+			["GUID"] = "Player-3725-0BE083D0",
+			["TimeLast"] = {
+				["TimeHeal"] = 1879.076,
+				["OVERALL"] = 1980.077,
+				["DamageTaken"] = 1980.077,
+				["RageGain"] = 1980.077,
+				["Overhealing"] = 1969.077,
+				["TimeDamage"] = 1980.077,
+				["HealingTaken"] = 1879.076,
+				["ActiveTime"] = 1980.077,
+				["Healing"] = 1879.076,
+				["Damage"] = 1980.077,
+			},
+			["LastAttackedBy"] = "Kobold Tunneler",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"HEAL", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"HEAL", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"HEAL", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"HEAL", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"HEAL", -- [42]
+				"DAMAGE", -- [43]
+				"HEAL", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					3, -- [1]
+				},
+				["Healing"] = {
+					10, -- [1]
+				},
+				["DamageTaken"] = {
+					65, -- [1]
+				},
+				["RageGain"] = {
+					92.60000014305115, -- [1]
+				},
+				["Overhealing"] = {
+					22, -- [1]
+				},
+				["ActiveTime"] = {
+					30.45, -- [1]
+				},
+				["HealingTaken"] = {
+					10, -- [1]
+				},
+				["TimeDamage"] = {
+					27.45, -- [1]
+				},
+				["Damage"] = {
+					339, -- [1]
+				},
+			},
+			["enClass"] = "WARRIOR",
+			["unit"] = "Forti-Dreadmaul",
+			["LastAbility"] = 1217.771,
+			["level"] = 6,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 8,
+			["UnitLockout"] = 1785.083,
+			["type"] = "Ungrouped",
+			["FightsSaved"] = 5,
+			["LastHealTime"] = 1879.266,
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Forti-Dreadmaul"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 5,
+									["count"] = 4,
+									["amount"] = 22,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 22,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 13,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Miss"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 16,
+						},
+					},
+					["DamageTaken"] = 65,
+					["RageGainedFrom"] = {
+						["Forti-Dreadmaul"] = {
+							["Details"] = {
+								["Rage"] = {
+									["count"] = 32.60000014305115,
+								},
+								["Charge"] = {
+									["count"] = 60,
+								},
+							},
+							["amount"] = 92.60000014305115,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 16,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 16,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 16,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 30.45,
+					["ElementTaken"] = {
+						["Melee"] = 65,
+					},
+					["RageGained"] = {
+						["Rage"] = {
+							["Details"] = {
+								["Forti-Dreadmaul"] = {
+									["count"] = 32.60000014305115,
+								},
+							},
+							["amount"] = 32.60000014305115,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Forti-Dreadmaul"] = {
+									["count"] = 60,
+								},
+							},
+							["amount"] = 60,
+						},
+					},
+					["Damage"] = 339,
+					["TimeSpent"] = {
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 1.46,
+								},
+								["Charge"] = {
+									["count"] = 1.61,
+								},
+								["Melee"] = {
+									["count"] = 12.14,
+								},
+								["Hamstring"] = {
+									["count"] = 1.33,
+								},
+							},
+							["amount"] = 16.54,
+						},
+						["Forti-Dreadmaul"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 6,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Hamstring"] = {
+									["count"] = 1.41,
+								},
+							},
+							["amount"] = 10.91,
+						},
+					},
+					["TimeHeal"] = 3,
+					["Overhealing"] = 22,
+					["Attacks"] = {
+						["Slam"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 10,
+									["count"] = 1,
+									["amount"] = 10,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 10,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 8,
+									["min"] = 6,
+									["count"] = 2,
+									["amount"] = 14,
+								},
+								["Hit"] = {
+									["max"] = 4,
+									["min"] = 3,
+									["count"] = 4,
+									["amount"] = 13,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 27,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 33,
+									["min"] = 33,
+									["count"] = 1,
+									["amount"] = 33,
+								},
+								["Hit"] = {
+									["max"] = 22,
+									["min"] = 17,
+									["count"] = 14,
+									["amount"] = 253,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 286,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 8,
+									["min"] = 8,
+									["count"] = 1,
+									["amount"] = 8,
+								},
+								["Hit"] = {
+									["max"] = 4,
+									["min"] = 4,
+									["count"] = 2,
+									["amount"] = 8,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 16,
+						},
+					},
+					["TimeDamaging"] = {
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 1.46,
+								},
+								["Charge"] = {
+									["count"] = 1.61,
+								},
+								["Melee"] = {
+									["count"] = 12.14,
+								},
+								["Hamstring"] = {
+									["count"] = 1.33,
+								},
+							},
+							["amount"] = 16.54,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 6,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Hamstring"] = {
+									["count"] = 1.41,
+								},
+							},
+							["amount"] = 10.91,
+						},
+					},
+					["Healing"] = 10,
+					["RageGain"] = 92.60000014305115,
+					["DamagedWho"] = {
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 10,
+								},
+								["Charge"] = {
+									["count"] = 9,
+								},
+								["Melee"] = {
+									["count"] = 173,
+								},
+								["Hamstring"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 200,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 18,
+								},
+								["Melee"] = {
+									["count"] = 113,
+								},
+								["Hamstring"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 139,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 286,
+						["Physical"] = 53,
+					},
+					["HealingTaken"] = 10,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+					["TimeDamage"] = 27.45,
+					["WhoDamaged"] = {
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 56,
+								},
+							},
+							["amount"] = 56,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 5,
+									["min"] = 5,
+									["count"] = 2,
+									["amount"] = 10,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 10,
+						},
+					},
+					["HealedWho"] = {
+						["Forti-Dreadmaul"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+					["WhoHealed"] = {
+						["Forti-Dreadmaul"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+				},
+			},
+			["Owner"] = false,
+			["LastEventTimes"] = {
+				1785.363, -- [1]
+				1785.363, -- [2]
+				1785.463, -- [3]
+				1806, -- [4]
+				1806.26, -- [5]
+				1806.26, -- [6]
+				1849.447, -- [7]
+				1849.447, -- [8]
+				1849.557, -- [9]
+				1851.507, -- [10]
+				1852.987, -- [11]
+				1853.507, -- [12]
+				1854.317, -- [13]
+				1855.517, -- [14]
+				1855.777, -- [15]
+				1855.777, -- [16]
+				1867.874, -- [17]
+				1868.844, -- [18]
+				1869.904, -- [19]
+				1871.854, -- [20]
+				1872.244, -- [21]
+				1873.874, -- [22]
+				1875.806, -- [23]
+				1875.916, -- [24]
+				1877.916, -- [25]
+				1879.266, -- [26]
+				1879.266, -- [27]
+				1896.447, -- [28]
+				1896.447, -- [29]
+				1897.857, -- [30]
+				1906.867, -- [31]
+				1906.867, -- [32]
+				1906.867, -- [33]
+				1932.136, -- [34]
+				1932.896, -- [35]
+				1934.146, -- [36]
+				1936.176, -- [37]
+				1936.386, -- [38]
+				1938.176, -- [39]
+				1948.827, -- [40]
+				1948.967, -- [41]
+				1948.967, -- [42]
+				1969.347, -- [43]
+				1969.347, -- [44]
+				1980.297, -- [45]
+				1980.297, -- [46]
+				1980.439, -- [47]
+			},
+			["NextEventNum"] = 48,
+			["LastDamageTime"] = 1980.439,
+			["LastEvents"] = {
+				"Kobold Tunneler Melee Forti-Dreadmaul Hit -5 (Physical)", -- [1]
+				"Forti-Dreadmaul Charge Kobold Tunneler Hit -4 (Physical)", -- [2]
+				"Forti-Dreadmaul Melee Kobold Tunneler Hit -22 (Physical)", -- [3]
+				"Forti-Dreadmaul Charge Kobold Tunneler Crit -8 (Physical)", -- [4]
+				"Forti-Dreadmaul Melee Kobold Tunneler Hit -21 (Physical)", -- [5]
+				"Forti-Dreadmaul Swift Hand of Justice Forti-Dreadmaul Hit +5 (5 Overheal)", -- [6]
+				"Forti-Dreadmaul Melee Kobold Miner Hit -17 (Physical)", -- [7]
+				"Kobold Miner Melee Forti-Dreadmaul Hit -4 (Physical)", -- [8]
+				"Forti-Dreadmaul Charge Kobold Miner Crit -6 (Physical)", -- [9]
+				"Kobold Miner Melee Forti-Dreadmaul Hit -6 (Physical)", -- [10]
+				"Forti-Dreadmaul Melee Kobold Miner Hit -17 (Physical)", -- [11]
+				"Kobold Miner Melee Forti-Dreadmaul Hit -6 (Physical)", -- [12]
+				"Forti-Dreadmaul Hamstring Kobold Miner Crit -8 (Physical)", -- [13]
+				"Kobold Miner Melee Forti-Dreadmaul Dodge (1)", -- [14]
+				"Forti-Dreadmaul Slam Kobold Miner Hit -10 (Physical)", -- [15]
+				"Forti-Dreadmaul Swift Hand of Justice Forti-Dreadmaul Hit +5", -- [16]
+				"Kobold Miner Melee Forti-Dreadmaul Hit -5 (Physical)", -- [17]
+				"Forti-Dreadmaul Melee Kobold Miner Hit -17 (Physical)", -- [18]
+				"Kobold Miner Melee Forti-Dreadmaul Hit -5 (Physical)", -- [19]
+				"Kobold Miner Melee Forti-Dreadmaul Miss (1)", -- [20]
+				"Forti-Dreadmaul Melee Kobold Miner Hit -18 (Physical)", -- [21]
+				"Kobold Miner Melee Forti-Dreadmaul Hit -6 (Physical)", -- [22]
+				"Forti-Dreadmaul Melee Kobold Miner Hit -18 (Physical)", -- [23]
+				"Kobold Miner Melee Forti-Dreadmaul Hit -6 (Physical)", -- [24]
+				"Kobold Miner Melee Forti-Dreadmaul Miss (1)", -- [25]
+				"Forti-Dreadmaul Melee Kobold Miner Hit -18 (Physical)", -- [26]
+				"Forti-Dreadmaul Swift Hand of Justice Forti-Dreadmaul Hit +5", -- [27]
+				"Forti-Dreadmaul Charge Kobold Tunneler Hit -3 (Physical)", -- [28]
+				"Forti-Dreadmaul Melee Kobold Tunneler Hit -18 (Physical)", -- [29]
+				"Forti-Dreadmaul Hamstring Kobold Tunneler Hit -4 (Physical)", -- [30]
+				"Forti-Dreadmaul Melee Kobold Tunneler Hit -18 (Physical)", -- [31]
+				"Forti-Dreadmaul Hamstring Kobold Tunneler Hit -4 (Physical)", -- [32]
+				"Forti-Dreadmaul Swift Hand of Justice Forti-Dreadmaul Hit +6 (6 Overheal)", -- [33]
+				"Kobold Miner Melee Forti-Dreadmaul Hit -4 (Physical)", -- [34]
+				"Forti-Dreadmaul Melee Kobold Miner Hit -18 (Physical)", -- [35]
+				"Kobold Miner Melee Forti-Dreadmaul Hit -4 (Physical)", -- [36]
+				"Kobold Miner Melee Forti-Dreadmaul Hit -5 (Physical)", -- [37]
+				"Forti-Dreadmaul Melee Kobold Miner Crit -33 (Physical)", -- [38]
+				"Kobold Miner Melee Forti-Dreadmaul Hit -5 (Physical)", -- [39]
+				"Forti-Dreadmaul Charge Kobold Miner Hit -3 (Physical)", -- [40]
+				"Forti-Dreadmaul Melee Kobold Miner Hit -17 (Physical)", -- [41]
+				"Forti-Dreadmaul Swift Hand of Justice Forti-Dreadmaul Hit +5 (5 Overheal)", -- [42]
+				"Forti-Dreadmaul Melee Kobold Tunneler Hit -17 (Physical)", -- [43]
+				"Forti-Dreadmaul Swift Hand of Justice Forti-Dreadmaul Hit +6 (6 Overheal)", -- [44]
+				"Forti-Dreadmaul Charge Kobold Tunneler Hit -3 (Physical)", -- [45]
+				"Kobold Tunneler Melee Forti-Dreadmaul Hit -4 (Physical)", -- [46]
+				"Forti-Dreadmaul Melee Kobold Tunneler Hit -17 (Physical)", -- [47]
+			},
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				true, -- [6]
+				false, -- [7]
+				true, -- [8]
+				false, -- [9]
+				true, -- [10]
+				false, -- [11]
+				true, -- [12]
+				false, -- [13]
+				true, -- [14]
+				false, -- [15]
+				true, -- [16]
+				true, -- [17]
+				false, -- [18]
+				true, -- [19]
+				true, -- [20]
+				false, -- [21]
+				true, -- [22]
+				false, -- [23]
+				true, -- [24]
+				true, -- [25]
+				false, -- [26]
+				true, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+				true, -- [33]
+				true, -- [34]
+				false, -- [35]
+				true, -- [36]
+				true, -- [37]
+				false, -- [38]
+				true, -- [39]
+				false, -- [40]
+				false, -- [41]
+				true, -- [42]
+				false, -- [43]
+				true, -- [44]
+				false, -- [45]
+				true, -- [46]
+				false, -- [47]
+			},
+			["Name"] = "Forti-Dreadmaul",
+			["LastEventHealth"] = {
+				315, -- [1]
+				315, -- [2]
+				310, -- [3]
+				315, -- [4]
+				315, -- [5]
+				315, -- [6]
+				315, -- [7]
+				315, -- [8]
+				311, -- [9]
+				311, -- [10]
+				305, -- [11]
+				305, -- [12]
+				299, -- [13]
+				299, -- [14]
+				299, -- [15]
+				305, -- [16]
+				315, -- [17]
+				310, -- [18]
+				310, -- [19]
+				305, -- [20]
+				305, -- [21]
+				305, -- [22]
+				299, -- [23]
+				299, -- [24]
+				293, -- [25]
+				293, -- [26]
+				299, -- [27]
+				315, -- [28]
+				315, -- [29]
+				315, -- [30]
+				315, -- [31]
+				315, -- [32]
+				315, -- [33]
+				315, -- [34]
+				311, -- [35]
+				311, -- [36]
+				307, -- [37]
+				302, -- [38]
+				302, -- [39]
+				315, -- [40]
+				315, -- [41]
+				315, -- [42]
+				315, -- [43]
+				315, -- [44]
+				315, -- [45]
+				315, -- [46]
+				311, -- [47]
+			},
+			["LastDamageTaken"] = 4,
+			["LastEventHealthMax"] = {
+				315, -- [1]
+				315, -- [2]
+				315, -- [3]
+				315, -- [4]
+				315, -- [5]
+				315, -- [6]
+				315, -- [7]
+				315, -- [8]
+				315, -- [9]
+				315, -- [10]
+				315, -- [11]
+				315, -- [12]
+				315, -- [13]
+				315, -- [14]
+				315, -- [15]
+				315, -- [16]
+				315, -- [17]
+				315, -- [18]
+				315, -- [19]
+				315, -- [20]
+				315, -- [21]
+				315, -- [22]
+				315, -- [23]
+				315, -- [24]
+				315, -- [25]
+				315, -- [26]
+				315, -- [27]
+				315, -- [28]
+				315, -- [29]
+				315, -- [30]
+				315, -- [31]
+				315, -- [32]
+				315, -- [33]
+				315, -- [34]
+				315, -- [35]
+				315, -- [36]
+				315, -- [37]
+				315, -- [38]
+				315, -- [39]
+				315, -- [40]
+				315, -- [41]
+				315, -- [42]
+				315, -- [43]
+				315, -- [44]
+				315, -- [45]
+				315, -- [46]
+				315, -- [47]
+			},
+			["LastActive"] = 1980.077,
+		},
+		["Blackwarrior"] = {
+			["GUID"] = "Player-3725-0BDED4B2",
+			["TimeLast"] = {
+				["TimeHeal"] = 2595.596,
+				["OVERALL"] = 2676.615,
+				["DamageTaken"] = 2676.615,
+				["Interrupts"] = 1603.593,
+				["RageGain"] = 2676.615,
+				["Overhealing"] = 2545.593,
+				["TimeDamage"] = 2602.596,
+				["HealingTaken"] = 2595.596,
+				["ActiveTime"] = 2602.596,
+				["Healing"] = 2595.596,
+				["Damage"] = 2602.596,
+			},
+			["LastAttackedBy"] = "Prowler",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"HEAL", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					40.5, -- [1]
+				},
+				["Healing"] = {
+					573, -- [1]
+				},
+				["DamageTaken"] = {
+					1635, -- [1]
+				},
+				["RageGain"] = {
+					1109.299999952316, -- [1]
+				},
+				["Overhealing"] = {
+					731, -- [1]
+				},
+				["ActiveTime"] = {
+					454.4100000000003, -- [1]
+				},
+				["Interrupts"] = {
+					4, -- [1]
+				},
+				["HealingTaken"] = {
+					573, -- [1]
+				},
+				["TimeDamage"] = {
+					413.9100000000002, -- [1]
+				},
+				["Damage"] = {
+					7207, -- [1]
+				},
+			},
+			["enClass"] = "WARRIOR",
+			["unit"] = "Blackwarrior",
+			["LastAbility"] = 1217.771,
+			["level"] = 5,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 59,
+			["UnitLockout"] = 1785.083,
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["LastHealTime"] = 2595.826,
+			["Fights"] = {
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 40.5,
+								},
+							},
+							["amount"] = 40.5,
+						},
+					},
+					["OverHeals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 40,
+									["min"] = 8,
+									["count"] = 25,
+									["amount"] = 731,
+								},
+							},
+							["count"] = 25,
+							["amount"] = 731,
+						},
+					},
+					["TimeSpent"] = {
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 18.71,
+								},
+								["Charge"] = {
+									["count"] = 4.5,
+								},
+								["Melee"] = {
+									["count"] = 15.46,
+								},
+							},
+							["amount"] = 38.67,
+						},
+						["Tarantis"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 6.6,
+								},
+								["Charge"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 1.6,
+								},
+							},
+							["amount"] = 9.7,
+						},
+						["James Clark"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 5.52,
+								},
+								["Slam"] = {
+									["count"] = 3.76,
+								},
+							},
+							["amount"] = 9.280000000000001,
+						},
+						["Erlan Drudgemoor"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 3.18,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.39,
+								},
+								["Melee"] = {
+									["count"] = 2.03,
+								},
+							},
+							["amount"] = 6.600000000000001,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 16.7,
+								},
+								["Charge"] = {
+									["count"] = 4.64,
+								},
+								["Melee"] = {
+									["count"] = 8.01,
+								},
+								["Victory Rush"] = {
+									["count"] = 8.870000000000001,
+								},
+							},
+							["amount"] = 38.22,
+						},
+						["Cow"] = {
+							["Details"] = {
+								["Whirlwind"] = {
+									["count"] = 0.85,
+								},
+							},
+							["amount"] = 0.85,
+						},
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 2.78,
+								},
+								["Victory Rush"] = {
+									["count"] = 0.31,
+								},
+								["Melee"] = {
+									["count"] = 4.5,
+								},
+							},
+							["amount"] = 7.59,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 17.3,
+								},
+								["Victory Rush"] = {
+									["count"] = 7.7,
+								},
+								["Melee"] = {
+									["count"] = 14.31,
+								},
+								["Charge"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 40.81,
+						},
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 40.5,
+								},
+							},
+							["amount"] = 40.5,
+						},
+						["Morgan the Collector"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 4.46,
+								},
+								["Victory Rush"] = {
+									["count"] = 0.12,
+								},
+								["Melee"] = {
+									["count"] = 5.760000000000001,
+								},
+								["Hamstring"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 11.84,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 13.45,
+								},
+								["Victory Rush"] = {
+									["count"] = 3.18,
+								},
+								["Melee"] = {
+									["count"] = 10.93,
+								},
+								["Charge"] = {
+									["count"] = 1.62,
+								},
+							},
+							["amount"] = 29.18,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 20.59,
+								},
+								["Charge"] = {
+									["count"] = 3,
+								},
+								["Melee"] = {
+									["count"] = 19.56,
+								},
+								["Victory Rush"] = {
+									["count"] = 5.25,
+								},
+							},
+							["amount"] = 48.40000000000001,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 6.779999999999999,
+								},
+								["Charge"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 5.17,
+								},
+								["Victory Rush"] = {
+									["count"] = 2.41,
+								},
+							},
+							["amount"] = 15.86,
+						},
+						["Kobold Geomancer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.97,
+								},
+								["Slam"] = {
+									["count"] = 2.99,
+								},
+							},
+							["amount"] = 4.96,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 4.62,
+								},
+								["Melee"] = {
+									["count"] = 26.66,
+								},
+								["Slam"] = {
+									["count"] = 15.62,
+								},
+								["Victory Rush"] = {
+									["count"] = 3.06,
+								},
+								["Whirlwind"] = {
+									["count"] = 3.52,
+								},
+								["Hamstring"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 54.98,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0.14,
+								},
+								["Melee"] = {
+									["count"] = 10.6,
+								},
+								["Execute"] = {
+									["count"] = 1.5,
+								},
+								["Slam"] = {
+									["count"] = 11.83,
+								},
+								["Victory Rush"] = {
+									["count"] = 3.21,
+								},
+								["Whirlwind"] = {
+									["count"] = 4.27,
+								},
+								["Hamstring"] = {
+									["count"] = 0.17,
+								},
+							},
+							["amount"] = 31.72,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 8.799999999999999,
+								},
+								["Victory Rush"] = {
+									["count"] = 4.33,
+								},
+								["Melee"] = {
+									["count"] = 15.22,
+								},
+								["Hamstring"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 29.85,
+						},
+						["Surena Caledon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+								["Slam"] = {
+									["count"] = 2.91,
+								},
+							},
+							["amount"] = 5.91,
+						},
+						["Princess"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 10.68,
+								},
+								["Charge"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 11.1,
+								},
+							},
+							["amount"] = 23.28,
+						},
+						["Bandit"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 1.71,
+								},
+								["Charge"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 4.71,
+						},
+					},
+					["DamageTaken"] = 1635,
+					["RageGainedFrom"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Rage"] = {
+									["count"] = 659.2999999523163,
+								},
+								["Charge"] = {
+									["count"] = 450,
+								},
+							},
+							["amount"] = 1109.299999952316,
+						},
+					},
+					["PartialResist"] = {
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 261,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 261,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Pierce Armor"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["Interrupts"] = 4,
+					["Overhealing"] = 731,
+					["ActiveTime"] = 454.4100000000003,
+					["Damage"] = 7207,
+					["ElementTaken"] = {
+						["Physical"] = 6,
+						["Frost"] = 10,
+						["Melee"] = 1611,
+						["Nature"] = 8,
+					},
+					["RageGained"] = {
+						["Rage"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 659.2999999523163,
+								},
+							},
+							["amount"] = 659.2999999523163,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 450,
+								},
+							},
+							["amount"] = 450,
+						},
+					},
+					["InterruptData"] = {
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Frostbolt (Pummel)"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Surena Caledon"] = {
+							["Details"] = {
+								["Fireball (Pummel)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Kobold Geomancer"] = {
+							["Details"] = {
+								["Fireball (Pummel)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Heals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 48,
+									["min"] = 4,
+									["count"] = 28,
+									["amount"] = 573,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 573,
+						},
+					},
+					["TimeHeal"] = 40.5,
+					["WhoDamaged"] = {
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 97,
+								},
+							},
+							["amount"] = 97,
+						},
+						["Tarantis"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 71,
+								},
+								["Poison (DoT)"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 74,
+						},
+						["James Clark"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 41,
+								},
+							},
+							["amount"] = 41,
+						},
+						["Erlan Drudgemoor"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 59,
+								},
+							},
+							["amount"] = 59,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 93,
+								},
+							},
+							["amount"] = 93,
+						},
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 11,
+								},
+								["Frostbolt"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Prowler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 38,
+								},
+							},
+							["amount"] = 38,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 116,
+								},
+							},
+							["amount"] = 116,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 103,
+								},
+							},
+							["amount"] = 103,
+						},
+						["Morgan the Collector"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 103,
+								},
+								["Backstab"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 109,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 68,
+								},
+								["Poison (DoT)"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 73,
+						},
+						["Kobold Geomancer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 92,
+								},
+							},
+							["amount"] = 92,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 210,
+								},
+							},
+							["amount"] = 210,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 193,
+								},
+							},
+							["amount"] = 193,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 171,
+								},
+							},
+							["amount"] = 171,
+						},
+						["Surena Caledon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 16,
+								},
+							},
+							["amount"] = 16,
+						},
+						["Princess"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 89,
+								},
+							},
+							["amount"] = 89,
+						},
+						["Bandit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 34,
+								},
+							},
+							["amount"] = 34,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 223,
+								},
+								["Miss"] = {
+									["count"] = 10,
+								},
+								["Dodge"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 15,
+								},
+								["Parry"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 261,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 8,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 21,
+								},
+								["Hit"] = {
+									["count"] = 245,
+								},
+							},
+							["amount"] = 266,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 18,
+								},
+								["Hit"] = {
+									["count"] = 138,
+								},
+							},
+							["amount"] = 156,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Healing"] = 573,
+					["RageGain"] = 1109.299999952316,
+					["ElementDone"] = {
+						["Physical"] = 3378,
+						["Melee"] = 3790,
+						["Holy"] = 39,
+					},
+					["Attacks"] = {
+						["Execute"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 86,
+									["min"] = 86,
+									["count"] = 1,
+									["amount"] = 86,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 86,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 10,
+									["min"] = 8,
+									["count"] = 3,
+									["amount"] = 28,
+								},
+								["Hit"] = {
+									["max"] = 5,
+									["min"] = 3,
+									["count"] = 25,
+									["amount"] = 96,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 124,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 57,
+									["min"] = 32,
+									["count"] = 18,
+									["amount"] = 793,
+								},
+								["Hit"] = {
+									["max"] = 37,
+									["min"] = 15,
+									["count"] = 138,
+									["amount"] = 2997,
+								},
+							},
+							["count"] = 156,
+							["amount"] = 3790,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 6,
+									["count"] = 21,
+									["amount"] = 168,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 168,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 40,
+									["min"] = 19,
+									["count"] = 13,
+									["amount"] = 318,
+								},
+								["Hit"] = {
+									["max"] = 20,
+									["min"] = 9,
+									["count"] = 151,
+									["amount"] = 1863,
+								},
+							},
+							["count"] = 164,
+							["amount"] = 2181,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 37,
+									["min"] = 28,
+									["count"] = 5,
+									["amount"] = 167,
+								},
+								["Hit"] = {
+									["max"] = 23,
+									["min"] = 10,
+									["count"] = 43,
+									["amount"] = 631,
+								},
+							},
+							["count"] = 48,
+							["amount"] = 798,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 5,
+									["count"] = 4,
+									["amount"] = 21,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 21,
+						},
+						["Flash of Brilliance"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 39,
+									["min"] = 39,
+									["count"] = 1,
+									["amount"] = 39,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 39,
+						},
+					},
+					["HealingTaken"] = 573,
+					["DamagedWho"] = {
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 9,
+								},
+								["Melee"] = {
+									["count"] = 267,
+								},
+								["Slam"] = {
+									["count"] = 188,
+								},
+								["Victory Rush"] = {
+									["count"] = 35,
+								},
+								["Flash of Brilliance"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 538,
+						},
+						["Tarantis"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 82,
+								},
+								["Charge"] = {
+									["count"] = 3,
+								},
+								["Melee"] = {
+									["count"] = 60,
+								},
+							},
+							["amount"] = 145,
+						},
+						["James Clark"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 85,
+								},
+								["Slam"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 133,
+						},
+						["Erlan Drudgemoor"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 35,
+								},
+								["Victory Rush"] = {
+									["count"] = 13,
+								},
+								["Melee"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 87,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 255,
+								},
+								["Charge"] = {
+									["count"] = 33,
+								},
+								["Melee"] = {
+									["count"] = 397,
+								},
+								["Victory Rush"] = {
+									["count"] = 178,
+								},
+							},
+							["amount"] = 863,
+						},
+						["Cow"] = {
+							["Details"] = {
+								["Whirlwind"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 33,
+								},
+								["Charge"] = {
+									["count"] = 3,
+								},
+								["Melee"] = {
+									["count"] = 76,
+								},
+								["Victory Rush"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 124,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 174,
+								},
+								["Victory Rush"] = {
+									["count"] = 96,
+								},
+								["Melee"] = {
+									["count"] = 300,
+								},
+								["Charge"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 576,
+						},
+						["Kobold Geomancer"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 24,
+								},
+								["Victory Rush"] = {
+									["count"] = 14,
+								},
+								["Melee"] = {
+									["count"] = 43,
+								},
+							},
+							["amount"] = 81,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 13,
+								},
+								["Melee"] = {
+									["count"] = 232,
+								},
+								["Slam"] = {
+									["count"] = 160,
+								},
+								["Victory Rush"] = {
+									["count"] = 74,
+								},
+								["Whirlwind"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 503,
+						},
+						["Morgan the Collector"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 57,
+								},
+								["Victory Rush"] = {
+									["count"] = 13,
+								},
+								["Melee"] = {
+									["count"] = 101,
+								},
+								["Hamstring"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 176,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 224,
+								},
+								["Charge"] = {
+									["count"] = 7,
+								},
+								["Melee"] = {
+									["count"] = 487,
+								},
+								["Victory Rush"] = {
+									["count"] = 97,
+								},
+							},
+							["amount"] = 815,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 115,
+								},
+								["Charge"] = {
+									["count"] = 3,
+								},
+								["Melee"] = {
+									["count"] = 141,
+								},
+								["Victory Rush"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 286,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 22,
+								},
+								["Melee"] = {
+									["count"] = 678,
+								},
+								["Slam"] = {
+									["count"] = 298,
+								},
+								["Victory Rush"] = {
+									["count"] = 137,
+								},
+								["Whirlwind"] = {
+									["count"] = 74,
+								},
+								["Hamstring"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 1215,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 4,
+								},
+								["Melee"] = {
+									["count"] = 329,
+								},
+								["Execute"] = {
+									["count"] = 86,
+								},
+								["Slam"] = {
+									["count"] = 161,
+								},
+								["Victory Rush"] = {
+									["count"] = 55,
+								},
+								["Whirlwind"] = {
+									["count"] = 60,
+								},
+								["Hamstring"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 700,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 3,
+								},
+								["Melee"] = {
+									["count"] = 244,
+								},
+								["Slam"] = {
+									["count"] = 107,
+								},
+								["Victory Rush"] = {
+									["count"] = 47,
+								},
+								["Hamstring"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 406,
+						},
+						["Surena Caledon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 39,
+								},
+								["Slam"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 87,
+						},
+						["Princess"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 141,
+								},
+								["Charge"] = {
+									["count"] = 8,
+								},
+								["Melee"] = {
+									["count"] = 220,
+								},
+							},
+							["amount"] = 369,
+						},
+						["Bandit"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 31,
+								},
+								["Charge"] = {
+									["count"] = 5,
+								},
+								["Melee"] = {
+									["count"] = 52,
+								},
+							},
+							["amount"] = 88,
+						},
+					},
+					["TimeDamage"] = 413.9100000000002,
+					["TimeDamaging"] = {
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 18.71,
+								},
+								["Charge"] = {
+									["count"] = 4.5,
+								},
+								["Melee"] = {
+									["count"] = 15.46,
+								},
+							},
+							["amount"] = 38.67,
+						},
+						["Tarantis"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 6.6,
+								},
+								["Charge"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 1.6,
+								},
+							},
+							["amount"] = 9.7,
+						},
+						["James Clark"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 5.52,
+								},
+								["Slam"] = {
+									["count"] = 3.76,
+								},
+							},
+							["amount"] = 9.280000000000001,
+						},
+						["Erlan Drudgemoor"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 3.18,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.39,
+								},
+								["Melee"] = {
+									["count"] = 2.03,
+								},
+							},
+							["amount"] = 6.600000000000001,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 16.7,
+								},
+								["Charge"] = {
+									["count"] = 4.64,
+								},
+								["Melee"] = {
+									["count"] = 8.01,
+								},
+								["Victory Rush"] = {
+									["count"] = 8.870000000000001,
+								},
+							},
+							["amount"] = 38.22,
+						},
+						["Cow"] = {
+							["Details"] = {
+								["Whirlwind"] = {
+									["count"] = 0.85,
+								},
+							},
+							["amount"] = 0.85,
+						},
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 2.78,
+								},
+								["Victory Rush"] = {
+									["count"] = 0.31,
+								},
+								["Melee"] = {
+									["count"] = 4.5,
+								},
+							},
+							["amount"] = 7.59,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 17.3,
+								},
+								["Victory Rush"] = {
+									["count"] = 7.7,
+								},
+								["Melee"] = {
+									["count"] = 14.31,
+								},
+								["Charge"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 40.81,
+						},
+						["Kobold Geomancer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.97,
+								},
+								["Slam"] = {
+									["count"] = 2.99,
+								},
+							},
+							["amount"] = 4.96,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 13.45,
+								},
+								["Victory Rush"] = {
+									["count"] = 3.18,
+								},
+								["Melee"] = {
+									["count"] = 10.93,
+								},
+								["Charge"] = {
+									["count"] = 1.62,
+								},
+							},
+							["amount"] = 29.18,
+						},
+						["Morgan the Collector"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 4.46,
+								},
+								["Victory Rush"] = {
+									["count"] = 0.12,
+								},
+								["Melee"] = {
+									["count"] = 5.760000000000001,
+								},
+								["Hamstring"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 11.84,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 20.59,
+								},
+								["Charge"] = {
+									["count"] = 3,
+								},
+								["Melee"] = {
+									["count"] = 19.56,
+								},
+								["Victory Rush"] = {
+									["count"] = 5.25,
+								},
+							},
+							["amount"] = 48.40000000000001,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 6.779999999999999,
+								},
+								["Charge"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 5.17,
+								},
+								["Victory Rush"] = {
+									["count"] = 2.41,
+								},
+							},
+							["amount"] = 15.86,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 4.62,
+								},
+								["Melee"] = {
+									["count"] = 26.66,
+								},
+								["Slam"] = {
+									["count"] = 15.62,
+								},
+								["Victory Rush"] = {
+									["count"] = 3.06,
+								},
+								["Whirlwind"] = {
+									["count"] = 3.52,
+								},
+								["Hamstring"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 54.98,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0.14,
+								},
+								["Melee"] = {
+									["count"] = 10.6,
+								},
+								["Execute"] = {
+									["count"] = 1.5,
+								},
+								["Slam"] = {
+									["count"] = 11.83,
+								},
+								["Victory Rush"] = {
+									["count"] = 3.21,
+								},
+								["Whirlwind"] = {
+									["count"] = 4.27,
+								},
+								["Hamstring"] = {
+									["count"] = 0.17,
+								},
+							},
+							["amount"] = 31.72,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 8.799999999999999,
+								},
+								["Victory Rush"] = {
+									["count"] = 4.33,
+								},
+								["Melee"] = {
+									["count"] = 15.22,
+								},
+								["Hamstring"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 29.85,
+						},
+						["Surena Caledon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+								["Slam"] = {
+									["count"] = 2.91,
+								},
+							},
+							["amount"] = 5.91,
+						},
+						["Princess"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 10.68,
+								},
+								["Charge"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 11.1,
+								},
+							},
+							["amount"] = 23.28,
+						},
+						["Bandit"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 1.71,
+								},
+								["Charge"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 4.71,
+						},
+					},
+					["HealedWho"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 573,
+								},
+							},
+							["amount"] = 573,
+						},
+					},
+					["WhoHealed"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 573,
+								},
+							},
+							["amount"] = 573,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 261,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 261,
+							["amount"] = 0,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Pierce Armor"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+				},
+				["Fight5"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 35,
+					["RageGainedFrom"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Rage"] = {
+									["count"] = 18,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 18,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 35,
+						["Nature"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 1.5,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 18,
+					["ElementDone"] = {
+						["Melee"] = 63,
+						["Physical"] = 50,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 36,
+								},
+								["Victory Rush"] = {
+									["count"] = 14,
+								},
+								["Melee"] = {
+									["count"] = 63,
+								},
+							},
+							["amount"] = 113,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Princess"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bandit"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 12,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 12,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 12,
+						},
+					},
+					["WhoDamaged"] = {
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Poison (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 35,
+								},
+							},
+							["amount"] = 35,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Princess"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bandit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RageGained"] = {
+						["Rage"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 18,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 28,
+								},
+							},
+							["amount"] = 28,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 9.15,
+					["Overhealing"] = 12,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.16,
+								},
+								["Slam"] = {
+									["count"] = 4.49,
+								},
+							},
+							["amount"] = 7.65,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Princess"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bandit"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 28,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 28,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 28,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 28,
+								},
+							},
+							["amount"] = 28,
+						},
+					},
+					["Healing"] = 28,
+					["CCBroken"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["Attacks"] = {
+						["Slam"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 12,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 36,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 36,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 14,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 14,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 14,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 22,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 63,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 63,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 28,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["TimeDamage"] = 7.65,
+					["TimeDamaging"] = {
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.16,
+								},
+								["Slam"] = {
+									["count"] = 4.49,
+								},
+							},
+							["amount"] = 7.65,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Princess"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bandit"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Damage"] = 113,
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["TimeHealing"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["TimeSpent"] = {
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tarantis"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Princess"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Rage"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 0,
+						["Nature"] = 0,
+					},
+					["RageGained"] = {
+						["Rage"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Damage"] = 0,
+					["Heals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["TimeHeal"] = 0,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tarantis"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Poison (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Princess"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Poison (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["RageGain"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tarantis"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Princess"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tarantis"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Princess"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["HealedWho"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Overhealing"] = 0,
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 38,
+					["RageGainedFrom"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Rage"] = {
+									["count"] = 21,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 21,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 38,
+						["Nature"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 21,
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Prowler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 38,
+								},
+							},
+							["amount"] = 38,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Poison (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bandit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RageGained"] = {
+						["Rage"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["CCBroken"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["Attacks"] = {
+						["Slam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Damage"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 46,
+					["RageGainedFrom"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Rage"] = {
+									["count"] = 15,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 46,
+					},
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 1.5,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 15,
+					["ElementDone"] = {
+						["Physical"] = 113,
+						["Melee"] = 124,
+						["Holy"] = 0,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 15,
+								},
+								["Victory Rush"] = {
+									["count"] = 18,
+								},
+								["Whirlwind"] = {
+									["count"] = 24,
+								},
+								["Melee"] = {
+									["count"] = 79,
+								},
+							},
+							["amount"] = 136,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 24,
+								},
+								["Whirlwind"] = {
+									["count"] = 18,
+								},
+								["Melee"] = {
+									["count"] = 45,
+								},
+								["Victory Rush"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 101,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Flash of Brilliance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 35,
+								},
+							},
+							["amount"] = 35,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 11,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RageGained"] = {
+						["Rage"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 10.54,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 1.41,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 2.38,
+								},
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.79,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 1.38,
+								},
+								["Whirlwind"] = {
+									["count"] = 1.96,
+								},
+								["Melee"] = {
+									["count"] = 0.46,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.45,
+								},
+							},
+							["amount"] = 5.25,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 40,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 40,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 40,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+					},
+					["Healing"] = 40,
+					["CCBroken"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["Attacks"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 51,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 96,
+								},
+								["Hit"] = {
+									["max"] = 28,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 28,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 124,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8,
+									["min"] = 6,
+									["count"] = 6,
+									["amount"] = 42,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 42,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 15,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 39,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 39,
+						},
+						["Flash of Brilliance"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 18,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 32,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 32,
+						},
+					},
+					["HealingTaken"] = 40,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 11,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 9.04,
+					["TimeDamaging"] = {
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 1.41,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 2.38,
+								},
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.79,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 1.38,
+								},
+								["Whirlwind"] = {
+									["count"] = 1.96,
+								},
+								["Melee"] = {
+									["count"] = 0.46,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.45,
+								},
+							},
+							["amount"] = 5.25,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Damage"] = 237,
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 38,
+					["RageGainedFrom"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Rage"] = {
+									["count"] = 21,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 21,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 38,
+						["Nature"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 21,
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Prowler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 38,
+								},
+							},
+							["amount"] = 38,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Poison (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bandit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RageGained"] = {
+						["Rage"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["CCBroken"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["Attacks"] = {
+						["Slam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mine Spider"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Damage"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 103,
+					["RageGainedFrom"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Rage"] = {
+									["count"] = 33,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 33,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 15,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Melee"] = 103,
+						["Physical"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 1.5,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 33,
+					["ElementDone"] = {
+						["Melee"] = 187,
+						["Physical"] = 248,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Morgan the Collector"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 65,
+								},
+								["Whirlwind"] = {
+									["count"] = 24,
+								},
+								["Melee"] = {
+									["count"] = 114,
+								},
+								["Execute"] = {
+									["count"] = 86,
+								},
+							},
+							["amount"] = 289,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["James Clark"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Erlan Drudgemoor"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 40,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 73,
+								},
+								["Victory Rush"] = {
+									["count"] = 23,
+								},
+							},
+							["amount"] = 136,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Surena Caledon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Geomancer"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cow"] = {
+							["Details"] = {
+								["Whirlwind"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+					["OverHeals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 84,
+								},
+							},
+							["amount"] = 84,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["James Clark"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Erlan Drudgemoor"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 19,
+								},
+							},
+							["amount"] = 19,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Surena Caledon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Geomancer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Morgan the Collector"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RageGained"] = {
+						["Rage"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 33,
+								},
+							},
+							["amount"] = 33,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 48,
+						},
+					},
+					["PartialResist"] = {
+						["Pierce Armor"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 15,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 15.3,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Frostbolt (Pummel)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Surena Caledon"] = {
+							["Details"] = {
+								["Fireball (Pummel)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Geomancer"] = {
+							["Details"] = {
+								["Fireball (Pummel)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 2.39,
+								},
+								["Whirlwind"] = {
+									["count"] = 0.4,
+								},
+								["Melee"] = {
+									["count"] = 3.97,
+								},
+								["Execute"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 8.26,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["James Clark"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Erlan Drudgemoor"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0.27,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.42,
+								},
+							},
+							["amount"] = 4.69,
+						},
+						["Kobold Geomancer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Surena Caledon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Morgan the Collector"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cow"] = {
+							["Details"] = {
+								["Whirlwind"] = {
+									["count"] = 0.85,
+								},
+							},
+							["amount"] = 0.85,
+						},
+					},
+					["Heals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 48,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 48,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 48,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Pierce Armor"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 0,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 48,
+						},
+					},
+					["Healing"] = 48,
+					["CCBroken"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["Attacks"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 57,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 57,
+								},
+								["Hit"] = {
+									["max"] = 37,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 130,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 187,
+						},
+						["Execute"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 86,
+									["min"] = 86,
+									["count"] = 1,
+									["amount"] = 86,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 86,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 40,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 40,
+								},
+								["Hit"] = {
+									["max"] = 17,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 65,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 105,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 23,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 23,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 23,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 8,
+									["count"] = 4,
+									["amount"] = 34,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 34,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 48,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 11,
+						},
+					},
+					["TimeDamage"] = 13.8,
+					["TimeDamaging"] = {
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Morgan the Collector"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 2.39,
+								},
+								["Whirlwind"] = {
+									["count"] = 0.4,
+								},
+								["Melee"] = {
+									["count"] = 3.97,
+								},
+								["Execute"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 8.26,
+						},
+						["Murloc Lurker"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["James Clark"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Erlan Drudgemoor"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0.27,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.42,
+								},
+							},
+							["amount"] = 4.69,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Surena Caledon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Geomancer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cow"] = {
+							["Details"] = {
+								["Whirlwind"] = {
+									["count"] = 0.85,
+								},
+							},
+							["amount"] = 0.85,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Damage"] = 435,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 19,
+					["RageGainedFrom"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Rage"] = {
+									["count"] = 9,
+								},
+								["Charge"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 29,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 19,
+					},
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 29,
+					["ElementDone"] = {
+						["Melee"] = 42,
+						["Physical"] = 60,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Whirlwind"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 4,
+								},
+								["Melee"] = {
+									["count"] = 42,
+								},
+								["Slam"] = {
+									["count"] = 24,
+								},
+								["Victory Rush"] = {
+									["count"] = 14,
+								},
+								["Whirlwind"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 102,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Whirlwind"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 19,
+								},
+							},
+							["amount"] = 19,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RageGained"] = {
+						["Rage"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Blackwarrior"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 5.949999999999999,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Frostbolt (Pummel)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Whirlwind"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0.14,
+								},
+								["Melee"] = {
+									["count"] = 0.3,
+								},
+								["Slam"] = {
+									["count"] = 2.1,
+								},
+								["Whirlwind"] = {
+									["count"] = 1.91,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 5.949999999999999,
+						},
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+						["Victory Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+						["Blackwarrior"] = {
+							["Details"] = {
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["CCBroken"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["Attacks"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 4,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 4,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 4,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 22,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 42,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 42,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 12,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 24,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 24,
+						},
+						["Victory Rush"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 14,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 14,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 14,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 18,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 18,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["TimeDamage"] = 5.949999999999999,
+					["TimeDamaging"] = {
+						["Young Forest Bear"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Whirlwind"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Gray Forest Wolf"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 0.14,
+								},
+								["Melee"] = {
+									["count"] = 0.3,
+								},
+								["Slam"] = {
+									["count"] = 2.1,
+								},
+								["Whirlwind"] = {
+									["count"] = 1.91,
+								},
+								["Victory Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 5.949999999999999,
+						},
+						["Stonetusk Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Tunneler"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kobold Miner"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Hamstring"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockhide Boar"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Murloc Forager"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Victory Rush"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rogue Wizard"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Damage"] = 102,
+					["DispelledWho"] = {
+					},
+				},
+			},
+			["Owner"] = false,
+			["LastEventTimes"] = {
+				2577.851, -- [1]
+				2578.971, -- [2]
+				2579.181, -- [3]
+				2579.381, -- [4]
+				2579.561, -- [5]
+				2579.681, -- [6]
+				2580.411, -- [7]
+				2584.65, -- [8]
+				2586.862, -- [9]
+				2587.142, -- [10]
+				2587.292, -- [11]
+				2588.566, -- [12]
+				2588.986, -- [13]
+				2589.656, -- [14]
+				2590.226, -- [15]
+				2590.626, -- [16]
+				2590.626, -- [17]
+				2591.366, -- [18]
+				2592.416, -- [19]
+				2593.146, -- [20]
+				2594.026, -- [21]
+				2594.136, -- [22]
+				2594.406, -- [23]
+				2595.656, -- [24]
+				2595.826, -- [25]
+				2595.826, -- [26]
+				2595.826, -- [27]
+				2597.506, -- [28]
+				2597.746, -- [29]
+				2598.596, -- [30]
+				2598.596, -- [31]
+				2598.726, -- [32]
+				2598.996, -- [33]
+				2599.226, -- [34]
+				2600.876, -- [35]
+				2601.846, -- [36]
+				2601.846, -- [37]
+				2602.646, -- [38]
+				2603.586, -- [39]
+				2666.322, -- [40]
+				2667.833, -- [41]
+				2669.346, -- [42]
+				2670.848, -- [43]
+				2672.382, -- [44]
+				2673.848, -- [45]
+				2675.382, -- [46]
+				2676.882, -- [47]
+				2576.091, -- [48]
+				2576.091, -- [49]
+				2577.461, -- [50]
+			},
+			["NextEventNum"] = 48,
+			["LastDamageTime"] = 2603.586,
+			["LastEvents"] = {
+				"Gray Forest Wolf Melee Blackwarrior Hit -7 (Physical)", -- [1]
+				"Blackwarrior Whirlwind Gray Forest Wolf Hit -6 (Physical)", -- [2]
+				"Blackwarrior Whirlwind Gray Forest Wolf Hit -6 (Physical)", -- [3]
+				"Blackwarrior Whirlwind Gray Forest Wolf Hit -6 (Physical)", -- [4]
+				"Gray Forest Wolf Melee Blackwarrior Hit -6 (Physical)", -- [5]
+				"Blackwarrior Melee Gray Forest Wolf Hit -20 (Physical)", -- [6]
+				"Blackwarrior Slam Gray Forest Wolf Hit -12 (Physical)", -- [7]
+				"Gray Forest Wolf Melee Blackwarrior Hit -6 (Physical)", -- [8]
+				"Gray Forest Wolf Melee Blackwarrior Hit -5 (Physical)", -- [9]
+				"Blackwarrior Melee Gray Forest Wolf Hit -30 (Physical)", -- [10]
+				"Blackwarrior Slam Gray Forest Wolf Hit -16 (Physical)", -- [11]
+				"Gray Forest Wolf Melee Blackwarrior Hit -5 (Physical)", -- [12]
+				"Gray Forest Wolf Melee Blackwarrior Hit -7 (Physical)", -- [13]
+				"Blackwarrior Slam Gray Forest Wolf Hit -16 (Physical)", -- [14]
+				"Gray Forest Wolf Melee Blackwarrior Hit -5 (Physical)", -- [15]
+				"Blackwarrior Melee Gray Forest Wolf Crit -57 (Physical)", -- [16]
+				"Gray Forest Wolf Melee Blackwarrior Hit -7 (Physical)", -- [17]
+				"Blackwarrior Slam Gray Forest Wolf Hit -16 (Physical)", -- [18]
+				"Gray Forest Wolf Melee Blackwarrior Hit -7 (Physical)", -- [19]
+				"Young Forest Bear Melee Blackwarrior Hit -11 (Physical)", -- [20]
+				"Gray Forest Wolf Melee Blackwarrior Hit -7 (Physical)", -- [21]
+				"Blackwarrior Melee Young Forest Bear Hit -36 (Physical)", -- [22]
+				"Blackwarrior Slam Young Forest Bear Crit -40 (Physical)", -- [23]
+				"Young Forest Bear Melee Blackwarrior Hit -8 (Physical)", -- [24]
+				"Gray Forest Wolf Melee Blackwarrior Hit -6 (Physical)", -- [25]
+				"Blackwarrior Victory Rush Blackwarrior Hit +48", -- [26]
+				"Blackwarrior Victory Rush Young Forest Bear Hit -23 (Physical)", -- [27]
+				"Gray Forest Wolf Melee Blackwarrior Hit -7 (Physical)", -- [28]
+				"Blackwarrior Melee Young Forest Bear Hit -37 (Physical)", -- [29]
+				"Blackwarrior Whirlwind Cow Hit -10 (Physical)", -- [30]
+				"Blackwarrior Whirlwind Gray Forest Wolf Hit -8 (Physical)", -- [31]
+				"Blackwarrior Whirlwind Gray Forest Wolf Hit -8 (Physical)", -- [32]
+				"Blackwarrior Whirlwind Gray Forest Wolf Hit -8 (Physical)", -- [33]
+				"Gray Forest Wolf Melee Blackwarrior Hit -7 (Physical)", -- [34]
+				"Gray Forest Wolf Melee Blackwarrior Hit -7 (Physical)", -- [35]
+				"Blackwarrior Melee Gray Forest Wolf Hit -27 (Physical)", -- [36]
+				"Blackwarrior Slam Gray Forest Wolf Hit -17 (Physical)", -- [37]
+				"Gray Forest Wolf Melee Blackwarrior Hit -8 (Physical)", -- [38]
+				"Blackwarrior Execute Gray Forest Wolf Hit -86 (Physical)", -- [39]
+				"Prowler Melee Blackwarrior Miss (1)", -- [40]
+				"Prowler Melee Blackwarrior Hit -6 (Physical)", -- [41]
+				"Prowler Melee Blackwarrior Hit -5 (Physical)", -- [42]
+				"Prowler Melee Blackwarrior Hit -4 (Physical)", -- [43]
+				"Prowler Melee Blackwarrior Hit -5 (Physical)", -- [44]
+				"Prowler Melee Blackwarrior Hit -6 (Physical)", -- [45]
+				"Prowler Melee Blackwarrior Hit -6 (Physical)", -- [46]
+				"Prowler Melee Blackwarrior Hit -6 (Physical)", -- [47]
+				"Blackwarrior Melee Gray Forest Wolf Hit -22 (Physical)", -- [48]
+				"Gray Forest Wolf Melee Blackwarrior Hit -6 (Physical)", -- [49]
+				"Blackwarrior Slam Gray Forest Wolf Hit -12 (Physical)", -- [50]
+			},
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				true, -- [5]
+				false, -- [6]
+				false, -- [7]
+				true, -- [8]
+				true, -- [9]
+				false, -- [10]
+				false, -- [11]
+				true, -- [12]
+				true, -- [13]
+				false, -- [14]
+				true, -- [15]
+				false, -- [16]
+				true, -- [17]
+				false, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				false, -- [22]
+				false, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				false, -- [27]
+				true, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				true, -- [34]
+				true, -- [35]
+				false, -- [36]
+				false, -- [37]
+				true, -- [38]
+				false, -- [39]
+				true, -- [40]
+				true, -- [41]
+				true, -- [42]
+				true, -- [43]
+				true, -- [44]
+				true, -- [45]
+				true, -- [46]
+				true, -- [47]
+				false, -- [48]
+				true, -- [49]
+				false, -- [50]
+			},
+			["Name"] = "Blackwarrior",
+			["LastDamageTaken"] = 6,
+			["LastEventHealth"] = {
+				400, -- [1]
+				393, -- [2]
+				393, -- [3]
+				393, -- [4]
+				393, -- [5]
+				387, -- [6]
+				387, -- [7]
+				480, -- [8]
+				474, -- [9]
+				469, -- [10]
+				469, -- [11]
+				469, -- [12]
+				464, -- [13]
+				457, -- [14]
+				457, -- [15]
+				452, -- [16]
+				452, -- [17]
+				445, -- [18]
+				445, -- [19]
+				438, -- [20]
+				427, -- [21]
+				420, -- [22]
+				420, -- [23]
+				420, -- [24]
+				412, -- [25]
+				460, -- [26]
+				454, -- [27]
+				454, -- [28]
+				447, -- [29]
+				447, -- [30]
+				447, -- [31]
+				447, -- [32]
+				447, -- [33]
+				447, -- [34]
+				440, -- [35]
+				433, -- [36]
+				433, -- [37]
+				433, -- [38]
+				425, -- [39]
+				480, -- [40]
+				480, -- [41]
+				474, -- [42]
+				469, -- [43]
+				465, -- [44]
+				460, -- [45]
+				454, -- [46]
+				448, -- [47]
+				406, -- [48]
+				406, -- [49]
+				400, -- [50]
+			},
+			["LastEventHealthMax"] = {
+				406, -- [1]
+				406, -- [2]
+				406, -- [3]
+				406, -- [4]
+				406, -- [5]
+				406, -- [6]
+				406, -- [7]
+				480, -- [8]
+				480, -- [9]
+				480, -- [10]
+				480, -- [11]
+				480, -- [12]
+				480, -- [13]
+				480, -- [14]
+				480, -- [15]
+				480, -- [16]
+				480, -- [17]
+				480, -- [18]
+				480, -- [19]
+				480, -- [20]
+				480, -- [21]
+				480, -- [22]
+				480, -- [23]
+				480, -- [24]
+				480, -- [25]
+				480, -- [26]
+				480, -- [27]
+				480, -- [28]
+				480, -- [29]
+				480, -- [30]
+				480, -- [31]
+				480, -- [32]
+				480, -- [33]
+				480, -- [34]
+				480, -- [35]
+				480, -- [36]
+				480, -- [37]
+				480, -- [38]
+				480, -- [39]
+				480, -- [40]
+				480, -- [41]
+				480, -- [42]
+				480, -- [43]
+				480, -- [44]
+				480, -- [45]
+				480, -- [46]
+				480, -- [47]
+				406, -- [48]
+				406, -- [49]
+				406, -- [50]
+			},
+			["LastActive"] = 2676.615,
+		},
+	},
+	["FightNum"] = 60,
+	["CombatTimes"] = {
+		{
+			1794.076, -- [1]
+			1799.08, -- [2]
+			"02:37:38", -- [3]
+			"02:37:43", -- [4]
+			"Kobold Tunneler", -- [5]
+		}, -- [1]
+		{
+			1804.08, -- [1]
+			1808.081, -- [2]
+			"02:37:48", -- [3]
+			"02:37:52", -- [4]
+			"Kobold Tunneler", -- [5]
+		}, -- [2]
+		{
+			1849.077, -- [1]
+			1857.077, -- [2]
+			"02:38:33", -- [3]
+			"02:38:41", -- [4]
+			"Kobold Miner", -- [5]
+		}, -- [3]
+		{
+			1863.077, -- [1]
+			1881.076, -- [2]
+			"02:38:47", -- [3]
+			"02:39:05", -- [4]
+			"Kobold Tunneler", -- [5]
+		}, -- [4]
+		{
+			1895.077, -- [1]
+			1899.077, -- [2]
+			"02:39:19", -- [3]
+			"02:39:23", -- [4]
+			"Kobold Tunneler", -- [5]
+		}, -- [5]
+		{
+			1903.077, -- [1]
+			1907.082, -- [2]
+			"02:39:28", -- [3]
+			"02:39:31", -- [4]
+			"Kobold Tunneler", -- [5]
+		}, -- [6]
+		{
+			1929.079, -- [1]
+			1941.077, -- [2]
+			"02:39:53", -- [3]
+			"02:40:05", -- [4]
+			"Kobold Miner", -- [5]
+		}, -- [7]
+		{
+			1946.077, -- [1]
+			1950.077, -- [2]
+			"02:40:10", -- [3]
+			"02:40:14", -- [4]
+			"Kobold Miner", -- [5]
+		}, -- [8]
+		{
+			1980.077, -- [1]
+			1989.075, -- [2]
+			"02:40:44", -- [3]
+			"02:40:53", -- [4]
+			"Kobold Tunneler", -- [5]
+		}, -- [9]
+		{
+			1994.075, -- [1]
+			2000.08, -- [2]
+			"02:40:58", -- [3]
+			"02:41:04", -- [4]
+			"Kobold Tunneler", -- [5]
+		}, -- [10]
+		{
+			2207.077, -- [1]
+			2220.076, -- [2]
+			"02:44:31", -- [3]
+			"02:44:44", -- [4]
+			"James Clark", -- [5]
+		}, -- [11]
+		{
+			2327.075, -- [1]
+			2332.08, -- [2]
+			"02:46:31", -- [3]
+			"02:46:36", -- [4]
+			"Murloc Lurker", -- [5]
+		}, -- [12]
+		{
+			2334.081, -- [1]
+			2343.078, -- [2]
+			"02:46:38", -- [3]
+			"02:46:47", -- [4]
+			"Murloc Lurker", -- [5]
+		}, -- [13]
+		{
+			2345.081, -- [1]
+			2349.083, -- [2]
+			"02:46:49", -- [3]
+			"02:46:53", -- [4]
+			"Murloc Forager", -- [5]
+		}, -- [14]
+		{
+			2380.08, -- [1]
+			2406.079, -- [2]
+			"02:47:24", -- [3]
+			"02:47:50", -- [4]
+			"Murloc Lurker", -- [5]
+		}, -- [15]
+		{
+			2412.077, -- [1]
+			2417.074, -- [2]
+			"02:47:56", -- [3]
+			"02:48:01", -- [4]
+			"Murloc Forager", -- [5]
+		}, -- [16]
+		{
+			2418.077, -- [1]
+			2424.075, -- [2]
+			"02:48:03", -- [3]
+			"02:48:08", -- [4]
+			"Murloc Lurker", -- [5]
+		}, -- [17]
+		{
+			2429.082, -- [1]
+			2435.084, -- [2]
+			"02:48:13", -- [3]
+			"02:48:19", -- [4]
+			"Murloc Lurker", -- [5]
+		}, -- [18]
+		{
+			2446.08, -- [1]
+			2452.078, -- [2]
+			"02:48:30", -- [3]
+			"02:48:36", -- [4]
+			"Murloc Lurker", -- [5]
+		}, -- [19]
+		{
+			2459.078, -- [1]
+			2464.078, -- [2]
+			"02:48:43", -- [3]
+			"02:48:48", -- [4]
+			"Murloc Lurker", -- [5]
+		}, -- [20]
+		{
+			2493.082, -- [1]
+			2498.08, -- [2]
+			"02:49:17", -- [3]
+			"02:49:22", -- [4]
+			"Murloc Forager", -- [5]
+		}, -- [21]
+		{
+			451.01, -- [1]
+			459.009, -- [2]
+			"02:30:47", -- [3]
+			"02:30:54", -- [4]
+			"Rogue Wizard", -- [5]
+		}, -- [22]
+		{
+			465.011, -- [1]
+			471.011, -- [2]
+			"02:31:01", -- [3]
+			"02:31:07", -- [4]
+			"Rogue Wizard", -- [5]
+		}, -- [23]
+		{
+			496.011, -- [1]
+			504.012, -- [2]
+			"02:31:32", -- [3]
+			"02:31:40", -- [4]
+			"Murloc Forager", -- [5]
+		}, -- [24]
+		{
+			511.006, -- [1]
+			520.004, -- [2]
+			"02:31:47", -- [3]
+			"02:31:55", -- [4]
+			"Murloc Lurker", -- [5]
+		}, -- [25]
+		{
+			579.004, -- [1]
+			597.013, -- [2]
+			"02:32:55", -- [3]
+			"02:33:13", -- [4]
+			"Young Forest Bear", -- [5]
+		}, -- [26]
+		{
+			707.469, -- [1]
+			714.47, -- [2]
+			"02:35:04", -- [3]
+			"02:35:10", -- [4]
+			"Murloc Lurker", -- [5]
+		}, -- [27]
+		{
+			757.47, -- [1]
+			766.474, -- [2]
+			"02:35:54", -- [3]
+			"02:36:02", -- [4]
+			"Young Forest Bear", -- [5]
+		}, -- [28]
+		{
+			1336.594, -- [1]
+			1369.6, -- [2]
+			"02:45:33", -- [3]
+			"02:46:05", -- [4]
+			"Morgan the Collector", -- [5]
+		}, -- [29]
+		{
+			1388.624, -- [1]
+			1400.624, -- [2]
+			"02:46:24", -- [3]
+			"02:46:36", -- [4]
+			"Bandit", -- [5]
+		}, -- [30]
+		{
+			1453.597, -- [1]
+			1470.597, -- [2]
+			"02:47:29", -- [3]
+			"02:47:46", -- [4]
+			"Tarantis", -- [5]
+		}, -- [31]
+		{
+			1484.597, -- [1]
+			1489.599, -- [2]
+			"02:48:00", -- [3]
+			"02:48:05", -- [4]
+			"Young Forest Bear", -- [5]
+		}, -- [32]
+		{
+			1503.597, -- [1]
+			1511.592, -- [2]
+			"02:48:19", -- [3]
+			"02:48:27", -- [4]
+			"Young Forest Bear", -- [5]
+		}, -- [33]
+		{
+			1572.597, -- [1]
+			1596.593, -- [2]
+			"02:49:29", -- [3]
+			"02:49:52", -- [4]
+			"Kobold Miner", -- [5]
+		}, -- [34]
+		{
+			1602.593, -- [1]
+			1613.593, -- [2]
+			"02:49:59", -- [3]
+			"02:50:09", -- [4]
+			"Kobold Miner", -- [5]
+		}, -- [35]
+		{
+			1623.598, -- [1]
+			1636.598, -- [2]
+			"02:50:19", -- [3]
+			"02:50:32", -- [4]
+			"Mine Spider", -- [5]
+		}, -- [36]
+		{
+			1641.598, -- [1]
+			1646.598, -- [2]
+			"02:50:38", -- [3]
+			"02:50:42", -- [4]
+			"Mine Spider", -- [5]
+		}, -- [37]
+		{
+			1728.593, -- [1]
+			1734.593, -- [2]
+			"02:52:05", -- [3]
+			"02:52:10", -- [4]
+			"Bandit", -- [5]
+		}, -- [38]
+		{
+			1738.598, -- [1]
+			1744.599, -- [2]
+			"02:52:15", -- [3]
+			"02:52:20", -- [4]
+			"Young Forest Bear", -- [5]
+		}, -- [39]
+		{
+			1751.599, -- [1]
+			1759.593, -- [2]
+			"02:52:28", -- [3]
+			"02:52:35", -- [4]
+			"Rockhide Boar", -- [5]
+		}, -- [40]
+		{
+			1794.597, -- [1]
+			1800.598, -- [2]
+			"02:53:11", -- [3]
+			"02:53:16", -- [4]
+			"Stonetusk Boar", -- [5]
+		}, -- [41]
+		{
+			1802.598, -- [1]
+			1808.592, -- [2]
+			"02:53:18", -- [3]
+			"02:53:24", -- [4]
+			"Stonetusk Boar", -- [5]
+		}, -- [42]
+		{
+			1809.592, -- [1]
+			1814.592, -- [2]
+			"02:53:25", -- [3]
+			"02:53:30", -- [4]
+			"Stonetusk Boar", -- [5]
+		}, -- [43]
+		{
+			1815.592, -- [1]
+			1820.598, -- [2]
+			"02:53:32", -- [3]
+			"02:53:36", -- [4]
+			"Stonetusk Boar", -- [5]
+		}, -- [44]
+		{
+			1825.597, -- [1]
+			1830.597, -- [2]
+			"02:53:42", -- [3]
+			"02:53:46", -- [4]
+			"Stonetusk Boar", -- [5]
+		}, -- [45]
+		{
+			1845.594, -- [1]
+			1850.594, -- [2]
+			"02:54:01", -- [3]
+			"02:54:06", -- [4]
+			"Stonetusk Boar", -- [5]
+		}, -- [46]
+		{
+			1915.597, -- [1]
+			1923.594, -- [2]
+			"02:55:12", -- [3]
+			"02:55:19", -- [4]
+			"Young Forest Bear", -- [5]
+		}, -- [47]
+		{
+			1937.595, -- [1]
+			1942.601, -- [2]
+			"02:55:34", -- [3]
+			"02:55:38", -- [4]
+			"Stonetusk Boar", -- [5]
+		}, -- [48]
+		{
+			1993.595, -- [1]
+			2008.597, -- [2]
+			"02:56:30", -- [3]
+			"02:56:44", -- [4]
+			"Princess", -- [5]
+		}, -- [49]
+		{
+			2043.597, -- [1]
+			2059.592, -- [2]
+			"02:57:19", -- [3]
+			"02:57:35", -- [4]
+			"Princess", -- [5]
+		}, -- [50]
+		{
+			2144.601, -- [1]
+			2152.593, -- [2]
+			"02:59:00", -- [3]
+			"02:59:08", -- [4]
+			"Rockhide Boar", -- [5]
+		}, -- [51]
+		{
+			2155.595, -- [1]
+			2163.596, -- [2]
+			"02:59:11", -- [3]
+			"02:59:19", -- [4]
+			"Rockhide Boar", -- [5]
+		}, -- [52]
+		{
+			2171.599, -- [1]
+			2177.593, -- [2]
+			"02:59:28", -- [3]
+			"02:59:33", -- [4]
+			"Rockhide Boar", -- [5]
+		}, -- [53]
+		{
+			2179.593, -- [1]
+			2185.593, -- [2]
+			"02:59:36", -- [3]
+			"02:59:41", -- [4]
+			"Rockhide Boar", -- [5]
+		}, -- [54]
+		{
+			2536.594, -- [1]
+			2543.594, -- [2]
+			"03:05:32", -- [3]
+			"03:05:39", -- [4]
+			"Young Forest Bear", -- [5]
+		}, -- [55]
+		{
+			2544.592, -- [1]
+			2554.596, -- [2]
+			"03:05:40", -- [3]
+			"03:05:50", -- [4]
+			"Gray Forest Wolf", -- [5]
+		}, -- [56]
+		{
+			2557.597, -- [1]
+			2568.598, -- [2]
+			"03:05:53", -- [3]
+			"03:06:04", -- [4]
+			"Young Forest Bear", -- [5]
+		}, -- [57]
+		{
+			2575.601, -- [1]
+			2581.596, -- [2]
+			"03:06:11", -- [3]
+			"03:06:17", -- [4]
+			"Gray Forest Wolf", -- [5]
+		}, -- [58]
+		{
+			2584.6, -- [1]
+			2605.596, -- [2]
+			"03:06:20", -- [3]
+			"03:06:41", -- [4]
+			"Gray Forest Wolf", -- [5]
+		}, -- [59]
+		{
+			2665.6, -- [1]
+			2680.598, -- [2]
+			"03:07:42", -- [3]
+			"03:07:56", -- [4]
+			"Prowler", -- [5]
+		}, -- [60]
+	},
+	["FoughtWho"] = {
+		"Prowler 03:07:42-03:07:56", -- [1]
+		"Gray Forest Wolf 03:06:20-03:06:41", -- [2]
+		"Gray Forest Wolf 03:06:11-03:06:17", -- [3]
+		"Young Forest Bear 03:05:53-03:06:04", -- [4]
+		"Gray Forest Wolf 03:05:40-03:05:50", -- [5]
+	},
+}

@@ -1,0 +1,6161 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Scyless"] = {
+			["GUID"] = "Player-3725-0BDD1BA1",
+			["LastEventHealth"] = {
+				1598, -- [1]
+				1609, -- [2]
+				1778, -- [3]
+				1778, -- [4]
+				1778, -- [5]
+				1778, -- [6]
+				1778, -- [7]
+				1778, -- [8]
+				1778, -- [9]
+				1778, -- [10]
+				1778, -- [11]
+				1778, -- [12]
+				1596, -- [13]
+				1596, -- [14]
+				1596, -- [15]
+				1516, -- [16]
+				1516, -- [17]
+				1432, -- [18]
+				1432, -- [19]
+				1432, -- [20]
+				1424, -- [21]
+				1424, -- [22]
+				1415, -- [23]
+				1415, -- [24]
+				1415, -- [25]
+				1408, -- [26]
+				1408, -- [27]
+				1400, -- [28]
+				1400, -- [29]
+				1393, -- [30]
+				1393, -- [31]
+				1383, -- [32]
+				1383, -- [33]
+				1383, -- [34]
+				1383, -- [35]
+				1383, -- [36]
+				1399, -- [37]
+				1415, -- [38]
+				1432, -- [39]
+				1448, -- [40]
+				1464, -- [41]
+				1480, -- [42]
+				1497, -- [43]
+				1497, -- [44]
+				1684, -- [45]
+				623, -- [46]
+				995, -- [47]
+				1266, -- [48]
+				1277, -- [49]
+				1306, -- [50]
+			},
+			["LastAttackedBy"] = "Environment",
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"HEAL", -- [7]
+				"HEAL", -- [8]
+				"HEAL", -- [9]
+				"HEAL", -- [10]
+				"HEAL", -- [11]
+				"HEAL", -- [12]
+				"DAMAGE", -- [13]
+				"HEAL", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"HEAL", -- [17]
+				"DAMAGE", -- [18]
+				"HEAL", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"HEAL", -- [24]
+				"HEAL", -- [25]
+				"DAMAGE", -- [26]
+				"HEAL", -- [27]
+				"DAMAGE", -- [28]
+				"HEAL", -- [29]
+				"DAMAGE", -- [30]
+				"HEAL", -- [31]
+				"DAMAGE", -- [32]
+				"HEAL", -- [33]
+				"HEAL", -- [34]
+				"HEAL", -- [35]
+				"HEAL", -- [36]
+				"HEAL", -- [37]
+				"HEAL", -- [38]
+				"HEAL", -- [39]
+				"HEAL", -- [40]
+				"HEAL", -- [41]
+				"HEAL", -- [42]
+				"HEAL", -- [43]
+				"HEAL", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"HEAL", -- [47]
+				"HEAL", -- [48]
+				"HEAL", -- [49]
+				"HEAL", -- [50]
+			},
+			["TimeWindows"] = {
+				["AstralPowerGain"] = {
+					18, -- [1]
+				},
+				["TimeHeal"] = {
+					21.04, -- [1]
+				},
+				["Healing"] = {
+					1580, -- [1]
+				},
+				["DamageTaken"] = {
+					1663, -- [1]
+				},
+				["HOT_Time"] = {
+					39, -- [1]
+				},
+				["ActiveTime"] = {
+					35.77999999999999, -- [1]
+				},
+				["TimeDamage"] = {
+					14.74, -- [1]
+				},
+				["DOT_Time"] = {
+					27, -- [1]
+				},
+				["Damage"] = {
+					482, -- [1]
+				},
+			},
+			["enClass"] = "DRUID",
+			["unit"] = true,
+			["level"] = 26,
+			["LastDamageAbility"] = "Falling",
+			["LastFightIn"] = 11,
+			["LastHealTime"] = 855.2,
+			["type"] = "Grouped",
+			["FightsSaved"] = 5,
+			["LastEventHealthMax"] = {
+				1778, -- [1]
+				1778, -- [2]
+				1778, -- [3]
+				1778, -- [4]
+				1778, -- [5]
+				1778, -- [6]
+				1778, -- [7]
+				1778, -- [8]
+				1778, -- [9]
+				1778, -- [10]
+				1778, -- [11]
+				1778, -- [12]
+				1596, -- [13]
+				1596, -- [14]
+				1596, -- [15]
+				1596, -- [16]
+				1596, -- [17]
+				1596, -- [18]
+				1596, -- [19]
+				1596, -- [20]
+				1596, -- [21]
+				1596, -- [22]
+				1596, -- [23]
+				1596, -- [24]
+				1596, -- [25]
+				1596, -- [26]
+				1596, -- [27]
+				1596, -- [28]
+				1596, -- [29]
+				1596, -- [30]
+				1596, -- [31]
+				1596, -- [32]
+				1596, -- [33]
+				1596, -- [34]
+				1596, -- [35]
+				1596, -- [36]
+				1596, -- [37]
+				1596, -- [38]
+				1596, -- [39]
+				1596, -- [40]
+				1596, -- [41]
+				1596, -- [42]
+				1596, -- [43]
+				1596, -- [44]
+				1778, -- [45]
+				1778, -- [46]
+				1778, -- [47]
+				1778, -- [48]
+				1778, -- [49]
+				1778, -- [50]
+			},
+			["LastDamageTaken"] = 1155,
+			["Owner"] = false,
+			["TimeLast"] = {
+				["AstralPowerGain"] = 820.338,
+				["TimeHeal"] = 854.345,
+				["OVERALL"] = 4302.711,
+				["DamageTaken"] = 4302.711,
+				["HOT_Time"] = 854.345,
+				["TimeDamage"] = 830.344,
+				["Healing"] = 854.345,
+				["ActiveTime"] = 854.345,
+				["DOT_Time"] = 830.344,
+				["Damage"] = 830.344,
+			},
+			["NextEventNum"] = 13,
+			["LastDamageTime"] = 830.86,
+			["LastEvents"] = {
+				"Scyless Regrowth Scyless Hit +331", -- [1]
+				"Scyless Regrowth Scyless Tick +13", -- [2]
+				"Scyless Regrowth Scyless Hit +321 (139 Overheal)", -- [3]
+				"Scyless Regrowth Scyless Tick +13 (13 Overheal)", -- [4]
+				"Scyless Regrowth Scyless Tick +13 (13 Overheal)", -- [5]
+				"Scyless Regrowth Scyless Tick +13 (13 Overheal)", -- [6]
+				"Scyless Regrowth Scyless Tick +13 (13 Overheal)", -- [7]
+				"Scyless Regrowth Scyless Tick +13 (13 Overheal)", -- [8]
+				"Scyless Regrowth Scyless Tick +13 (13 Overheal)", -- [9]
+				"Scyless Regrowth Scyless Tick +14 (14 Overheal)", -- [10]
+				"Scyless Regrowth Scyless Tick +13 (13 Overheal)", -- [11]
+				"Scyless Regrowth Scyless Tick +7 (7 Overheal)", -- [12]
+				"Scyless Moonfire (DoT) Forsaken Bonechewer Crit -40 (Arcane)", -- [13]
+				"Scyless Regrowth Carbhead Tick +12", -- [14]
+				"Forsaken Bonechewer Melee Scyless Hit -93 (Physical)", -- [15]
+				"Scyless Moonfire (DoT) Forsaken Bonechewer Tick -20 (Arcane)", -- [16]
+				"Scyless Regrowth Carbhead Hit +280", -- [17]
+				"Forsaken Bonechewer Molten Jaws Scyless Hit -98 (Fire)", -- [18]
+				"Scyless Regrowth Carbhead Tick +11", -- [19]
+				"Scyless Moonfire (DoT) Forsaken Bonechewer Tick -20 (Arcane)", -- [20]
+				"Forsaken Bonechewer Molten Jaws (DoT) Scyless Tick -9 (Fire)", -- [21]
+				"Scyless Moonfire (DoT) Forsaken Bonechewer Tick -6 (Arcane)", -- [22]
+				"Forsaken Bonechewer Molten Jaws (DoT) Scyless Tick -10 (Fire)", -- [23]
+				"Scyless Regrowth Carbhead Tick +11", -- [24]
+				"Scyless Regrowth Carbhead Hit +281", -- [25]
+				"Forsaken Bonechewer Molten Jaws (DoT) Scyless Tick -8 (Fire)", -- [26]
+				"Scyless Regrowth Carbhead Tick +11", -- [27]
+				"Forsaken Bonechewer Molten Jaws (DoT) Scyless Tick -9 (Fire)", -- [28]
+				"Scyless Regrowth Carbhead Hit +275", -- [29]
+				"Forsaken Bonechewer Molten Jaws (DoT) Scyless Tick -8 (Fire)", -- [30]
+				"Scyless Regrowth Carbhead Tick +12", -- [31]
+				"Forsaken Bonechewer Molten Jaws (DoT) Scyless Tick -11 (Fire)", -- [32]
+				"Scyless Regrowth Carbhead Tick +11", -- [33]
+				"Scyless Regrowth Carbhead Tick +13", -- [34]
+				"Scyless Regrowth Carbhead Hit +321", -- [35]
+				"Scyless Regrowth Carbhead Tick +13", -- [36]
+				"Scyless Regrowth Carbhead Crit +26", -- [37]
+				"Scyless Regrowth Carbhead Tick +13", -- [38]
+				"Scyless Regrowth Carbhead Tick +13", -- [39]
+				"Scyless Regrowth Carbhead Tick +11", -- [40]
+				"Scyless Regrowth Carbhead Tick +11", -- [41]
+				"Scyless Regrowth Carbhead Crit +23", -- [42]
+				"Scyless Regrowth Carbhead Tick +11", -- [43]
+				"Scyless Regrowth Carbhead Tick +3", -- [44]
+				"Environment Falling Scyless Hit -94 (Physical)", -- [45]
+				"Environment Falling Scyless Hit -1155 (Physical)", -- [46]
+				"Scyless Regrowth Scyless Hit +319", -- [47]
+				"Scyless Regrowth Scyless Hit +327", -- [48]
+				"Scyless Regrowth Scyless Tick +13", -- [49]
+				"Scyless Regrowth Scyless Tick +13", -- [50]
+			},
+			["Name"] = "Scyless",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				false, -- [13]
+				false, -- [14]
+				true, -- [15]
+				false, -- [16]
+				false, -- [17]
+				true, -- [18]
+				false, -- [19]
+				false, -- [20]
+				true, -- [21]
+				false, -- [22]
+				true, -- [23]
+				false, -- [24]
+				false, -- [25]
+				true, -- [26]
+				false, -- [27]
+				true, -- [28]
+				false, -- [29]
+				true, -- [30]
+				false, -- [31]
+				true, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				false, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+				true, -- [45]
+				true, -- [46]
+				true, -- [47]
+				true, -- [48]
+				true, -- [49]
+				true, -- [50]
+			},
+			["LastEventTimes"] = {
+				4318.211, -- [1]
+				4319.555, -- [2]
+				4320.235, -- [3]
+				4321.481, -- [4]
+				4323.404, -- [5]
+				4325.304, -- [6]
+				4327.225, -- [7]
+				4329.135, -- [8]
+				4331.049, -- [9]
+				4332.954, -- [10]
+				4334.869, -- [11]
+				4335.881, -- [12]
+				826.404, -- [13]
+				827.7280000000001, -- [14]
+				828.032, -- [15]
+				828.443, -- [16]
+				829.077, -- [17]
+				829.4780000000001, -- [18]
+				829.666, -- [19]
+				830.3340000000001, -- [20]
+				830.456, -- [21]
+				830.86, -- [22]
+				831.538, -- [23]
+				831.538, -- [24]
+				831.6940000000001, -- [25]
+				832.4780000000001, -- [26]
+				833.494, -- [27]
+				833.494, -- [28]
+				833.644, -- [29]
+				834.585, -- [30]
+				835.392, -- [31]
+				835.538, -- [32]
+				837.44, -- [33]
+				839.4200000000001, -- [34]
+				839.642, -- [35]
+				841.129, -- [36]
+				843.025, -- [37]
+				845.038, -- [38]
+				846.961, -- [39]
+				848.878, -- [40]
+				850.705, -- [41]
+				852.686, -- [42]
+				854.616, -- [43]
+				855.2, -- [44]
+				1895.37, -- [45]
+				4302.821, -- [46]
+				4313.757000000001, -- [47]
+				4315.76, -- [48]
+				4315.76, -- [49]
+				4317.675, -- [50]
+			},
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Carbhead"] = {
+							["Details"] = {
+								["Regrowth"] = {
+									["count"] = 21.04,
+								},
+							},
+							["amount"] = 21.04,
+						},
+					},
+					["DOTs"] = {
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Forsaken Bonechewer"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 27,
+						},
+					},
+					["TimeSpent"] = {
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Starfire"] = {
+									["count"] = 0.94,
+								},
+								["Moonfire"] = {
+									["count"] = 1.5,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 12.3,
+								},
+							},
+							["amount"] = 14.74,
+						},
+						["Carbhead"] = {
+							["Details"] = {
+								["Regrowth"] = {
+									["count"] = 21.04,
+								},
+							},
+							["amount"] = 21.04,
+						},
+					},
+					["DamageTaken"] = 1663,
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 35.77999999999999,
+					["HOTs"] = {
+						["Regrowth"] = {
+							["Details"] = {
+								["Carbhead"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 39,
+						},
+					},
+					["ElementTaken"] = {
+						["Physical"] = 1417,
+						["Melee"] = 93,
+						["Fire"] = 153,
+					},
+					["DOT_Time"] = 27,
+					["Damage"] = 482,
+					["AstralPowerGain"] = 18,
+					["TimeHeal"] = 21.04,
+					["HOT_Time"] = 39,
+					["AstralPowerGainedFrom"] = {
+						["Scyless"] = {
+							["Details"] = {
+								["Moonfire"] = {
+									["count"] = 2,
+								},
+								["Starfire"] = {
+									["count"] = 16,
+								},
+							},
+							["amount"] = 18,
+						},
+					},
+					["HealedWho"] = {
+						["Carbhead"] = {
+							["Details"] = {
+								["Regrowth"] = {
+									["count"] = 1580,
+								},
+							},
+							["amount"] = 1580,
+						},
+					},
+					["Healing"] = 1580,
+					["Heals"] = {
+						["Regrowth"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 13,
+									["min"] = 3,
+									["count"] = 12,
+									["amount"] = 130,
+								},
+								["Crit"] = {
+									["max"] = 23,
+									["min"] = 23,
+									["count"] = 1,
+									["amount"] = 23,
+								},
+								["Hit"] = {
+									["max"] = 321,
+									["min"] = 270,
+									["count"] = 5,
+									["amount"] = 1427,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 1580,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 7,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["Attacks"] = {
+						["Starfire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 93,
+									["min"] = 29,
+									["count"] = 4,
+									["amount"] = 246,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 246,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 21,
+									["min"] = 21,
+									["count"] = 1,
+									["amount"] = 21,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 21,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 41,
+									["min"] = 40,
+									["count"] = 2,
+									["amount"] = 81,
+								},
+								["Tick"] = {
+									["max"] = 23,
+									["min"] = 6,
+									["count"] = 7,
+									["amount"] = 134,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 215,
+						},
+					},
+					["ElementDone"] = {
+						["Arcane"] = 482,
+					},
+					["DamagedWho"] = {
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Starfire"] = {
+									["count"] = 246,
+								},
+								["Moonfire"] = {
+									["count"] = 21,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 215,
+								},
+							},
+							["amount"] = 482,
+						},
+					},
+					["AstralPowerGained"] = {
+						["Moonfire"] = {
+							["Details"] = {
+								["Scyless"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Starfire"] = {
+							["Details"] = {
+								["Scyless"] = {
+									["count"] = 16,
+								},
+							},
+							["amount"] = 16,
+						},
+					},
+					["WhoDamaged"] = {
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Molten Jaws"] = {
+									["count"] = 98,
+								},
+								["Melee"] = {
+									["count"] = 93,
+								},
+								["Molten Jaws (DoT)"] = {
+									["count"] = 55,
+								},
+							},
+							["amount"] = 246,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 1417,
+								},
+							},
+							["amount"] = 1417,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 6,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["TimeDamaging"] = {
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Starfire"] = {
+									["count"] = 0.94,
+								},
+								["Moonfire"] = {
+									["count"] = 1.5,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 12.3,
+								},
+							},
+							["amount"] = 14.74,
+						},
+					},
+					["TimeDamage"] = 14.74,
+				},
+			},
+			["UnitLockout"] = 4302.711,
+			["LastActive"] = 4335.719,
+		},
+		["Carbhead"] = {
+			["GUID"] = "Player-3725-0BD69831",
+			["LastEventHealth"] = {
+				2156, -- [1]
+				2145, -- [2]
+				2145, -- [3]
+				2145, -- [4]
+				2145, -- [5]
+				2057, -- [6]
+				2057, -- [7]
+				2057, -- [8]
+				2048, -- [9]
+				2048, -- [10]
+				2048, -- [11]
+				1938, -- [12]
+				1938, -- [13]
+				1929, -- [14]
+				1929, -- [15]
+				1929, -- [16]
+				1820, -- [17]
+				1820, -- [18]
+				1820, -- [19]
+				1820, -- [20]
+				1820, -- [21]
+				1820, -- [22]
+				1733, -- [23]
+				1733, -- [24]
+				1733, -- [25]
+				2768, -- [26]
+				2768, -- [27]
+				2768, -- [28]
+				2622, -- [29]
+				2736, -- [30]
+				2768, -- [31]
+				2673, -- [32]
+				2673, -- [33]
+				2673, -- [34]
+				2596, -- [35]
+				2596, -- [36]
+				2596, -- [37]
+				2596, -- [38]
+				2596, -- [39]
+				2463, -- [40]
+				2463, -- [41]
+				2463, -- [42]
+				2463, -- [43]
+				2371, -- [44]
+				2371, -- [45]
+				2262, -- [46]
+				2262, -- [47]
+				2262, -- [48]
+				2166, -- [49]
+				2156, -- [50]
+			},
+			["LastAttackedBy"] = "Environment",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"HEAL", -- [26]
+				"DAMAGE", -- [27]
+				"HEAL", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					1.5, -- [1]
+				},
+				["Healing"] = {
+					118, -- [1]
+				},
+				["DamageTaken"] = {
+					8335, -- [1]
+				},
+				["Overhealing"] = {
+					297, -- [1]
+				},
+				["HealingTaken"] = {
+					3789, -- [1]
+				},
+				["HOT_Time"] = {
+					3, -- [1]
+				},
+				["TimeDamage"] = {
+					295.0600000000002, -- [1]
+				},
+				["Interrupts"] = {
+					2, -- [1]
+				},
+				["ActiveTime"] = {
+					296.5600000000002, -- [1]
+				},
+				["DOT_Time"] = {
+					837, -- [1]
+				},
+				["Damage"] = {
+					30283, -- [1]
+				},
+			},
+			["enClass"] = "MAGE",
+			["unit"] = "Carbhead",
+			["TimeLast"] = {
+				["TimeHeal"] = 1277.34,
+				["OVERALL"] = 1894.71,
+				["DamageTaken"] = 1894.71,
+				["Overhealing"] = 1277.34,
+				["Healing"] = 1277.34,
+				["HealingTaken"] = 1277.34,
+				["HOT_Time"] = 1277.34,
+				["TimeDamage"] = 1264.341,
+				["Interrupts"] = 1079.337,
+				["ActiveTime"] = 1277.34,
+				["DOT_Time"] = 1264.341,
+				["Damage"] = 1264.341,
+			},
+			["LastEventHealthMax"] = {
+				2768, -- [1]
+				2768, -- [2]
+				2768, -- [3]
+				2768, -- [4]
+				2768, -- [5]
+				2768, -- [6]
+				2768, -- [7]
+				2768, -- [8]
+				2768, -- [9]
+				2768, -- [10]
+				2768, -- [11]
+				2768, -- [12]
+				2768, -- [13]
+				2768, -- [14]
+				2768, -- [15]
+				2768, -- [16]
+				2768, -- [17]
+				2768, -- [18]
+				2768, -- [19]
+				2768, -- [20]
+				2768, -- [21]
+				2768, -- [22]
+				2768, -- [23]
+				2768, -- [24]
+				2768, -- [25]
+				2768, -- [26]
+				2768, -- [27]
+				2768, -- [28]
+				2768, -- [29]
+				2736, -- [30]
+				2768, -- [31]
+				2768, -- [32]
+				2768, -- [33]
+				2768, -- [34]
+				2768, -- [35]
+				2768, -- [36]
+				2768, -- [37]
+				2768, -- [38]
+				2768, -- [39]
+				2768, -- [40]
+				2768, -- [41]
+				2768, -- [42]
+				2768, -- [43]
+				2768, -- [44]
+				2768, -- [45]
+				2768, -- [46]
+				2768, -- [47]
+				2768, -- [48]
+				2768, -- [49]
+				2768, -- [50]
+			},
+			["level"] = 28,
+			["LastDamageAbility"] = "Falling",
+			["LastFightIn"] = 11,
+			["LastHealTime"] = 1278.26,
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["GuardianReverseGUIDs"] = {
+				["Carousel Gryphon"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "Vehicle-0-3933-974-20400-68232-000021567A",
+					},
+				},
+			},
+			["LastDamageTaken"] = 146,
+			["Owner"] = false,
+			["Pet"] = {
+				"Carousel Gryphon <Carbhead>", -- [1]
+			},
+			["NextEventNum"] = 30,
+			["LastDamageTime"] = 1265.263,
+			["LastEvents"] = {
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -4 (Fire)", -- [1]
+				"Forsaken Bonechewer Molten Jaws (DoT) Carbhead Tick -11 (Fire)", -- [2]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -4 (Fire)", -- [3]
+				"Carbhead Scorch Forsaken Bonechewer Hit -36 (Fire)", -- [4]
+				"Forsaken Bonechewer Melee Carbhead Hit -77 (Physical)", -- [5]
+				"Forsaken Bonechewer Molten Jaws (DoT) Carbhead Tick -11 (Fire)", -- [6]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -4 (Fire)", -- [7]
+				"Carbhead Scorch Forsaken Bonechewer Crit -74 (Fire)", -- [8]
+				"Forsaken Bonechewer Molten Jaws (DoT) Carbhead Tick -9 (Fire)", -- [9]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -5 (Fire)", -- [10]
+				"Forsaken Bonechewer Melee Carbhead Hit -101 (Physical)", -- [11]
+				"Forsaken Bonechewer Molten Jaws (DoT) Carbhead Tick -9 (Fire)", -- [12]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -5 (Fire)", -- [13]
+				"Forsaken Bonechewer Molten Jaws (DoT) Carbhead Tick -9 (Fire)", -- [14]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -5 (Fire)", -- [15]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -5 (Fire)", -- [16]
+				"Forsaken Bonechewer Rip Carbhead Hit -109 (Physical)", -- [17]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -5 (Fire)", -- [18]
+				"Carbhead Melee Forsaken Bonechewer Hit -8 (Physical)", -- [19]
+				"Carbhead Fire Blast Forsaken Bonechewer Crit -318 (Fire)", -- [20]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -5 (Fire)", -- [21]
+				"Forsaken Bonechewer Melee Carbhead Hit -87 (Physical)", -- [22]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -5 (Fire)", -- [23]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -5 (Fire)", -- [24]
+				"Carbhead Pyroblast Forsaken Bonechewer Hit -304 (Fire)", -- [25]
+				"Carbhead Mirjam's Marvelous Tonic Carbhead Hit +830 (75 Overheal)", -- [26]
+				"Rampaging Gatecrasher Melee Carbhead Hit -118 (Physical)", -- [27]
+				"Carbhead Mirjam's Marvelous Tonic Carbhead Tick +415 (297 Overheal)", -- [28]
+				"Environment Falling Carbhead Hit -146 (Physical)", -- [29]
+				"Carbhead Ignite (DoT) Rampaging Gatecrasher Tick -17 (Fire)", -- [30]
+				"Forsaken Bonechewer Melee Carbhead Hit -95 (Physical)", -- [31]
+				"Carbhead Fireball Forsaken Bonechewer Hit -177 (Fire)", -- [32]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -1 (Fire)", -- [33]
+				"Forsaken Bonechewer Melee Carbhead Hit -77 (Physical)", -- [34]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -1 (Fire)", -- [35]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -1 (Fire)", -- [36]
+				"Carbhead Fire Blast Forsaken Bonechewer Crit -308 (Fire)", -- [37]
+				"Carbhead Fireball Forsaken Bonechewer Hit -142 (Fire)", -- [38]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -4 (Fire)", -- [39]
+				"Forsaken Bonechewer Rip Carbhead Hit -133 (Physical)", -- [40]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -4 (Fire)", -- [41]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -4 (Fire)", -- [42]
+				"Forsaken Bonechewer Melee Carbhead Hit -92 (Physical)", -- [43]
+				"Carbhead Scorch Forsaken Bonechewer Hit -38 (Fire)", -- [44]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -4 (Fire)", -- [45]
+				"Forsaken Bonechewer Molten Jaws Carbhead Hit -109 (Fire)", -- [46]
+				"Carbhead Ignite (DoT) Forsaken Bonechewer Tick -4 (Fire)", -- [47]
+				"Forsaken Bonechewer Melee Carbhead Hit -96 (Physical)", -- [48]
+				"Carbhead Scorch Forsaken Bonechewer Hit -38 (Fire)", -- [49]
+				"Forsaken Bonechewer Molten Jaws (DoT) Carbhead Tick -10 (Fire)", -- [50]
+			},
+			["Name"] = "Carbhead",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				false, -- [3]
+				false, -- [4]
+				true, -- [5]
+				true, -- [6]
+				false, -- [7]
+				false, -- [8]
+				true, -- [9]
+				false, -- [10]
+				true, -- [11]
+				true, -- [12]
+				false, -- [13]
+				true, -- [14]
+				false, -- [15]
+				false, -- [16]
+				true, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				true, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				false, -- [30]
+				true, -- [31]
+				false, -- [32]
+				false, -- [33]
+				true, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				true, -- [40]
+				false, -- [41]
+				false, -- [42]
+				true, -- [43]
+				false, -- [44]
+				false, -- [45]
+				true, -- [46]
+				false, -- [47]
+				true, -- [48]
+				false, -- [49]
+				true, -- [50]
+			},
+			["LastEventTimes"] = {
+				1255.081, -- [1]
+				1255.941, -- [2]
+				1256.081, -- [3]
+				1256.081, -- [4]
+				1256.303, -- [5]
+				1256.923, -- [6]
+				1257.073, -- [7]
+				1257.703, -- [8]
+				1257.965, -- [9]
+				1258.066, -- [10]
+				1258.32, -- [11]
+				1258.963, -- [12]
+				1259.073, -- [13]
+				1259.978, -- [14]
+				1260.089, -- [15]
+				1261.069, -- [16]
+				1261.279, -- [17]
+				1262.08, -- [18]
+				1262.08, -- [19]
+				1262.95, -- [20]
+				1263.061, -- [21]
+				1263.291, -- [22]
+				1264.041, -- [23]
+				1265.081, -- [24]
+				1265.263, -- [25]
+				1276.257, -- [26]
+				1278.074, -- [27]
+				1278.26, -- [28]
+				1895.37, -- [29]
+				1228.267, -- [30]
+				1245.152, -- [31]
+				1246.042, -- [32]
+				1247.013, -- [33]
+				1247.173, -- [34]
+				1247.993, -- [35]
+				1248.993, -- [36]
+				1249.243, -- [37]
+				1249.335, -- [38]
+				1250.075, -- [39]
+				1250.315, -- [40]
+				1251.075, -- [41]
+				1252.087, -- [42]
+				1252.247, -- [43]
+				1252.547, -- [44]
+				1253.058, -- [45]
+				1253.968, -- [46]
+				1254.079, -- [47]
+				1254.319, -- [48]
+				1254.629, -- [49]
+				1254.91, -- [50]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["DOTs"] = {
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Rampaging Gatecrasher"] = {
+									["count"] = 0,
+								},
+								["Forsaken Bonechewer"] = {
+									["count"] = 45,
+								},
+							},
+							["amount"] = 45,
+						},
+					},
+					["TimeSpent"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 3.21,
+								},
+								["Pyroblast"] = {
+									["count"] = 0.7,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 12.5,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0.2,
+								},
+							},
+							["amount"] = 16.61,
+						},
+					},
+					["DamageTaken"] = 839,
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Rip"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Rip"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 16.61,
+					["ElementTaken"] = {
+						["Physical"] = 119,
+						["Melee"] = 551,
+						["Fire"] = 169,
+					},
+					["DOT_Time"] = 45,
+					["Damage"] = 1434,
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 15,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 22,
+						},
+					},
+					["WhoHealed"] = {
+						["Scyless"] = {
+							["Details"] = {
+								["Regrowth"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 243,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 243,
+								},
+								["Hit"] = {
+									["max"] = 141,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 376,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 619,
+						},
+						["Pyroblast"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 246,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 246,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 246,
+						},
+						["Dragon's Breath"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 9,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 55,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 55,
+						},
+						["Scorch"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Phoenix Flames"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 267,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 514,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 514,
+						},
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 619,
+								},
+								["Pyroblast"] = {
+									["count"] = 246,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 55,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 514,
+								},
+							},
+							["amount"] = 1434,
+						},
+					},
+					["TimeDamage"] = 16.61,
+					["WhoDamaged"] = {
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Molten Jaws"] = {
+									["count"] = 110,
+								},
+								["Molten Jaws (DoT)"] = {
+									["count"] = 59,
+								},
+								["Melee"] = {
+									["count"] = 551,
+								},
+								["Rip"] = {
+									["count"] = 119,
+								},
+							},
+							["amount"] = 839,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Frost"] = 0,
+						["Fire"] = 1434,
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 6,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["TimeDamaging"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 3.21,
+								},
+								["Pyroblast"] = {
+									["count"] = 0.7,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 12.5,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0.2,
+								},
+							},
+							["amount"] = 16.61,
+						},
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Rampaging Gatecrasher"] = {
+									["count"] = 0,
+								},
+								["Forsaken Bonechewer"] = {
+									["count"] = 57,
+								},
+							},
+							["amount"] = 57,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 1035,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 6,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 19,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 28,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 242,
+						["Melee"] = 625,
+						["Fire"] = 168,
+					},
+					["DOT_Time"] = 57,
+					["Damage"] = 1518,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 8,
+						["Fire"] = 1510,
+					},
+					["PartialAbsorb"] = {
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+						["Rip"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Scorch"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 319,
+								},
+								["Pyroblast"] = {
+									["count"] = 304,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 75,
+								},
+								["Scorch"] = {
+									["count"] = 186,
+								},
+								["Melee"] = {
+									["count"] = 8,
+								},
+								["Fire Blast"] = {
+									["count"] = 626,
+								},
+							},
+							["amount"] = 1518,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Molten Jaws"] = {
+									["count"] = 109,
+								},
+								["Molten Jaws (DoT)"] = {
+									["count"] = 59,
+								},
+								["Melee"] = {
+									["count"] = 625,
+								},
+								["Rip"] = {
+									["count"] = 242,
+								},
+							},
+							["amount"] = 1035,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 7,
+						},
+						["Rip"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Scorch"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 1.59,
+								},
+								["Pyroblast"] = {
+									["count"] = 0.18,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 16.18,
+								},
+								["Scorch"] = {
+									["count"] = 1.64,
+								},
+								["Fire Blast"] = {
+									["count"] = 1.12,
+								},
+							},
+							["amount"] = 20.71,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 20.71,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 177,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 319,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 319,
+						},
+						["Pyroblast"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 304,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 304,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 304,
+						},
+						["Dragon's Breath"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 5,
+									["min"] = 0,
+									["count"] = 19,
+									["amount"] = 75,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 75,
+						},
+						["Scorch"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 74,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 74,
+								},
+								["Hit"] = {
+									["max"] = 38,
+									["min"] = 36,
+									["count"] = 3,
+									["amount"] = 112,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 186,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8,
+									["min"] = 8,
+									["count"] = 1,
+									["amount"] = 8,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 8,
+						},
+						["Phoenix Flames"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 318,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 626,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 626,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 20.71,
+					["TimeDamaging"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Scorch"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 1.59,
+								},
+								["Pyroblast"] = {
+									["count"] = 0.18,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 16.18,
+								},
+								["Scorch"] = {
+									["count"] = 1.64,
+								},
+								["Fire Blast"] = {
+									["count"] = 1.12,
+								},
+							},
+							["amount"] = 20.71,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Rampaging Gatecrasher"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Pyroblast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Scorch"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Rampaging Gatecrasher"] = {
+									["count"] = 51,
+								},
+							},
+							["amount"] = 51,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 17,
+								},
+								["Crit"] = {
+									["count"] = 9,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 28,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Fire"] = 0,
+						["Melee"] = 0,
+						["Nature"] = 0,
+					},
+					["DOT_Time"] = 51,
+					["Damage"] = 2937,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Frost"] = 0,
+						["Fire"] = 2937,
+					},
+					["PartialAbsorb"] = {
+						["Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Vile Belch"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 1169,
+								},
+								["Pyroblast"] = {
+									["count"] = 960,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 160,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 161,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 487,
+								},
+							},
+							["amount"] = 2937,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Molten Jaws (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 0,
+								},
+								["Vile Belch"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Vile Belch"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 4.23,
+								},
+								["Pyroblast"] = {
+									["count"] = 1.4,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 10.54,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0.76,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 1.62,
+								},
+							},
+							["amount"] = 18.55000000000001,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 18.55000000000001,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 294,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 948,
+								},
+								["Hit"] = {
+									["max"] = 111,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 221,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 1169,
+						},
+						["Pyroblast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 497,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 960,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 960,
+						},
+						["Dragon's Breath"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 17,
+									["min"] = 0,
+									["count"] = 17,
+									["amount"] = 160,
+								},
+							},
+							["count"] = 17,
+							["amount"] = 160,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Scorch"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 161,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 161,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 161,
+						},
+						["Phoenix Flames"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 247,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 487,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 487,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 18.55000000000001,
+					["TimeDamaging"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 4.23,
+								},
+								["Pyroblast"] = {
+									["count"] = 1.4,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 10.54,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0.76,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 1.62,
+								},
+							},
+							["amount"] = 18.55000000000001,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Forsaken Bonechewer"] = {
+									["count"] = 0,
+								},
+								["Rampaging Gatecrasher"] = {
+									["count"] = 87,
+								},
+							},
+							["amount"] = 87,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 29,
+								},
+								["Crit"] = {
+									["count"] = 10,
+								},
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 47,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+						["Fire"] = 0,
+					},
+					["DOT_Time"] = 87,
+					["Damage"] = 3700,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 3700,
+					},
+					["PartialAbsorb"] = {
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rip"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 1228,
+								},
+								["Pyroblast"] = {
+									["count"] = 930,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 198,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 231,
+								},
+								["Scorch"] = {
+									["count"] = 605,
+								},
+								["Fire Blast"] = {
+									["count"] = 508,
+								},
+							},
+							["amount"] = 3700,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Molten Jaws"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Molten Jaws (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rip"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 4.62,
+								},
+								["Pyroblast"] = {
+									["count"] = 1.87,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0.94,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 20.41,
+								},
+								["Scorch"] = {
+									["count"] = 1.79,
+								},
+								["Fire Blast"] = {
+									["count"] = 0.87,
+								},
+							},
+							["amount"] = 30.5,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+						["Scyless"] = {
+							["Details"] = {
+								["Regrowth"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 30.5,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 284,
+									["min"] = 236,
+									["count"] = 3,
+									["amount"] = 758,
+								},
+								["Hit"] = {
+									["max"] = 122,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 470,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 1228,
+						},
+						["Pyroblast"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 237,
+									["min"] = 226,
+									["count"] = 4,
+									["amount"] = 930,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 930,
+						},
+						["Dragon's Breath"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 198,
+									["min"] = 198,
+									["count"] = 1,
+									["amount"] = 198,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 198,
+						},
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 14,
+									["min"] = 0,
+									["count"] = 29,
+									["amount"] = 231,
+								},
+							},
+							["count"] = 29,
+							["amount"] = 231,
+						},
+						["Scorch"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 153,
+									["min"] = 150,
+									["count"] = 4,
+									["amount"] = 605,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 605,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 268,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 508,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 508,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 30.5,
+					["TimeDamaging"] = {
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 4.62,
+								},
+								["Pyroblast"] = {
+									["count"] = 1.87,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0.94,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 20.41,
+								},
+								["Scorch"] = {
+									["count"] = 1.79,
+								},
+								["Fire Blast"] = {
+									["count"] = 0.87,
+								},
+							},
+							["amount"] = 30.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Rampaging Gatecrasher"] = {
+									["count"] = 0,
+								},
+								["Forsaken Coldwitch"] = {
+									["count"] = 0,
+								},
+								["Forsaken Bonechewer"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 118,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 3,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Melee"] = 118,
+						["Fire"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 1.5,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 0,
+						["Frost"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 118,
+								},
+							},
+							["amount"] = 118,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Molten Jaws"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Molten Jaws (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Carbhead"] = {
+							["Details"] = {
+								["Mirjam's Marvelous Tonic"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["OverHeals"] = {
+						["Mirjam's Marvelous Tonic"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 297,
+									["min"] = 297,
+									["count"] = 1,
+									["amount"] = 297,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 297,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Carbhead"] = {
+							["Details"] = {
+								["Mirjam's Marvelous Tonic"] = {
+									["count"] = 118,
+								},
+							},
+							["amount"] = 118,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 297,
+					["TimeSpent"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Carbhead"] = {
+							["Details"] = {
+								["Mirjam's Marvelous Tonic"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Blizzard (Counterspell)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Mirjam's Marvelous Tonic"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 118,
+									["min"] = 118,
+									["count"] = 1,
+									["amount"] = 118,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 118,
+						},
+					},
+					["WhoHealed"] = {
+						["Carbhead"] = {
+							["Details"] = {
+								["Mirjam's Marvelous Tonic"] = {
+									["count"] = 118,
+								},
+							},
+							["amount"] = 118,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 1.5,
+					["Healing"] = 118,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Pyroblast"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Dragon's Breath"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Scorch"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Phoenix Flames"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 118,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+						["Mirjam's Marvelous Tonic"] = {
+							["Details"] = {
+								["Carbhead"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Rampaging Gatecrasher"] = {
+									["count"] = 0,
+								},
+								["Forsaken Coldwitch"] = {
+									["count"] = 0,
+								},
+								["Forsaken Bonechewer"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 118,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 3,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Melee"] = 118,
+						["Fire"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 1.5,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 0,
+						["Frost"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 118,
+								},
+							},
+							["amount"] = 118,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Molten Jaws"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Molten Jaws (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Carbhead"] = {
+							["Details"] = {
+								["Mirjam's Marvelous Tonic"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["OverHeals"] = {
+						["Mirjam's Marvelous Tonic"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 297,
+									["min"] = 297,
+									["count"] = 1,
+									["amount"] = 297,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 297,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Carbhead"] = {
+							["Details"] = {
+								["Mirjam's Marvelous Tonic"] = {
+									["count"] = 118,
+								},
+							},
+							["amount"] = 118,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 297,
+					["TimeSpent"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Carbhead"] = {
+							["Details"] = {
+								["Mirjam's Marvelous Tonic"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Blizzard (Counterspell)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Mirjam's Marvelous Tonic"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 118,
+									["min"] = 118,
+									["count"] = 1,
+									["amount"] = 118,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 118,
+						},
+					},
+					["WhoHealed"] = {
+						["Carbhead"] = {
+							["Details"] = {
+								["Mirjam's Marvelous Tonic"] = {
+									["count"] = 118,
+								},
+							},
+							["amount"] = 118,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 1.5,
+					["Healing"] = 118,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Pyroblast"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Dragon's Breath"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Scorch"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Phoenix Flames"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 118,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 0,
+								},
+								["Pyroblast"] = {
+									["count"] = 0,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Scorch"] = {
+									["count"] = 0,
+								},
+								["Fire Blast"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+						["Mirjam's Marvelous Tonic"] = {
+							["Details"] = {
+								["Carbhead"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Carbhead"] = {
+							["Details"] = {
+								["Mirjam's Marvelous Tonic"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["DOTs"] = {
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Rampaging Gatecrasher"] = {
+									["count"] = 651,
+								},
+								["Forsaken Coldwitch"] = {
+									["count"] = 24,
+								},
+								["Forsaken Bonechewer"] = {
+									["count"] = 162,
+								},
+							},
+							["amount"] = 837,
+						},
+					},
+					["OverHeals"] = {
+						["Mirjam's Marvelous Tonic"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 297,
+									["min"] = 297,
+									["count"] = 1,
+									["amount"] = 297,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 297,
+						},
+					},
+					["TimeSpent"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 21.84,
+								},
+								["Pyroblast"] = {
+									["count"] = 9.91,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 1.25,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 162.4099999999999,
+								},
+								["Scorch"] = {
+									["count"] = 11.04,
+								},
+								["Frost Nova"] = {
+									["count"] = 1.76,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 1.41,
+								},
+								["Fire Blast"] = {
+									["count"] = 11.53,
+								},
+							},
+							["amount"] = 221.1499999999999,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 1.65,
+								},
+								["Pyroblast"] = {
+									["count"] = 0.13,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0.1,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 5.84,
+								},
+								["Scorch"] = {
+									["count"] = 1.5,
+								},
+								["Frost Nova"] = {
+									["count"] = 1.5,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0.69,
+								},
+							},
+							["amount"] = 11.41,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 9.09,
+								},
+								["Pyroblast"] = {
+									["count"] = 1.62,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 1.49,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 44.69000000000001,
+								},
+								["Frost Nova"] = {
+									["count"] = 0.87,
+								},
+								["Scorch"] = {
+									["count"] = 2.53,
+								},
+								["Fire Blast"] = {
+									["count"] = 2.21,
+								},
+							},
+							["amount"] = 62.49999999999999,
+						},
+						["Carbhead"] = {
+							["Details"] = {
+								["Mirjam's Marvelous Tonic"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+					},
+					["DamageTaken"] = 8335,
+					["Overhealing"] = 297,
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 51,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 51,
+						},
+						["Rip"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Vile Belch"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 36,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 36,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+					},
+					["HealedWho"] = {
+						["Carbhead"] = {
+							["Details"] = {
+								["Mirjam's Marvelous Tonic"] = {
+									["count"] = 118,
+								},
+							},
+							["amount"] = 118,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 51,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 51,
+							["amount"] = 0,
+						},
+						["Rip"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Molten Jaws"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Vile Belch"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Molten Jaws (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 36,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 36,
+							["amount"] = 0,
+						},
+						["Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 296.5600000000002,
+					["Heals"] = {
+						["Mirjam's Marvelous Tonic"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 118,
+									["min"] = 118,
+									["count"] = 1,
+									["amount"] = 118,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 118,
+						},
+					},
+					["ElementTaken"] = {
+						["Physical"] = 2170,
+						["Melee"] = 4964,
+						["Fire"] = 1008,
+						["Frost"] = 124,
+						["Nature"] = 69,
+					},
+					["DOT_Time"] = 837,
+					["Damage"] = 30283,
+					["Interrupts"] = 2,
+					["TimeHeal"] = 1.5,
+					["HOTs"] = {
+						["Mirjam's Marvelous Tonic"] = {
+							["Details"] = {
+								["Carbhead"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["HOT_Time"] = 3,
+					["InterruptData"] = {
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Blizzard (Counterspell)"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["Healing"] = 118,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 279,
+								},
+								["Crit"] = {
+									["count"] = 77,
+								},
+								["Hit"] = {
+									["count"] = 67,
+								},
+							},
+							["amount"] = 423,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["WhoHealed"] = {
+						["Scyless"] = {
+							["Details"] = {
+								["Regrowth"] = {
+									["count"] = 1580,
+								},
+							},
+							["amount"] = 1580,
+						},
+						["Carbhead"] = {
+							["Details"] = {
+								["Mirjam's Marvelous Tonic"] = {
+									["count"] = 118,
+								},
+							},
+							["amount"] = 118,
+						},
+					},
+					["Attacks"] = {
+						["Fireball"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 294,
+									["min"] = 216,
+									["count"] = 23,
+									["amount"] = 5552,
+								},
+								["Hit"] = {
+									["max"] = 177,
+									["min"] = 108,
+									["count"] = 31,
+									["amount"] = 3958,
+								},
+							},
+							["count"] = 54,
+							["amount"] = 9510,
+						},
+						["Dragon's Breath"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 219,
+									["min"] = 198,
+									["count"] = 5,
+									["amount"] = 1059,
+								},
+								["Hit"] = {
+									["max"] = 99,
+									["min"] = 96,
+									["count"] = 4,
+									["amount"] = 392,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 1451,
+						},
+						["Fire Blast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 318,
+									["min"] = 240,
+									["count"] = 25,
+									["amount"] = 6433,
+								},
+							},
+							["count"] = 25,
+							["amount"] = 6433,
+						},
+						["Pyroblast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 497,
+									["min"] = 453,
+									["count"] = 6,
+									["amount"] = 2808,
+								},
+								["Hit"] = {
+									["max"] = 304,
+									["min"] = 226,
+									["count"] = 18,
+									["amount"] = 4358,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 7166,
+						},
+						["Ignite (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 17,
+									["min"] = 1,
+									["count"] = 279,
+									["amount"] = 1776,
+								},
+							},
+							["count"] = 279,
+							["amount"] = 1776,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 15,
+									["min"] = 14,
+									["count"] = 4,
+									["amount"] = 59,
+								},
+								["Hit"] = {
+									["max"] = 8,
+									["min"] = 7,
+									["count"] = 3,
+									["amount"] = 22,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 81,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8,
+									["min"] = 8,
+									["count"] = 1,
+									["amount"] = 8,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 8,
+						},
+						["Scorch"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 167,
+									["min"] = 64,
+									["count"] = 17,
+									["amount"] = 2458,
+								},
+								["Hit"] = {
+									["max"] = 38,
+									["min"] = 30,
+									["count"] = 9,
+									["amount"] = 301,
+								},
+							},
+							["count"] = 26,
+							["amount"] = 2759,
+						},
+						["Phoenix Flames"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 302,
+									["min"] = 302,
+									["count"] = 1,
+									["amount"] = 302,
+								},
+								["Hit"] = {
+									["max"] = 166,
+									["min"] = 155,
+									["count"] = 5,
+									["amount"] = 797,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 1099,
+						},
+					},
+					["HealingTaken"] = 3789,
+					["DamagedWho"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 7255,
+								},
+								["Pyroblast"] = {
+									["count"] = 6124,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 510,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 1520,
+								},
+								["Scorch"] = {
+									["count"] = 2226,
+								},
+								["Frost Nova"] = {
+									["count"] = 37,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 797,
+								},
+								["Fire Blast"] = {
+									["count"] = 4538,
+								},
+							},
+							["amount"] = 23007,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 533,
+								},
+								["Pyroblast"] = {
+									["count"] = 234,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 98,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 40,
+								},
+								["Scorch"] = {
+									["count"] = 150,
+								},
+								["Frost Nova"] = {
+									["count"] = 15,
+								},
+								["Fire Blast"] = {
+									["count"] = 248,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 302,
+								},
+							},
+							["amount"] = 1620,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 1722,
+								},
+								["Pyroblast"] = {
+									["count"] = 808,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 843,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 216,
+								},
+								["Frost Nova"] = {
+									["count"] = 29,
+								},
+								["Melee"] = {
+									["count"] = 8,
+								},
+								["Scorch"] = {
+									["count"] = 383,
+								},
+								["Fire Blast"] = {
+									["count"] = 1647,
+								},
+							},
+							["amount"] = 5656,
+						},
+					},
+					["TimeDamage"] = 295.0600000000002,
+					["WhoDamaged"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Slam"] = {
+									["count"] = 531,
+								},
+								["Vile Belch"] = {
+									["count"] = 69,
+								},
+								["Melee"] = {
+									["count"] = 1533,
+								},
+							},
+							["amount"] = 2133,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 85,
+								},
+								["Frostbolt"] = {
+									["count"] = 124,
+								},
+							},
+							["amount"] = 209,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Molten Jaws"] = {
+									["count"] = 649,
+								},
+								["Molten Jaws (DoT)"] = {
+									["count"] = 359,
+								},
+								["Melee"] = {
+									["count"] = 3346,
+								},
+								["Rip"] = {
+									["count"] = 783,
+								},
+							},
+							["amount"] = 5137,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 856,
+								},
+							},
+							["amount"] = 856,
+						},
+					},
+					["ElementDone"] = {
+						["Fire"] = 30194,
+						["Melee"] = 8,
+						["Frost"] = 81,
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 13,
+								},
+							},
+							["amount"] = 14,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 2,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 45,
+								},
+							},
+							["amount"] = 51,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 36,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 42,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["TimeDamaging"] = {
+						["Rampaging Gatecrasher"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 21.84,
+								},
+								["Pyroblast"] = {
+									["count"] = 9.91,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 1.25,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 162.4099999999999,
+								},
+								["Scorch"] = {
+									["count"] = 11.04,
+								},
+								["Frost Nova"] = {
+									["count"] = 1.76,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 1.41,
+								},
+								["Fire Blast"] = {
+									["count"] = 11.53,
+								},
+							},
+							["amount"] = 221.1499999999999,
+						},
+						["Forsaken Coldwitch"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 1.65,
+								},
+								["Pyroblast"] = {
+									["count"] = 0.13,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 0.1,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 5.84,
+								},
+								["Scorch"] = {
+									["count"] = 1.5,
+								},
+								["Frost Nova"] = {
+									["count"] = 1.5,
+								},
+								["Phoenix Flames"] = {
+									["count"] = 0.69,
+								},
+							},
+							["amount"] = 11.41,
+						},
+						["Forsaken Bonechewer"] = {
+							["Details"] = {
+								["Fireball"] = {
+									["count"] = 9.09,
+								},
+								["Pyroblast"] = {
+									["count"] = 1.62,
+								},
+								["Dragon's Breath"] = {
+									["count"] = 1.49,
+								},
+								["Ignite (DoT)"] = {
+									["count"] = 44.69000000000001,
+								},
+								["Frost Nova"] = {
+									["count"] = 0.87,
+								},
+								["Scorch"] = {
+									["count"] = 2.53,
+								},
+								["Fire Blast"] = {
+									["count"] = 2.21,
+								},
+							},
+							["amount"] = 62.49999999999999,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 472.339,
+			["LastActive"] = 1894.71,
+		},
+	},
+	["FightNum"] = 11,
+	["CombatTimes"] = {
+		{
+			799.342, -- [1]
+			841.339, -- [2]
+			"01:42:22", -- [3]
+			"01:43:03", -- [4]
+			"Forsaken Bonechewer", -- [5]
+		}, -- [1]
+		{
+			847.338, -- [1]
+			859.346, -- [2]
+			"01:43:10", -- [3]
+			"01:43:21", -- [4]
+			"Forsaken Bonechewer", -- [5]
+		}, -- [2]
+		{
+			907.337, -- [1]
+			964.338, -- [2]
+			"01:44:09", -- [3]
+			"01:45:06", -- [4]
+			"Rampaging Gatecrasher", -- [5]
+		}, -- [3]
+		{
+			972.341, -- [1]
+			1008.346, -- [2]
+			"01:45:14", -- [3]
+			"01:45:50", -- [4]
+			"Forsaken Coldwitch", -- [5]
+		}, -- [4]
+		{
+			1010.346, -- [1]
+			1086.34, -- [2]
+			"01:45:53", -- [3]
+			"01:47:08", -- [4]
+			"Rampaging Gatecrasher", -- [5]
+		}, -- [5]
+		{
+			1091.346, -- [1]
+			1115.34, -- [2]
+			"01:47:13", -- [3]
+			"01:47:37", -- [4]
+			"Rampaging Gatecrasher", -- [5]
+		}, -- [6]
+		{
+			1134.346, -- [1]
+			1151.34, -- [2]
+			"01:47:56", -- [3]
+			"01:48:13", -- [4]
+			"Forsaken Bonechewer", -- [5]
+		}, -- [7]
+		{
+			1177.345, -- [1]
+			1208.349, -- [2]
+			"01:48:40", -- [3]
+			"01:49:10", -- [4]
+			"Rampaging Gatecrasher", -- [5]
+		}, -- [8]
+		{
+			1210.337, -- [1]
+			1230.339, -- [2]
+			"01:49:13", -- [3]
+			"01:49:32", -- [4]
+			"Rampaging Gatecrasher", -- [5]
+		}, -- [9]
+		{
+			1244.339, -- [1]
+			1266.337, -- [2]
+			"01:49:47", -- [3]
+			"01:50:08", -- [4]
+			"Forsaken Bonechewer", -- [5]
+		}, -- [10]
+		{
+			1277.34, -- [1]
+			1292.338, -- [2]
+			"01:50:20", -- [3]
+			"01:50:34", -- [4]
+			"Rampaging Gatecrasher", -- [5]
+		}, -- [11]
+	},
+	["FoughtWho"] = {
+		"Rampaging Gatecrasher 01:50:20-01:50:34", -- [1]
+		"Forsaken Bonechewer 01:49:47-01:50:08", -- [2]
+		"Rampaging Gatecrasher 01:49:13-01:49:32", -- [3]
+		"Rampaging Gatecrasher 01:48:40-01:49:10", -- [4]
+		"Forsaken Bonechewer 01:47:56-01:48:13", -- [5]
+	},
+}

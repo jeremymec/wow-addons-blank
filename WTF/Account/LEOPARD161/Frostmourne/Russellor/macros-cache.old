@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "Mind Freeze" "237527"
+/cast [@focus] Mind Freeze
+/cast Mind Freeze
+END

@@ -1,0 +1,110 @@
+VER 3 000000000000004B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/roll
+END
+VER 3 000000000000004C " " "INV_MISC_HEAD_DRAGON_01"
+/mountspecial
+END
+VER 3 000000000000004A " " "INV_MISC_NOTE_05"
+#showtooltip
+/macro
+END
+VER 3 000000000000004D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Ice Barrier
+/cast [modifier:shift] Evocation
+END
+VER 3 000000000000004E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Frost Nova
+/cast [modifier:shift] Ring of Frost
+END
+VER 3 000000000000004F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Icy Veins
+/cast [modifier:shift] Invisibility
+END
+VER 3 0000000000000050 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Mirror Image
+/cast [modifier:shift] Cold Snap
+END
+VER 3 0000000000000051 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Frostfire Bolt
+/cast [modifier:shift] Remove Curse
+END
+VER 3 0000000000000052 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Ice Block
+/cast [modifier:shift] Healthstone
+END
+VER 3 0000000000000053 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Frostfire Orb
+/cast [modifier:shift] Inherited Insignia of the Horde
+END
+VER 3 0000000000000054 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Flame Orb
+/cast [modifier:shift] Mana Gem
+END
+VER 3 0000000000000055 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Conjure Refreshment
+/cast [modifier:shift] Conjure Mana Gem
+END
+VER 3 0000000000000058 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Frostfire ORb
+/cast [modifier:shift] Inherited Insigina of the Horde
+END
+VER 3 0000000000000059 " " "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [nomodifier] Cone of COld
+/cast [modifier:shift] Will of the Forsaken
+END
+VER 3 000000000000005A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Flame ORb
+/cast [modifier:shift] Time Warp
+END
+VER 3 000000000000005B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Counterspell
+/cast [modifier:shift] Spellsteal
+END
+VER 3 000000000000005C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Slow Fall
+/cast [modifier:shift] Ice Block
+END
+VER 3 000000000000005D " " "INV_MISC_QUESTIONMARK"
+/target Twilight Assault Drake
+/cast Fireball
+END
+VER 3 0000000000000064 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+/script print('no button yet')
+END
+VER 3 0000000000000065 "Bow" "572034"
+/bow
+END
+VER 3 000000000000005E "Decursive" "1"
+/stopcasting
+/cast [@mouseover,nomod,exists] Fear;  [@mouseover,exists,mod:ctrl] Devour Magic; [@mouseover,exists,mod:shift] Fear
+END
+VER 3 0000000000000061 "Follow" "SPELL_MISC_PETHEAL"
+/follow
+END
+VER 3 0000000000000062 "Macro" "INV_MISC_NOTE_05"
+/macro
+END
+VER 3 0000000000000060 "navy" "132377"
+/y What the fuck did you just fucking say about me, you little bitch? I’ll have you know I graduated top of my class in the Navy Seals, and I’ve been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. Your Dead Kiddo.
+END
+VER 3 0000000000000063 "Reload UI" "ABILITY_MONK_TOUCHOFKARMA"
+/reload
+END
+VER 3 000000000000005F "saah" "SPELL_SHADOW_TELEPORT"
+/y SAAAAAAHHHHHHHHHHHHH DUDE
+END

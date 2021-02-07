@@ -1,0 +1,2149 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 104,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:25]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sâm-Frostmourne:292:CHANNEL:2|h|cffa9d271Sâm|r|h|cffd8d8d8]|r: the really amusing thing is, that of all the club members I know, they never ever talk like that",
+					["serverTime"] = 1605618143,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						95, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2994.135,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:29]|h|r Leah Kranz says: Come and get your freshly baked bread!",
+					["serverTime"] = 1605618147,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2998.256,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:31]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Orlintheus-Jubei'Thos:294:CHANNEL:2|h|cffc59a6cOrlintheus|r-|cffd0d34cJub|r|h|cffd8d8d8]|r: and u do realise tht several of amuricas bikie gangs opened chapters in several states in australia yes?",
+					["serverTime"] = 1605618149,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3000.819,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:32]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Señorstabby-Frostmourne:295:CHANNEL:2|h|cfffef367Señorstabby|r|h|cffd8d8d8]|r: wheres this bussy cat dolls guild?",
+					["serverTime"] = 1605618150,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						119, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3001.631,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:34]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Låstwish-Frostmourne:296:CHANNEL:2|h|cff00fe97Låstwish|r|h|cffd8d8d8]|r: WTS +15-16 key for weekly .. rdy to go...  pst for more info",
+					["serverTime"] = 1605618152,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						121, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3003.795,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:42]|h|r Leah Kranz says: Come and get your freshly baked bread!",
+					["serverTime"] = 1605618160,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3011.629,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:44]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sharmstyle-Frostmourne:298:CHANNEL:2|h|cff006fdcSharmstyle|r|h|cffd8d8d8]|r: |cffff8000|Hitem:19019:2673:::::::27:264::11:::::|h[Thunderfury, Blessed Blade of the Windseeker]|h|r <----- mongoose mate",
+					["serverTime"] = 1605618162,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3012.971,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:55]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Fatowlbird-Frostmourne:299:CHANNEL:2|h|cfffe7b09Fatowlbird|r|h|cffd8d8d8]|r: they dont run shit",
+					["serverTime"] = 1605618173,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						75, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3024.707,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:56]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Chinesespy-Frostmourne:300:CHANNEL:2|h|cff00fe97Chinesespy|r|h|cffd8d8d8]|r: nah crusader for nostalgia",
+					["serverTime"] = 1605618174,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						109, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3025.83,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:00]|h|r You have learned a new ability: |cff71d5ff|Hspell:2656:0|h[Mining Skills]|h|r.",
+					["serverTime"] = 1605618178,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3029.11,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:00]|h|r You have learned a new ability: |cff71d5ff|Hspell:2580:0|h[Find Minerals]|h|r.",
+					["serverTime"] = 1605618178,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3029.11,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:00]|h|r You have learned a new spell: |cff71d5ff|Hspell:2575:0|h[Mining]|h|r.",
+					["serverTime"] = 1605618178,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3029.11,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:00]|h|r You have learned how to create a new item: Smelt Copper.",
+					["serverTime"] = 1605618178,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3029.11,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:00]|h|r You have learned a new ability: |cff71d5ff|Hspell:265837:0|h[Mining]|h|r.",
+					["serverTime"] = 1605618178,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3029.11,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:00]|h|r You have gained the Mining skill.",
+					["serverTime"] = 1605618178,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						123, -- [3]
+						124, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3029.298,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:07]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Jeffreywack-Frostmourne:307:CHANNEL:2|h|cfffef367Jeffreywack|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:43953::::::::50:260:::1:3524:1:28:1019:::|h[Reins of the Blue Drake]|h|rdropped this on the first attempt of this account",
+					["serverTime"] = 1605618185,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						125, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3036.201,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:07]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Orlintheus-Jubei'Thos:308:CHANNEL:2|h|cffc59a6cOrlintheus|r-|cffd0d34cJub|r|h|cffd8d8d8]|r: lol shows what u know",
+					["serverTime"] = 1605618185,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3036.907,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:08]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sharmstyle-Frostmourne:309:CHANNEL:2|h|cff006fdcSharmstyle|r|h|cffd8d8d8]|r: mongoose for nostalgia cunt",
+					["serverTime"] = 1605618186,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3037.201,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:11]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Deezy-Frostmourne:310:CHANNEL:2|h|cfffef367Deezy|r|h|cffd8d8d8]|r: antifa runs australia",
+					["serverTime"] = 1605618189,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3040.741,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:15]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Zketa-Frostmourne:311:CHANNEL:2|h|cff3ec6eaZketa|r|h|cffd8d8d8]|r: yo anyone wanna hop in discord?",
+					["serverTime"] = 1605618193,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						127, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3044.519,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:19]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sâm-Frostmourne:312:CHANNEL:2|h|cffa9d271Sâm|r|h|cffd8d8d8]|r: and they would prolly just look at you like ur on drugs even they wouldnt sell",
+					["serverTime"] = 1605618197,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						95, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3048.916,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:20]|h|r Leah Kranz says: Come and get your freshly baked bread!",
+					["serverTime"] = 1605618198,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3049.288,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:20]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Evenks-Frostmourne:314:CHANNEL:2|h|cff006fdcEvenks|r|h|cffd8d8d8]|r: dude actually same jeffrey",
+					["serverTime"] = 1605618198,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3049.53,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:21]|h|r You have learned a new spell: |cff71d5ff|Hspell:2018:0|h[Blacksmithing]|h|r.",
+					["serverTime"] = 1605618199,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3049.955,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:21]|h|r You have learned how to create a new item: Rough Sharpening Stone.",
+					["serverTime"] = 1605618199,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3049.955,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:21]|h|r You have learned how to create a new item: Copper Bracers.",
+					["serverTime"] = 1605618199,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3049.955,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:21]|h|r You have learned how to create a new item: Rough Weightstone.",
+					["serverTime"] = 1605618199,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3049.955,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:21]|h|r You have learned how to create a new item: Rough Copper Vest.",
+					["serverTime"] = 1605618199,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3049.955,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:21]|h|r You have learned a new ability: |cff71d5ff|Hspell:264434:0|h[Blacksmithing]|h|r.",
+					["serverTime"] = 1605618199,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3049.955,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:21]|h|r You have gained the Blacksmithing skill.",
+					["serverTime"] = 1605618199,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						123, -- [3]
+						124, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3049.955,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:23]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Rashalo-Frostmourne:322:CHANNEL:2|h|cffc59a6cRashalo|r|h|cffd8d8d8]|r: I'd rather be a glowie then a bikie",
+					["serverTime"] = 1605618201,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						129, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3052.802,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:27]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Låstwish-Frostmourne:323:CHANNEL:2|h|cff00fe97Låstwish|r|h|cffd8d8d8]|r: WTS +15-16 key for weekly .. rdy to go...  pst for more info",
+					["serverTime"] = 1605618205,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						121, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3056.501,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:27]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Aeghar-Frostmourne:324:CHANNEL:2|h|cffc59a6cAeghar|r|h|cffd8d8d8]|r: are the zombies up?",
+					["serverTime"] = 1605618205,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						87, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3056.926,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:27]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Caliginosus-Frostmourne:325:CHANNEL:2|h|cfff38bb9Caliginosus|r|h|cffd8d8d8]|r: i tanked with it from 30-50, best weapon in the game",
+					["serverTime"] = 1605618205,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						115, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3056.926,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:28]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Evenks-Frostmourne:326:CHANNEL:2|h|cff006fdcEvenks|r|h|cffd8d8d8]|r: wish i got the other one tho",
+					["serverTime"] = 1605618206,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3057.811,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:30]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Zsi-Frostmourne:327:CHANNEL:2|h|cfffe7b09Zsi|r|h|cffd8d8d8]|r: antifa ate my children",
+					["serverTime"] = 1605618208,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						131, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3059.004,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:31]|h|r Leah Kranz says: Fresh bread! Fresh bread for sale!",
+					["serverTime"] = 1605618209,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3060.281,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:34]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Jeffreywack-Frostmourne:329:CHANNEL:2|h|cfffef367Jeffreywack|r|h|cffd8d8d8]|r: blue drake?",
+					["serverTime"] = 1605618212,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						125, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3063.753,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:34]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Glowin-Frostmourne:330:CHANNEL:2|h|cfffefefeGlowin|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Kapua|r|cffffffff>|r A semi hardcore guild aiming for CE next expansion. Our raid times are Wed/Thurs/Sun 7:30-10:30pm SVT We are currently looking for a Hpally, DH and also a mix of DPS. All socials and casuals welcome! Pm me for more info!",
+					["serverTime"] = 1605618212,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3063.753,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:36]|h|r You receive item: |cff0070dd|Hitem:115356::::::::19:72::14::1:28:960:::|h[Draenor Blacksmithing]|h|r.",
+					["serverTime"] = 1605618214,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3065.655,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:41]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Enoath-Frostmourne:332:CHANNEL:2|h|cfffef367Enoath|r|h|cffd8d8d8]|r: nrl players run austrlia",
+					["serverTime"] = 1605618219,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						133, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3070.323,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:43]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Matthington-Frostmourne:333:CHANNEL:2|h|cffa9d271Matthington|r|h|cffd8d8d8]|r: yea take ur gay talk to discord",
+					["serverTime"] = 1605618221,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						93, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3072.226,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:46]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Enoath-Frostmourne:334:CHANNEL:2|h|cfffef367Enoath|r|h|cffd8d8d8]|r: champ cheese for pres",
+					["serverTime"] = 1605618224,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						133, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3075.062,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:47]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Jeffreywack-Frostmourne:335:CHANNEL:2|h|cfffef367Jeffreywack|r|h|cffd8d8d8]|r: i reckon azure looks betta",
+					["serverTime"] = 1605618225,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						125, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3076.646,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:52]|h|r You have learned how to create a new item: Truesteel Ingot.",
+					["serverTime"] = 1605618230,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3081.378,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:52]|h|r You have learned how to create a new item: Smoldering Helm.",
+					["serverTime"] = 1605618230,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3081.378,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:52]|h|r You have learned how to create a new item: Smoldering Breastplate.",
+					["serverTime"] = 1605618230,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3081.378,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:52]|h|r You have learned how to create a new item: Smoldering Greaves.",
+					["serverTime"] = 1605618230,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3081.378,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:52]|h|r You have learned how to create a new item: Secrets of Draenor Blacksmithing.",
+					["serverTime"] = 1605618230,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3081.378,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:52]|h|r You have learned how to create a new item: Relic of the Past I.",
+					["serverTime"] = 1605618230,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3081.378,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:52]|h|r You have learned how to create a new item: Relic of the Past II.",
+					["serverTime"] = 1605618230,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3081.378,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:52]|h|r You have learned how to create a new item: Relic of the Past III.",
+					["serverTime"] = 1605618230,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3081.378,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:52]|h|r You have learned how to create a new item: Relic of the Past IV.",
+					["serverTime"] = 1605618230,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3081.378,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:52]|h|r You have learned how to create a new item: Relic of the Past V.",
+					["serverTime"] = 1605618230,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3081.378,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:52]|h|r You have learned a new ability: |cff71d5ff|Hspell:264444:0|h[Draenor Blacksmithing]|h|r.",
+					["serverTime"] = 1605618230,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3081.378,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:52]|h|r You have gained the Draenor Blacksmithing skill.",
+					["serverTime"] = 1605618230,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						123, -- [3]
+						124, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3081.678,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:53]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Deezy-Frostmourne:348:CHANNEL:2|h|cfffef367Deezy|r|h|cffd8d8d8]|r: did u guys hear nsw is giving WOMEN upto 5k payouts",
+					["serverTime"] = 1605618231,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3082.138,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:54]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Evenks-Frostmourne:349:CHANNEL:2|h|cff006fdcEvenks|r|h|cffd8d8d8]|r: ye, but i wish i got the azure",
+					["serverTime"] = 1605618232,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3083.481,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:55]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Deezy-Frostmourne:350:CHANNEL:2|h|cfffef367Deezy|r|h|cffd8d8d8]|r: what a shit state",
+					["serverTime"] = 1605618233,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3084.338,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:03:57]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Lightmaker-Frostmourne:351:CHANNEL:2|h|cfff38bb9Lightmaker|r|h|cffd8d8d8]|r: WTS +15 +16 keys for weekly chest intime temple freehold,siege,kingrest,shrine can stack leather cloth plate mail  group ready!  pst for more  !",
+					["serverTime"] = 1605618235,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						135, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3086.262,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:00]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Aeghar-Frostmourne:352:CHANNEL:2|h|cffc59a6cAeghar|r|h|cffd8d8d8]|r: are the zombies up?",
+					["serverTime"] = 1605618238,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						87, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3089.217,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:03]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Onefit-Jubei'Thos:353:CHANNEL:2|h|cfffe7b09Onefit|r-|cffd0d34cJub|r|h|cffd8d8d8]|r: reported",
+					["serverTime"] = 1605618241,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						137, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3092.84,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:11]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Panyero-Frostmourne:354:CHANNEL:2|h|cff8687edPanyero|r|h|cffd8d8d8]|r: reported for reportingh",
+					["serverTime"] = 1605618249,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						139, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3100.812,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:12]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Jeffreywack-Frostmourne:355:CHANNEL:2|h|cfffef367Jeffreywack|r|h|cffd8d8d8]|r: keep on grinding mate",
+					["serverTime"] = 1605618250,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						125, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3101.73,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:16]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Onefit-Jubei'Thos:356:CHANNEL:2|h|cfffe7b09Onefit|r-|cffd0d34cJub|r|h|cffd8d8d8]|r: for bein 2 cute",
+					["serverTime"] = 1605618254,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						137, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3105.647,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:20]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Caliginosus-Frostmourne:357:CHANNEL:2|h|cfff38bb9Caliginosus|r|h|cffd8d8d8]|r: equality..",
+					["serverTime"] = 1605618258,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						115, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3109.012,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:20]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Evenks-Frostmourne:358:CHANNEL:2|h|cff006fdcEvenks|r|h|cffd8d8d8]|r: bless your soul <3",
+					["serverTime"] = 1605618258,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3109.863,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:22]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Fatowlbird-Frostmourne:359:CHANNEL:2|h|cfffe7b09Fatowlbird|r|h|cffd8d8d8]|r: we need to take women's right to vote away",
+					["serverTime"] = 1605618260,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						75, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3111.096,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:24]|h|r Leah Kranz says: Fresh bread! Fresh bread for sale!",
+					["serverTime"] = 1605618262,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3113.827,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:25]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Zketa-Frostmourne:361:CHANNEL:2|h|cff3ec6eaZketa|r|h|cffd8d8d8]|r: anyone wanna talk in disc?",
+					["serverTime"] = 1605618263,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						127, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3114.251,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:26]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Drakelock-Frostmourne:362:CHANNEL:2|h|cff8687edDrakelock|r|h|cffd8d8d8]|r: 2 hours till 8 hours maintance",
+					["serverTime"] = 1605618264,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						141, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3115.154,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:35]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Onefit-Jubei'Thos:363:CHANNEL:2|h|cfffe7b09Onefit|r-|cffd0d34cJub|r|h|cffd8d8d8]|r: Don't cry frostmoron its a joke",
+					["serverTime"] = 1605618273,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						137, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3124.604,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:44]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Lightmaker-Frostmourne:364:CHANNEL:2|h|cfff38bb9Lightmaker|r|h|cffd8d8d8]|r: WTS +15 +16 keys for weekly chest intime temple freehold,siege,kingrest,shrine can stack leather cloth plate mail  group ready!  pst for more  !",
+					["serverTime"] = 1605618282,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						135, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3133.167,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:45]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Orlintheus-Jubei'Thos:365:CHANNEL:2|h|cffc59a6cOrlintheus|r-|cffd0d34cJub|r|h|cffd8d8d8]|r: Fatowlbird-Frostmourne what a sad little person you are",
+					["serverTime"] = 1605618283,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3134.227,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:47]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Jeffreywack-Frostmourne:366:CHANNEL:2|h|cfffef367Jeffreywack|r|h|cffd8d8d8]|r: i actually like drake of northwind",
+					["serverTime"] = 1605618285,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						125, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3136.448,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:49]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Talemet-Frostmourne:367:CHANNEL:2|h|cfffe7b09Talemet|r|h|cffd8d8d8]|r: too long for maintaince, I saw just have another 2 years of BFA",
+					["serverTime"] = 1605618287,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3138.916,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:49]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Zsi-Frostmourne:368:CHANNEL:2|h|cfffe7b09Zsi|r|h|cffd8d8d8]|r: NSW is jailing men that don't wear dresses, i saw it on youtube",
+					["serverTime"] = 1605618287,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						131, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3138.916,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:56]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Zsi-Frostmourne:369:CHANNEL:2|h|cfffe7b09Zsi|r|h|cffd8d8d8]|r: or facebook",
+					["serverTime"] = 1605618294,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						131, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3145.381,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:58]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Deezy-Frostmourne:370:CHANNEL:2|h|cfffef367Deezy|r|h|cffd8d8d8]|r: its true",
+					["serverTime"] = 1605618296,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3147.241,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:04:59]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Fatowlbird-Frostmourne:371:CHANNEL:2|h|cfffe7b09Fatowlbird|r|h|cffd8d8d8]|r: WHY IS IT COUNTRIES GET WORSE WHEN WOMEN ARE ALLOWED TO VOTE",
+					["serverTime"] = 1605618297,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						75, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3148.525,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:03]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Deezy-Frostmourne:372:CHANNEL:2|h|cfffef367Deezy|r|h|cffd8d8d8]|r: joe biden made it law",
+					["serverTime"] = 1605618301,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3152.127,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:10]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Drakelock-Frostmourne:373:CHANNEL:2|h|cff8687edDrakelock|r|h|cffd8d8d8]|r: |cffe6cc80|Hitem:158075::::::::50:267::11:4:4932:4933:6316:1530:1:28:2122:::|h[Heart of Azeroth]|h|r 20% nerf + |cffa335ee|Hitem:169328::::::::50:267::13:1:6883::::|h[Highborne Compendium of Storms]|h|r 40% nerf tomorrow",
+					["serverTime"] = 1605618308,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						141, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3159.838,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:14]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sâm-Frostmourne:374:CHANNEL:2|h|cffa9d271Sâm|r|h|cffd8d8d8]|r: no, we need more voting freedom, make electon day a holiday and give people free gas as well, just for that day",
+					["serverTime"] = 1605618312,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						95, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3163.367,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:19]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Transferring-Frostmourne:375:CHANNEL:2|h|cfffefefeTransferring|r|h|cffd8d8d8]|r: Buying all TCG mounts - whisper me which ones you have!",
+					["serverTime"] = 1605618317,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						97, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3168.527,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:23]|h|r You receive item: |cffffffff|Hitem:2901::::::::19:72::14::1:28:960:::|h[Mining Pick]|h|r.",
+					["serverTime"] = 1605618321,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3172.25,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:24]|h|r You receive item: |cffffffff|Hitem:5956::::::::19:72::14::1:28:960:::|h[Blacksmith Hammer]|h|r.",
+					["serverTime"] = 1605618322,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3173.617,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:25]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Zsi-Frostmourne:378:CHANNEL:2|h|cfffe7b09Zsi|r|h|cffd8d8d8]|r: antifa are summong sargeras",
+					["serverTime"] = 1605618323,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						131, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3174.016,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:26]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Onefit-Jubei'Thos:379:CHANNEL:2|h|cfffe7b09Onefit|r-|cffd0d34cJub|r|h|cffd8d8d8]|r: Give a minute for a punchline before your toddler fingers crash on your keyboard whilst your small brain can only fear due to undevelopment",
+					["serverTime"] = 1605618324,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						137, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3174.998,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:32]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Orlintheus-Jubei'Thos:380:CHANNEL:2|h|cffc59a6cOrlintheus|r-|cffd0d34cJub|r|h|cffd8d8d8]|r: free gas sounds fun",
+					["serverTime"] = 1605618330,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3181.538,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:35]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Kulvar-Frostmourne:381:CHANNEL:2|h|cfffe7b09Kulvar|r|h|cffd8d8d8]|r: I know you joking fatowlbird but yikes man even as a joke",
+					["serverTime"] = 1605618333,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						143, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3184.645,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:36]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Drakelock-Frostmourne:382:CHANNEL:2|h|cff8687edDrakelock|r|h|cffd8d8d8]|r: Frost Mage all damage skills get nerfed by 4% tomorrow",
+					["serverTime"] = 1605618334,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						141, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3185.293,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:36]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Lorkus-Frostmourne:383:CHANNEL:2|h|cfffefefeLorkus|r|h|cffd8d8d8]|r: Abortion is a double edged sword for me. Part of me likes the idea of killing babies but the other part doesn't want to give women the right to make decisions.",
+					["serverTime"] = 1605618334,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						99, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3185.891,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:46]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Fatowlbird-Frostmourne:384:CHANNEL:2|h|cfffe7b09Fatowlbird|r|h|cffd8d8d8]|r: WHY IS IT COUNTRIES GET WORSE WHEN WOMEN ARE ALLOWED TO VOTE",
+					["serverTime"] = 1605618344,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						75, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3195.587,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:49]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Talemet-Frostmourne:385:CHANNEL:2|h|cfffe7b09Talemet|r|h|cffd8d8d8]|r: give vote to everyone and elect a new PM everyday",
+					["serverTime"] = 1605618347,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3198.586,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:51]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Onefit-Jubei'Thos:386:CHANNEL:2|h|cfffe7b09Onefit|r-|cffd0d34cJub|r|h|cffd8d8d8]|r: AKA stfu casual",
+					["serverTime"] = 1605618349,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						137, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3200.357,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:54]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sâm-Frostmourne:387:CHANNEL:2|h|cffa9d271Sâm|r|h|cffd8d8d8]|r: yep, as much as ur tank can handle",
+					["serverTime"] = 1605618352,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						95, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3203.396,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:57]|h|r You have unlearned |cff71d5ff|Hspell:264434:0|h[Blacksmithing]|h|r.",
+					["serverTime"] = 1605618355,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3206.144,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:57]|h|r You have unlearned |cff71d5ff|Hspell:264444:0|h[Draenor Blacksmithing]|h|r.",
+					["serverTime"] = 1605618355,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3206.144,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:05:59]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Twinkiez-Frostmourne:390:CHANNEL:2|h|cffa9d271Twinkiez|r|h|cffd8d8d8]|r: any1 got a lvl 19 twink pls pm me",
+					["serverTime"] = 1605618357,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						145, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3208.895,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:06:00]|h|r You have learned a new spell: |cff71d5ff|Hspell:4036:0|h[Engineering]|h|r.",
+					["serverTime"] = 1605618358,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3209.79,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:06:00]|h|r You have learned how to create a new item: Rough Blasting Powder.",
+					["serverTime"] = 1605618358,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3209.79,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:06:00]|h|r You have learned how to create a new item: Rough Dynamite.",
+					["serverTime"] = 1605618358,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3209.79,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:06:00]|h|r You have learned a new ability: |cff71d5ff|Hspell:264475:0|h[Engineering]|h|r.",
+					["serverTime"] = 1605618358,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3209.79,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:06:00]|h|r You have gained the Engineering skill.",
+					["serverTime"] = 1605618358,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						123, -- [3]
+						124, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3209.79,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:17]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Evenks-Frostmourne:268:CHANNEL:2|h|cff006fdcEvenks|r|h|cffd8d8d8]|r: |cffff8000|Hitem:19019:2673:::::::41:262::11:::::|h[Thunderfury, Blessed Blade of the Windseeker]|h|r????????????????????",
+					["serverTime"] = 1605618075,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2926.484,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:19]|h|r Phillip Hillenbrand says: Spirit ogres? Geez, this island sure has some creative ways to kill a guy.",
+					["serverTime"] = 1605618077,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2928.927,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:21]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Pathonson-Frostmourne:270:CHANNEL:2|h|cfff38bb9Pathonson|r|h|cffd8d8d8]|r: i think someone did say |cffff8000|Hitem:19019:2673:::::::50:70::11:::::|h[Thunderfury, Blessed Blade of the Windseeker]|h|r",
+					["serverTime"] = 1605618079,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						103, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2930.457,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:24]|h|r Stormshield is now your home.",
+					["serverTime"] = 1605618082,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2933.756,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:24]|h|r You receive item: |cffffffff|Hitem:6948::::::::19:72:::::::|h[Hearthstone]|h|r.",
+					["serverTime"] = 1605618082,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2933.866,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:25]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Urdren-Frostmourne:273:CHANNEL:2|h|cffa9d271Urdren|r|h|cffd8d8d8]|r: i can't believe someone just said |cffff8000|Hitem:19019:2673:::::::50:254::11:::::|h[Thunderfury, Blessed Blade of the Windseeker]|h|r",
+					["serverTime"] = 1605618083,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						101, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2934.151,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:27]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Fatowlbird-Frostmourne:274:CHANNEL:2|h|cfffe7b09Fatowlbird|r|h|cffd8d8d8]|r: MAN, australia sucks compared to america",
+					["serverTime"] = 1605618085,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						75, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2936.431,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:27]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Matthington-Frostmourne:275:CHANNEL:2|h|cffa9d271Matthington|r|h|cffd8d8d8]|r: memver when trade chat was for trade? I member.",
+					["serverTime"] = 1605618085,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						93, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2936.681,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:27]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Enhaimér-Frostmourne:276:CHANNEL:2|h|cfffefefeEnhaimér|r|h|cffd8d8d8]|r: my god thunderfury meme is spreaded",
+					["serverTime"] = 1605618085,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						105, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2936.921,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:29]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Orlintheus-Jubei'Thos:277:CHANNEL:2|h|cffc59a6cOrlintheus|r-|cffd0d34cJub|r|h|cffd8d8d8]|r: how cute a kid in chat claimin to know a thing or two bout gangsters yet claimin australia has none clearly dnt know tht much otherwise your mouth wouldnt be so loosely flappin and spillin garbage",
+					["serverTime"] = 1605618087,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2937.961,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:29]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Örzhov-Frostmourne:278:CHANNEL:2|h|cfff38bb9Örzhov|r|h|cffd8d8d8]|r: I think I heard a |cffff8000|Hitem:19019:2673:::::::50:254::11:::::|h[Thunderfury, Blessed Blade of the Windseeker]|h|r",
+					["serverTime"] = 1605618087,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						107, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2938.821,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:31]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Fatowlbird-Frostmourne:279:CHANNEL:2|h|cfffe7b09Fatowlbird|r|h|cffd8d8d8]|r: movies, tv, music...",
+					["serverTime"] = 1605618089,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						75, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2940.761,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:34]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Chinesespy-Frostmourne:280:CHANNEL:2|h|cff00fe97Chinesespy|r|h|cffd8d8d8]|r: i quit classic and the next MC lockout the 2nd binding i needed dropped so uninstalled that shit",
+					["serverTime"] = 1605618092,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						109, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2943.324,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:51]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Arcticwolf-Frostmourne:281:CHANNEL:2|h|cffc59a6cArcticwolf|r|h|cffd8d8d8]|r: what's that? i thought i heard |cffff8000|Hitem:19019::::::::33:72:::1:3524::::|h[Thunderfury, Blessed Blade of the Windseeker]|h|r",
+					["serverTime"] = 1605618109,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						111, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2960.753,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:51]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sharmstyle-Frostmourne:282:CHANNEL:2|h|cff006fdcSharmstyle|r|h|cffd8d8d8]|r: DID SOMEONE SAY |cffffff00|Hachievement:428:Player-3725-0AC77243:1:8:16:15:4294967295:4294967295:4294967295:4294967295|h[Thunderfury, Blessed Blade of the Windseeker]|h|r",
+					["serverTime"] = 1605618109,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2960.753,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:56]|h|r Cardenaas says: Look, Blackwarrior has arrived! This may be the stroke that turns the tide of this battle!",
+					["serverTime"] = 1605618114,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2965.217,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:59]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Fatowlbird-Frostmourne:284:CHANNEL:2|h|cfffe7b09Fatowlbird|r|h|cffd8d8d8]|r: Orlin all the \"gangsters\" in aus are meth addicts",
+					["serverTime"] = 1605618117,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						75, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2968.201,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:01:59]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Drungy-Frostmourne:285:CHANNEL:2|h|cff006fdcDrungy|r|h|cffd8d8d8]|r: |cffff8000|Hitem:19019::::::::33:72:::1:3524::::|h[Thunderfury, Blessed Blade of the Windseeker]|h|r",
+					["serverTime"] = 1605618117,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						113, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2968.441,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:06]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Urdren-Frostmourne:286:CHANNEL:2|h|cffa9d271Urdren|r|h|cffd8d8d8]|r: |cffffff00|Hachievement:10335:Player-3725-0BE228ED:1:11:16:15:4294967295:4294967295:4294967295:4294967295|h[Did Someone Say...?]|h|r |cffffffff(|rCompleted 11/17/15|cffffffff)|r|cffff8000|Hitem:19019::::::::50:254:::1:3524::::|h[Thunderfury, Blessed Blade of the Windseeker]|h|r?",
+					["serverTime"] = 1605618124,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						101, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2975.177,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:09]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Chinesespy-Frostmourne:287:CHANNEL:2|h|cff00fe97Chinesespy|r|h|cffd8d8d8]|r: but '14 dont count tho",
+					["serverTime"] = 1605618127,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						109, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2978.753,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:11]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Caliginosus-Frostmourne:288:CHANNEL:2|h|cfff38bb9Caliginosus|r|h|cffd8d8d8]|r: |cffffff00|Hachievement:428:Player-3725-0BE4215F:1:8:21:10:4294967295:4294967295:4294967295:4294967295|h[Thunderfury, Blessed Blade of the Windseeker]|h|r",
+					["serverTime"] = 1605618129,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						115, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2980.703,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [125]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:18]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Ambidextrouz-Frostmourne:289:CHANNEL:2|h|cffa22fc8Ambidextrouz|r|h|cffd8d8d8]|r: whats the best illusion enchant for |cffff8000|Hitem:19019::::::::50:577:::1:3524::::|h[Thunderfury, Blessed Blade of the Windseeker]|h|r",
+					["serverTime"] = 1605618136,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						117, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2987.232,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [126]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:18]|h|r You are now Neutral with Arakkoa Outcasts.",
+					["serverTime"] = 1605618136,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2987.452,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [127]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[02:02:23]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Chinesespy-Frostmourne:291:CHANNEL:2|h|cff00fe97Chinesespy|r|h|cffd8d8d8]|r: void",
+					["serverTime"] = 1605618141,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						109, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2992.688,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

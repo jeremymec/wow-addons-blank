@@ -1,0 +1,3577 @@
+
+WeakAurasSaved = {
+	["dynamicIconCache"] = {
+	},
+	["editor_tab_spaces"] = 4,
+	["displays"] = {
+		["Merektha's Fang Channel"] = {
+			["user_y"] = 0,
+			["user_x"] = 0,
+			["xOffset"] = 0,
+			["preferToUpdate"] = false,
+			["yOffset"] = -210,
+			["foregroundColor"] = {
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			},
+			["desaturateBackground"] = false,
+			["sameTexture"] = true,
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["desaturateForeground"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["use_castType"] = true,
+						["itemName"] = 158367,
+						["spellId"] = 267402,
+						["use_genericShowOn"] = true,
+						["genericShowOn"] = "showOnCooldown",
+						["names"] = {
+						},
+						["use_direction"] = true,
+						["use_unit"] = true,
+						["use_absorbMode"] = true,
+						["spellName"] = "Merektha's Fang",
+						["debuffType"] = "HELPFUL",
+						["buffShowOn"] = "showOnActive",
+						["type"] = "status",
+						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_SUCCESS",
+						["use_itemName"] = true,
+						["use_spellName"] = false,
+						["event"] = "Cast",
+						["castType"] = "channel",
+						["realSpellName"] = 0,
+						["use_spellId"] = true,
+						["spellIds"] = {
+						},
+						["use_sourceUnit"] = true,
+						["unit"] = "player",
+						["duration"] = "2.6",
+						["sourceUnit"] = "player",
+						["subeventPrefix"] = "SPELL_PERIODIC",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
+			["endAngle"] = 360,
+			["internalVersion"] = 40,
+			["animation"] = {
+				["start"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["use_rotate"] = false,
+					["scalex"] = 0.1,
+					["colorA"] = 1,
+					["alphaType"] = "alphaPulse",
+					["colorB"] = 0.050980392156863,
+					["colorG"] = 0,
+					["alphaFunc"] = "function(progress, start, delta)\n    local angle = (progress * 2 * math.pi) - (math.pi / 2)\n    return start + (((math.sin(angle) + 1)/2) * delta)\nend\n",
+					["duration_type"] = "seconds",
+					["rotateFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
+					["duration"] = "0.5",
+					["use_alpha"] = true,
+					["easeStrength"] = 3,
+					["type"] = "custom",
+					["use_color"] = true,
+					["easeType"] = "none",
+					["x"] = 0,
+					["preset"] = "alphaPulse",
+					["alpha"] = 0.6,
+					["scaleType"] = "straightScale",
+					["y"] = 0,
+					["colorType"] = "pulseHSV",
+					["scaley"] = 1,
+					["rotateType"] = "straight",
+					["colorFunc"] = "function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n    local angle = (progress * 2 * math.pi) - (math.pi / 2)\n    local newProgress = ((math.sin(angle) + 1)/2);\n    return WeakAuras.GetHSVTransition(newProgress, r1, g1, b1, a1, r2, g2, b2, a2)\nend\n",
+					["rotate"] = 60,
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      return startX + (progress * (scaleX - startX)), startY + (progress * (scaleY - startY))\n    end\n  ",
+					["use_scale"] = false,
+				},
+				["finish"] = {
+					["colorR"] = 1,
+					["use_scale"] = true,
+					["alphaType"] = "straight",
+					["colorB"] = 0,
+					["colorG"] = 0.062745098039216,
+					["alphaFunc"] = "function(progress, start, delta)\n    return start + (progress * delta)\nend\n",
+					["duration"] = "0.2",
+					["type"] = "custom",
+					["use_alpha"] = true,
+					["easeStrength"] = 3,
+					["scaleType"] = "straightScale",
+					["colorA"] = 1,
+					["easeType"] = "none",
+					["scaleFunc"] = "function(progress, startX, startY, scaleX, scaleY)\n    return startX + (progress * (scaleX - startX)), startY + (progress * (scaleY - startY))\nend\n",
+					["use_color"] = false,
+					["alpha"] = 0,
+					["x"] = 0,
+					["y"] = 0,
+					["colorType"] = "pulseHSV",
+					["scaley"] = 1.5,
+					["preset"] = "fade",
+					["colorFunc"] = "    function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      local newProgress = ((math.sin(angle) + 1)/2);\n      return WeakAuras.GetHSVTransition(newProgress, r1, g1, b1, a1, r2, g2, b2, a2)\n    end\n  ",
+					["rotate"] = 0,
+					["duration_type"] = "seconds",
+					["scalex"] = 1.5,
+				},
+			},
+			["alpha"] = 1,
+			["stickyDuration"] = false,
+			["rotation"] = 272,
+			["font"] = "Friz Quadrata TT",
+			["version"] = 3,
+			["parent"] = "Bone Shield Group",
+			["height"] = 210,
+			["color"] = {
+			},
+			["crop_y"] = 0,
+			["crop_x"] = 0,
+			["useAdjustededMax"] = false,
+			["backgroundTexture"] = "450915",
+			["textureWrapMode"] = "CLAMP",
+			["foregroundTexture"] = "165635",
+			["backgroundColor"] = {
+				0.32549019607843, -- [1]
+				0.32549019607843, -- [2]
+				0.32549019607843, -- [3]
+				0.26300531625748, -- [4]
+			},
+			["load"] = {
+				["use_class"] = true,
+				["use_spec"] = true,
+				["use_combat"] = true,
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+					},
+				},
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["mirror"] = false,
+			["useAdjustededMin"] = false,
+			["regionType"] = "progresstexture",
+			["config"] = {
+			},
+			["blendMode"] = "ADD",
+			["authorOptions"] = {
+			},
+			["anchorFrameType"] = "SCREEN",
+			["slantMode"] = "INSIDE",
+			["anchorPoint"] = "CENTER",
+			["selfPoint"] = "CENTER",
+			["tocversion"] = 90001,
+			["semver"] = "1.0.2",
+			["compress"] = false,
+			["id"] = "Merektha's Fang Channel",
+			["fontSize"] = 12,
+			["frameStrata"] = 1,
+			["width"] = 420,
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["uid"] = "4KsG5Qa8WhV",
+			["inverse"] = false,
+			["startAngle"] = 0,
+			["orientation"] = "ANTICLOCKWISE",
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["backgroundOffset"] = 2,
+		},
+		["BoneShield Background Layer 1"] = {
+			["user_y"] = 0.03,
+			["slantMode"] = "INSIDE",
+			["user_x"] = 0,
+			["authorOptions"] = {
+			},
+			["adjustedMax"] = 30,
+			["adjustedMin"] = 0,
+			["yOffset"] = -260,
+			["anchorPoint"] = "CENTER",
+			["desaturateBackground"] = false,
+			["sameTexture"] = true,
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["backgroundColor"] = {
+				0.019607843137255, -- [1]
+				0.07843137254902, -- [2]
+				0.015686274509804, -- [3]
+				1, -- [4]
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["auranames"] = {
+							"195181", -- [1]
+						},
+						["matchesShowOn"] = "showAlways",
+						["genericShowOn"] = "showOnActive",
+						["subeventPrefix"] = "SPELL",
+						["use_tooltip"] = false,
+						["debuffType"] = "HELPFUL",
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Health",
+						["names"] = {
+							"Bone Shield", -- [1]
+						},
+						["spellIds"] = {
+							195181, -- [1]
+						},
+						["useGroup_count"] = false,
+						["useName"] = true,
+						["combineMatches"] = "showLowest",
+						["buffShowOn"] = "showOnActive",
+						["unit"] = "player",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
+			["endAngle"] = 360,
+			["internalVersion"] = 40,
+			["slanted"] = false,
+			["animation"] = {
+				["start"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["duration"] = "1",
+					["alphaType"] = "straight",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
+					["use_alpha"] = false,
+					["type"] = "none",
+					["colorA"] = 1,
+					["easeType"] = "none",
+					["use_scale"] = true,
+					["scaley"] = 1.1,
+					["alpha"] = 0,
+					["easeStrength"] = 3,
+					["y"] = 0,
+					["x"] = 0,
+					["scalex"] = 1.1,
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      return startX + (((math.sin(angle) + 1)/2) * (scaleX - 1)), startY + (((math.sin(angle) + 1)/2) * (scaleY - 1))\n    end\n  ",
+					["scaleType"] = "pulse",
+					["rotate"] = 0,
+					["preset"] = "pulse",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+			},
+			["xOffset"] = 0,
+			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "incombat",
+						["value"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = 1,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				}, -- [1]
+			},
+			["parent"] = "Bone Shield Group",
+			["desc"] = "1",
+			["rotation"] = 0,
+			["font"] = "Friz Quadrata TT",
+			["version"] = 3,
+			["foregroundColor"] = {
+				0.22745098039216, -- [1]
+				0.82745098039216, -- [2]
+				0.12549019607843, -- [3]
+				0, -- [4]
+			},
+			["height"] = 220,
+			["preferToUpdate"] = false,
+			["load"] = {
+				["use_petbattle"] = false,
+				["use_never"] = false,
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["use_class"] = true,
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+				["talent2"] = {
+					["multi"] = {
+					},
+				},
+				["talent"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["ingroup"] = {
+					["multi"] = {
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["config"] = {
+			},
+			["useAdjustededMax"] = true,
+			["backgroundTexture"] = "450915",
+			["selfPoint"] = "CENTER",
+			["startAngle"] = 0,
+			["anchorFrameType"] = "SCREEN",
+			["frameStrata"] = 1,
+			["mirror"] = false,
+			["useAdjustededMin"] = false,
+			["regionType"] = "progresstexture",
+			["fontSize"] = 12,
+			["blendMode"] = "BLEND",
+			["crop_y"] = 0,
+			["compress"] = false,
+			["slantFirst"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["color"] = {
+			},
+			["textureWrapMode"] = "CLAMP",
+			["semver"] = "1.0.2",
+			["tocversion"] = 90001,
+			["id"] = "BoneShield Background Layer 1",
+			["foregroundTexture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura21",
+			["alpha"] = 1,
+			["width"] = 250,
+			["stickyDuration"] = false,
+			["uid"] = "b6tGfJPc1lx",
+			["inverse"] = false,
+			["desaturateForeground"] = false,
+			["orientation"] = "ANTICLOCKWISE",
+			["crop_x"] = 0,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["backgroundOffset"] = 0,
+		},
+		["BoneShield Gain Stack"] = {
+			["color"] = {
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				0.75, -- [4]
+			},
+			["preferToUpdate"] = false,
+			["yOffset"] = -260,
+			["anchorPoint"] = "CENTER",
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["direction"] = "LOST",
+						["spellId"] = "195181",
+						["duration"] = "0.2",
+						["use_direction"] = true,
+						["spellName"] = 195181,
+						["subeventSuffix"] = "_AURA_APPLIED_DOSE",
+						["event"] = "Combat Log",
+						["use_exact_spellName"] = true,
+						["use_spellId"] = true,
+						["name"] = "Bonestorm",
+						["use_sourceUnit"] = true,
+						["use_charges"] = false,
+						["names"] = {
+						},
+						["use_number"] = false,
+						["useExactSpellId"] = true,
+						["use_cloneId"] = false,
+						["debuffType"] = "HELPFUL",
+						["charges_operator"] = "==",
+						["use_sourceName"] = false,
+						["type"] = "event",
+						["auraspellids"] = {
+							"195181", -- [1]
+						},
+						["unit"] = "player",
+						["unevent"] = "timed",
+						["auraType"] = "BUFF",
+						["number_operator"] = "==",
+						["realSpellName"] = 195181,
+						["use_spellName"] = false,
+						["spellIds"] = {
+						},
+						["buffShowOn"] = "showOnActive",
+						["subeventPrefix"] = "SPELL",
+						["charges"] = "1",
+						["sourceUnit"] = "player",
+						["use_auraType"] = false,
+					},
+					["untrigger"] = {
+						["use_charges"] = false,
+						["direction"] = "LOST",
+						["use_spellName"] = true,
+						["use_direction"] = true,
+					},
+				}, -- [1]
+				{
+					["trigger"] = {
+						["unit"] = "player",
+						["type"] = "aura2",
+						["useExactSpellId"] = true,
+						["auraspellids"] = {
+							"195181", -- [1]
+						},
+						["debuffType"] = "HELPFUL",
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Health",
+						["subeventPrefix"] = "SPELL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [2]
+				["activeTriggerMode"] = -10,
+			},
+			["internalVersion"] = 40,
+			["animation"] = {
+				["start"] = {
+					["colorR"] = 1,
+					["duration"] = "0.2",
+					["alphaType"] = "straight",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "function(progress, start, delta)\n    return start + (progress * delta)\nend\n",
+					["use_alpha"] = true,
+					["type"] = "custom",
+					["colorA"] = 1,
+					["easeType"] = "none",
+					["use_scale"] = true,
+					["scaley"] = 2,
+					["alpha"] = 0,
+					["easeStrength"] = 3,
+					["y"] = 0,
+					["x"] = 0,
+					["scalex"] = 2,
+					["scaleFunc"] = "function(progress, startX, startY, scaleX, scaleY)\n    return startX + (progress * (scaleX - startX)), startY + (progress * (scaleY - startY))\nend\n",
+					["scaleType"] = "straightScale",
+					["rotate"] = 0,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["duration"] = "0.25",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["scaleType"] = "straightScale",
+					["easeType"] = "none",
+					["colorA"] = 1,
+					["scaley"] = 1.5,
+					["alpha"] = 0,
+					["scalex"] = 1.5,
+					["y"] = 0,
+					["x"] = 0,
+					["easeStrength"] = 3,
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      return startX + (progress * (scaleX - startX)), startY + (progress * (scaleY - startY))\n    end\n  ",
+					["type"] = "none",
+					["rotate"] = 0,
+					["duration_type"] = "seconds",
+					["use_scale"] = true,
+				},
+				["finish"] = {
+					["colorR"] = 1,
+					["duration"] = "0.2",
+					["alphaType"] = "straight",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "function(progress, start, delta)\n    return start + (progress * delta)\nend\n",
+					["use_alpha"] = true,
+					["type"] = "custom",
+					["colorA"] = 1,
+					["easeType"] = "none",
+					["use_scale"] = false,
+					["scaley"] = 2,
+					["alpha"] = 0,
+					["easeStrength"] = 3,
+					["y"] = 0,
+					["x"] = 0,
+					["scalex"] = 2,
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      return startX + (progress * (scaleX - startX)), startY + (progress * (scaleY - startY))\n    end\n  ",
+					["scaleType"] = "straightScale",
+					["rotate"] = 0,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+			},
+			["desaturate"] = false,
+			["discrete_rotation"] = 0,
+			["version"] = 3,
+			["height"] = 270,
+			["rotate"] = true,
+			["load"] = {
+				["use_petbattle"] = false,
+				["use_never"] = false,
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["use_class"] = true,
+				["use_vehicleUi"] = false,
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["textureWrapMode"] = "CLAMP",
+			["mirror"] = false,
+			["regionType"] = "texture",
+			["blendMode"] = "BLEND",
+			["anchorFrameType"] = "SCREEN",
+			["texture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura21",
+			["xOffset"] = 0,
+			["parent"] = "Bone Shield Group",
+			["semver"] = "1.0.2",
+			["tocversion"] = 90001,
+			["id"] = "BoneShield Gain Stack",
+			["selfPoint"] = "CENTER",
+			["frameStrata"] = 1,
+			["width"] = 300,
+			["uid"] = "T7U0Ok89hoj",
+			["config"] = {
+			},
+			["authorOptions"] = {
+			},
+			["alpha"] = 1,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["rotation"] = 0,
+		},
+		["BoneShield Progress layer2"] = {
+			["user_y"] = 0.03,
+			["slantFirst"] = false,
+			["user_x"] = 0,
+			["color"] = {
+			},
+			["adjustedMax"] = 30,
+			["adjustedMin"] = 0.7,
+			["yOffset"] = -260.00003051758,
+			["anchorPoint"] = "CENTER",
+			["desaturateBackground"] = false,
+			["slanted"] = false,
+			["sameTexture"] = true,
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["auranames"] = {
+							"195181", -- [1]
+						},
+						["matchesShowOn"] = "showOnActive",
+						["genericShowOn"] = "showOnActive",
+						["subeventPrefix"] = "SPELL",
+						["use_tooltip"] = false,
+						["debuffType"] = "HELPFUL",
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Health",
+						["names"] = {
+							"Bone Shield", -- [1]
+						},
+						["spellIds"] = {
+							195181, -- [1]
+						},
+						["useGroup_count"] = false,
+						["useName"] = true,
+						["combineMatches"] = "showLowest",
+						["buffShowOn"] = "showOnActive",
+						["unit"] = "player",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
+			["endAngle"] = 360,
+			["internalVersion"] = 40,
+			["foregroundColor"] = {
+				0.22745098039216, -- [1]
+				0.82745098039216, -- [2]
+				0.12549019607843, -- [3]
+				1, -- [4]
+			},
+			["selfPoint"] = "CENTER",
+			["conditions"] = {
+				{
+					["check"] = {
+						["op"] = ">",
+						["checks"] = {
+							{
+								["trigger"] = -1,
+								["variable"] = "incombat",
+								["value"] = 1,
+							}, -- [1]
+							{
+								["trigger"] = 1,
+								["op"] = ">",
+								["variable"] = "expirationTime",
+								["value"] = "10",
+							}, -- [2]
+						},
+						["value"] = "10",
+						["variable"] = "expirationTime",
+						["trigger"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								0.22745098039216, -- [1]
+								0.82745098039216, -- [2]
+								0.12549019607843, -- [3]
+								1, -- [4]
+							},
+							["property"] = "foregroundColor",
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["check"] = {
+						["op"] = "<=",
+						["checks"] = {
+							{
+								["trigger"] = -1,
+								["variable"] = "incombat",
+								["value"] = 1,
+							}, -- [1]
+							{
+								["trigger"] = 1,
+								["op"] = "<=",
+								["variable"] = "expirationTime",
+								["value"] = "10",
+							}, -- [2]
+						},
+						["value"] = "10",
+						["variable"] = "expirationTime",
+						["trigger"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								1, -- [1]
+								0, -- [2]
+								0.019607843137255, -- [3]
+								1, -- [4]
+							},
+							["property"] = "foregroundColor",
+						}, -- [1]
+					},
+				}, -- [2]
+			},
+			["xOffset"] = 0,
+			["backgroundColor"] = {
+				0.019607843137255, -- [1]
+				0.07843137254902, -- [2]
+				0.015686274509804, -- [3]
+				0, -- [4]
+			},
+			["stickyDuration"] = false,
+			["rotation"] = 0,
+			["font"] = "Friz Quadrata TT",
+			["version"] = 3,
+			["animation"] = {
+				["start"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["duration"] = "1",
+					["alphaType"] = "straight",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
+					["use_alpha"] = false,
+					["type"] = "none",
+					["colorA"] = 1,
+					["easeType"] = "none",
+					["use_scale"] = true,
+					["scaley"] = 1.1,
+					["alpha"] = 0,
+					["easeStrength"] = 3,
+					["y"] = 0,
+					["x"] = 0,
+					["scalex"] = 1.1,
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      return startX + (((math.sin(angle) + 1)/2) * (scaleX - 1)), startY + (((math.sin(angle) + 1)/2) * (scaleY - 1))\n    end\n  ",
+					["scaleType"] = "pulse",
+					["rotate"] = 0,
+					["preset"] = "pulse",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["colorR"] = 1,
+					["duration"] = "0.2",
+					["colorA"] = 1,
+					["colorG"] = 0,
+					["colorB"] = 0,
+					["use_scale"] = true,
+					["easeStrength"] = 3,
+					["type"] = "preset",
+					["scalex"] = 2,
+					["easeType"] = "none",
+					["preset"] = "fade",
+					["use_color"] = true,
+					["alpha"] = 0,
+					["x"] = 0,
+					["y"] = 0,
+					["colorType"] = "straightHSV",
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      return startX + (progress * (scaleX - startX)), startY + (progress * (scaleY - startY))\n    end\n  ",
+					["scaley"] = 2,
+					["colorFunc"] = "    function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n      return WeakAuras.GetHSVTransition(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n    end\n  ",
+					["rotate"] = 0,
+					["scaleType"] = "straightScale",
+					["duration_type"] = "seconds",
+				},
+			},
+			["height"] = 270,
+			["uid"] = "zQTPFpMg2B)",
+			["load"] = {
+				["use_petbattle"] = false,
+				["use_never"] = false,
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["use_class"] = true,
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+				["talent2"] = {
+					["multi"] = {
+					},
+				},
+				["talent"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["ingroup"] = {
+					["multi"] = {
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["backgroundTexture"] = "450915",
+			["useAdjustededMax"] = true,
+			["fontSize"] = 12,
+			["anchorFrameType"] = "SCREEN",
+			["startAngle"] = 0,
+			["frameStrata"] = 1,
+			["desc"] = "1",
+			["mirror"] = false,
+			["useAdjustededMin"] = true,
+			["regionType"] = "progresstexture",
+			["textureWrapMode"] = "CLAMP",
+			["blendMode"] = "BLEND",
+			["tocversion"] = 90001,
+			["foregroundTexture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura21",
+			["slantMode"] = "INSIDE",
+			["smoothProgress"] = true,
+			["desaturateForeground"] = false,
+			["preferToUpdate"] = false,
+			["semver"] = "1.0.2",
+			["compress"] = false,
+			["id"] = "BoneShield Progress layer2",
+			["authorOptions"] = {
+			},
+			["alpha"] = 1,
+			["width"] = 300,
+			["crop_y"] = 0,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["parent"] = "Bone Shield Group",
+			["orientation"] = "ANTICLOCKWISE",
+			["crop_x"] = 0,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["backgroundOffset"] = 0,
+		},
+		["BoneShield Background Icon"] = {
+			["iconSource"] = 0,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["preferToUpdate"] = false,
+			["yOffset"] = -268,
+			["anchorPoint"] = "CENTER",
+			["cooldownSwipe"] = true,
+			["customTextUpdate"] = "update",
+			["cooldownEdge"] = false,
+			["icon"] = true,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["debuffType"] = "HELPFUL",
+						["useName"] = true,
+						["use_debuffClass"] = false,
+						["auranames"] = {
+							"195181", -- [1]
+						},
+						["useGroup_count"] = false,
+						["matchesShowOn"] = "showAlways",
+						["event"] = "Health",
+						["unit"] = "player",
+						["names"] = {
+							"Bone Shield", -- [1]
+						},
+						["use_tooltip"] = false,
+						["spellIds"] = {
+							195181, -- [1]
+						},
+						["type"] = "aura2",
+						["subeventPrefix"] = "SPELL",
+						["combineMatches"] = "showLowest",
+						["subeventSuffix"] = "_CAST_START",
+						["buffShowOn"] = "showOnActive",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
+			["internalVersion"] = 40,
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["scalex"] = 1,
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["scaleType"] = "straightScale",
+					["easeType"] = "none",
+					["scaley"] = 1,
+					["alpha"] = 0,
+					["colorA"] = 1,
+					["y"] = 0,
+					["x"] = 0,
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      return startX + (progress * (scaleX - startX)), startY + (progress * (scaleY - startY))\n    end\n  ",
+					["rotate"] = 0,
+					["duration_type"] = "relative",
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["use_scale"] = false,
+				},
+				["finish"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+			},
+			["stickyDuration"] = false,
+			["version"] = 3,
+			["subRegions"] = {
+				{
+					["text_shadowXOffset"] = 0,
+					["text_text_format_s_format"] = "none",
+					["text_text"] = "%s",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_shadowYOffset"] = 0,
+					["text_wordWrap"] = "WordWrap",
+					["text_fontType"] = "OUTLINE",
+					["text_anchorPoint"] = "CENTER",
+					["text_fontSize"] = 6,
+					["anchorXOffset"] = 0,
+					["text_visible"] = false,
+				}, -- [1]
+			},
+			["height"] = 80,
+			["load"] = {
+				["use_petbattle"] = false,
+				["use_never"] = false,
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["use_class"] = true,
+				["use_vehicleUi"] = false,
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["cooldownTextDisabled"] = false,
+			["uid"] = "PQREUWLn5QD",
+			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["regionType"] = "icon",
+			["cooldown"] = false,
+			["displayIcon"] = 458717,
+			["desaturate"] = false,
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["width"] = 70,
+			["frameStrata"] = 1,
+			["zoom"] = 0.31,
+			["semver"] = "1.0.2",
+			["tocversion"] = 90001,
+			["id"] = "BoneShield Background Icon",
+			["xOffset"] = 0,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["auto"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "incombat",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.25,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "incombat",
+						["value"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.75,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["op"] = "<",
+						["variable"] = "stacks",
+						["value"] = "5",
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								1, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["property"] = "color",
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["op"] = ">=",
+						["variable"] = "stacks",
+						["value"] = "5",
+					},
+					["changes"] = {
+						{
+							["property"] = "color",
+						}, -- [1]
+					},
+				}, -- [4]
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["parent"] = "Bone Shield Group",
+		},
+		["BoneShield Lose Stack"] = {
+			["color"] = {
+				1, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.75, -- [4]
+			},
+			["preferToUpdate"] = false,
+			["yOffset"] = -260,
+			["anchorPoint"] = "CENTER",
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["direction"] = "LOST",
+						["spellId"] = "195181",
+						["duration"] = "0.001",
+						["use_direction"] = true,
+						["spellName"] = 195181,
+						["subeventSuffix"] = "_AURA_REMOVED_DOSE",
+						["event"] = "Combat Log",
+						["use_exact_spellName"] = true,
+						["use_spellId"] = true,
+						["name"] = "Bonestorm",
+						["use_sourceUnit"] = true,
+						["use_charges"] = false,
+						["unit"] = "player",
+						["useExactSpellId"] = true,
+						["use_number"] = false,
+						["use_sourceName"] = false,
+						["use_cloneId"] = false,
+						["debuffType"] = "HELPFUL",
+						["charges_operator"] = "==",
+						["charges"] = "1",
+						["type"] = "event",
+						["auraType"] = "BUFF",
+						["auraspellids"] = {
+							"195181", -- [1]
+						},
+						["names"] = {
+						},
+						["sourceName"] = "Ukratar",
+						["realSpellName"] = 195181,
+						["number_operator"] = "==",
+						["use_spellName"] = false,
+						["spellIds"] = {
+						},
+						["unevent"] = "timed",
+						["subeventPrefix"] = "SPELL",
+						["buffShowOn"] = "showOnActive",
+						["sourceUnit"] = "player",
+						["use_auraType"] = false,
+					},
+					["untrigger"] = {
+						["use_charges"] = false,
+						["direction"] = "LOST",
+						["use_spellName"] = true,
+						["use_direction"] = true,
+					},
+				}, -- [1]
+				{
+					["trigger"] = {
+						["type"] = "event",
+						["spellId"] = "195181",
+						["useExactSpellId"] = true,
+						["use_unit"] = true,
+						["duration"] = "0.001",
+						["event"] = "Combat Log",
+						["subeventPrefix"] = "SPELL",
+						["use_absorbMode"] = true,
+						["use_spellId"] = true,
+						["unevent"] = "timed",
+						["unit"] = "player",
+						["auraspellids"] = {
+							"195181", -- [1]
+						},
+						["subeventSuffix"] = "_AURA_REMOVED",
+						["matchesShowOn"] = "showOnMissing",
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [2]
+				["disjunctive"] = "any",
+				["activeTriggerMode"] = -10,
+			},
+			["internalVersion"] = 40,
+			["animation"] = {
+				["start"] = {
+					["colorR"] = 1,
+					["duration"] = "0.1",
+					["alphaType"] = "straight",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
+					["use_alpha"] = false,
+					["type"] = "custom",
+					["colorA"] = 1,
+					["easeType"] = "none",
+					["use_scale"] = false,
+					["scaley"] = 0,
+					["alpha"] = 0,
+					["easeStrength"] = 3,
+					["y"] = 0,
+					["x"] = 0,
+					["scalex"] = 0,
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      return startX + (((math.sin(angle) + 1)/2) * (scaleX - 1)), startY + (((math.sin(angle) + 1)/2) * (scaleY - 1))\n    end\n  ",
+					["scaleType"] = "pulse",
+					["rotate"] = 0,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["duration"] = "0.25",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["scaleType"] = "straightScale",
+					["easeType"] = "none",
+					["colorA"] = 1,
+					["scaley"] = 1.5,
+					["alpha"] = 0,
+					["scalex"] = 1.5,
+					["y"] = 0,
+					["x"] = 0,
+					["easeStrength"] = 3,
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      return startX + (progress * (scaleX - startX)), startY + (progress * (scaleY - startY))\n    end\n  ",
+					["type"] = "none",
+					["rotate"] = 0,
+					["duration_type"] = "seconds",
+					["use_scale"] = true,
+				},
+				["finish"] = {
+					["colorR"] = 1,
+					["duration"] = "0.25",
+					["alphaType"] = "straight",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "function(progress, start, delta)\n    return start + (progress * delta)\nend\n",
+					["use_alpha"] = true,
+					["type"] = "custom",
+					["colorA"] = 1,
+					["easeType"] = "none",
+					["use_scale"] = true,
+					["scaley"] = 2,
+					["alpha"] = 0.2,
+					["easeStrength"] = 3,
+					["y"] = 0,
+					["x"] = 0,
+					["scalex"] = 2,
+					["scaleFunc"] = "function(progress, startX, startY, scaleX, scaleY)\n    return startX + (progress * (scaleX - startX)), startY + (progress * (scaleY - startY))\nend\n",
+					["scaleType"] = "straightScale",
+					["rotate"] = 0,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+			},
+			["desaturate"] = false,
+			["discrete_rotation"] = 0,
+			["version"] = 3,
+			["height"] = 270,
+			["rotate"] = true,
+			["load"] = {
+				["use_petbattle"] = false,
+				["use_never"] = false,
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["use_class"] = true,
+				["use_vehicleUi"] = false,
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["textureWrapMode"] = "CLAMP",
+			["mirror"] = false,
+			["regionType"] = "texture",
+			["blendMode"] = "BLEND",
+			["anchorFrameType"] = "SCREEN",
+			["texture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura21",
+			["xOffset"] = 0,
+			["parent"] = "Bone Shield Group",
+			["semver"] = "1.0.2",
+			["tocversion"] = 90001,
+			["id"] = "BoneShield Lose Stack",
+			["selfPoint"] = "CENTER",
+			["frameStrata"] = 1,
+			["width"] = 300,
+			["uid"] = "cs2PG2qfRsY",
+			["config"] = {
+			},
+			["authorOptions"] = {
+			},
+			["alpha"] = 1,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["rotation"] = 0,
+		},
+		["Bone Shield Group"] = {
+			["controlledChildren"] = {
+				"Merektha's Fang Channel", -- [1]
+				"BoneShield Background Icon", -- [2]
+				"BoneShield Background Layer 1", -- [3]
+				"BoneShield Background Layer 2", -- [4]
+				"BoneShield Spark", -- [5]
+				"BoneShield Progress layer1", -- [6]
+				"BoneShield Progress layer2", -- [7]
+				"BoneShield Lose Stack", -- [8]
+				"BoneShield Lose Stack 2", -- [9]
+				"BoneShield Gain Stack", -- [10]
+				"Bonestorm duration left", -- [11]
+				"Bonestorm duration right", -- [12]
+				"BoneShield Stacks", -- [13]
+			},
+			["borderBackdrop"] = "Blizzard Tooltip",
+			["authorOptions"] = {
+			},
+			["preferToUpdate"] = false,
+			["yOffset"] = 160.4286499023438,
+			["anchorPoint"] = "CENTER",
+			["borderColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["unit"] = "player",
+						["type"] = "aura2",
+						["spellIds"] = {
+						},
+						["subeventSuffix"] = "_CAST_START",
+						["subeventPrefix"] = "SPELL",
+						["debuffType"] = "HELPFUL",
+						["event"] = "Health",
+						["names"] = {
+						},
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+			},
+			["internalVersion"] = 40,
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
+			["version"] = 3,
+			["load"] = {
+				["use_class"] = "true",
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["scale"] = 1,
+			["border"] = false,
+			["borderEdge"] = "None",
+			["regionType"] = "group",
+			["borderSize"] = 16,
+			["borderOffset"] = 5,
+			["semver"] = "1.0.2",
+			["tocversion"] = 90001,
+			["id"] = "Bone Shield Group",
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["selfPoint"] = "BOTTOMLEFT",
+			["config"] = {
+			},
+			["borderInset"] = 11,
+			["xOffset"] = -308.3175659179688,
+			["conditions"] = {
+			},
+			["information"] = {
+				["groupOffset"] = true,
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["uid"] = "zWxb4BYgZxT",
+		},
+		["Death Strike Tracker"] = {
+			["outline"] = "None",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["displayText"] = "%n",
+			["yOffset"] = -235.1746826171875,
+			["displayText_format_p_time_dynamic"] = false,
+			["customTextUpdate"] = "event",
+			["url"] = "https://wago.io/WwF0xP7fu/11",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.baseHealPercentage = GetSpecialization() == 1 and 0.25 or 0.4\naura_env.minimumHealPercentage = GetSpecialization() == 1 and 0.07 or 0.105\n\naura_env.excludedSpellIds = { 240443, -- Burst (Bursting)\n    240559, -- Grievous Wound (Grievous)\n    209858, -- Necrotic Wound (Necrotic)\n    240447, -- Quake (Quaking)\n    315161 -- Eye of Corruption\n}\n\naura_env.trackingTime = 5\naura_env.damageEvents = {}\naura_env.totalDamage = 0\naura_env.expectedHealRaw = 0\naura_env.expectedHealPercentage = 0\naura_env.outputColourEscape = 'FFFFFFFF'\naura_env.output = ''\n\nlocal function formatOutput(output)\n    if output >= 10^6 then\n        return string.format('%.1fM', output / 10^6)\n    elseif output >= 10^3 then\n        return string.format('%.1fK', output / 10^3)\n    else\n        return string.format('%d', output)\n    end    \nend\n\nlocal function convertRgbaToHexEscape(rgbaColourTable)\n    local r = rgbaColourTable[1] > 0 and string.format('%x', rgbaColourTable[1] * 255) or '00'\n    local g = rgbaColourTable[2] > 0 and string.format('%x', rgbaColourTable[2] * 255) or '00'\n    local b = rgbaColourTable[3] > 0 and string.format('%x', rgbaColourTable[3] * 255) or '00'\n    local a = 'ff'\n    return string.format('%s%s%s%s', a, r, g, b)\nend\n\nfunction aura_env:updateOutput()\n    \n    local totalDamage = 0\n    \n    for _, event in ipairs(aura_env.damageEvents) do\n        totalDamage = totalDamage + event.damage\n    end\n    \n    local vampiricBlood = WA_GetUnitBuff(\"player\", 55233)\n    local guardianSpirit = WA_GetUnitBuff(\"player\", 47788)\n    local hemostasisStacks = select(3, WA_GetUnitBuff(\"player\", 273947))\n    local versatilityPercent = GetCombatRatingBonus(29)\n    local voracious = (GetSpecialization() == 1 and ({GetTalentInfoBySpecialization(GetSpecialization(), 6, 1)})[4] == true)\n    local darkSuccor = WA_GetUnitBuff(\"player\", 101568)\n    local insatiableAppetite = C_Soulbinds.IsConduitInstalledInSoulbind(C_Soulbinds.GetActiveSoulbindID(), 108)\n    \n    if voracious then\n        aura_env.baseHealPercentage = 0.3\n        aura_env.minimumHealPercentage = 0.105\n    end\n    \n    local iaBonus = 0\n    if insatiableAppetite and insatiableAppetite == true then\n        local iaRank = C_Soulbinds.GetConduitRankFromCollection(108)\n        iaBonus = 0.01 + (((iaRank - 1) * 0.1) / 100)\n    end\n    \n    local vampiricBloodBonus = IsSpellKnown(317133) and 0.35 or 0.3\n    local guardianSpiritBonus = 0.6\n    local hemostasisBonus = 0.08\n    local versatilityBonus = versatilityPercent / 100\n    \n    local necroticWoundStacks = select(3, WA_GetUnitDebuff(\"player\", 209858))\n    local necroticWoundReduction = 0.02\n    \n    local baseHeal = totalDamage * aura_env.baseHealPercentage\n    local minimumHeal = UnitHealthMax(\"player\") * (aura_env.minimumHealPercentage + iaBonus)\n    \n    local healAmount = math.max(baseHeal, minimumHeal)\n    \n    if vampiricBlood then\n        healAmount = healAmount * (1 + vampiricBloodBonus)\n    end\n    \n    if guardianSpirit then\n        healAmount = healAmount * (1 + guardianSpiritBonus)\n    end\n    \n    if hemostasisStacks then\n        healAmount = healAmount * (1 + (hemostasisStacks * hemostasisBonus))\n    end\n    \n    if versatilityPercent then\n        healAmount = healAmount * (1 + versatilityBonus)\n    end\n    \n    if darkSuccor then\n        healAmount = healAmount + (UnitHealthMax(\"player\") * 0.10)        \n    end\n    \n    --[[\n    if voracious then\n        healAmount = healAmount * (1 + 0.2)\n    end\n    --]]\n    \n    if necroticWoundStacks then\n        healAmount = healAmount * (1 - (necroticWoundStacks * necroticWoundReduction))\n    end    \n    \n    aura_env.expectedHealRaw = healAmount\n    aura_env.expectedHealPercentage = 100 / (UnitHealthMax(\"player\") / healAmount)\n    aura_env.totalDamage = totalDamage\n    \n    if aura_env.config['outputType'] == 1 then\n        aura_env.output = string.format('%.1f%%', aura_env.expectedHealPercentage)\n    elseif aura_env.config['outputType'] == 2 then\n        aura_env.output = formatOutput(aura_env.expectedHealRaw)\n    end    \n    \n    if aura_env.config['showDamageTaken'] then\n        aura_env.output = string.format('%s\\n%s', aura_env.output, formatOutput(aura_env.totalDamage))\n    end\n    \n    if aura_env.config['healingColours']['useHealingColours'] then\n        \n        if aura_env.expectedHealPercentage <= aura_env.config['healingThresholds']['lowHealThreshold'] then\n            \n            aura_env.output = WrapTextInColorCode(aura_env.output, convertRgbaToHexEscape(aura_env.config['healingColours']['lowHealColour']))        \n            \n        elseif aura_env.config['healingColours']['useMediumHealColour'] and aura_env.expectedHealPercentage > aura_env.config['healingThresholds']['lowHealThreshold'] and aura_env.expectedHealPercentage < aura_env.config['healingThresholds']['largeHealThreshold'] then\n            \n            aura_env.output = WrapTextInColorCode(aura_env.output, convertRgbaToHexEscape(aura_env.config['healingColours']['mediumHealColour']))\n            \n        elseif aura_env.expectedHealPercentage >= aura_env.config['healingThresholds']['largeHealThreshold'] then\n            \n            aura_env.output = WrapTextInColorCode(aura_env.output, convertRgbaToHexEscape(aura_env.config['healingColours']['largeHealColour']))\n            \n        end      \n        \n    end     \n    \nend\n\n\n",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Health",
+						["unit"] = "player",
+						["custom_hide"] = "custom",
+						["custom"] = "function(event, timestamp, subevent, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, ...)\n    \n    if destGUID == UnitGUID(\"player\") then\n        if not subevent:find(\"ENVIRONMENTAL\") and (subevent:find(\"DAMAGE\") or subevent:find(\"MISSED\")) then            \n            local damageTime = GetTime()\n            local damageTaken = nil\n            if subevent:find(\"DAMAGE\") and not subevent:find(\"DURABILITY\") then                \n                if not subevent:find(\"SWING\") then \n                    local spellId = select(1, ...)\n                    if not tContains(aura_env.excludedSpellIds, spellId) then\n                        damageTaken = select(4, ...)\n                        if select(9, ...) ~= nil then\n                            damageTaken = damageTaken + select(9, ...)\n                        end\n                    end\n                else\n                    damageTaken = select(1, ...)\n                    if select(6, ...) ~= nil then\n                        damageTaken = damageTaken + select(6, ...) \n                    end\n                end\n            elseif subevent:find(\"MISSED\") then\n                if not subevent:find(\"SWING\") and select(4, ...) == 'ABSORB' then\n                    local spellId = select(1, ...)\n                    if not tContains(aura_env.excludedSpellIds, spellId) then\n                        damageTaken = select(6, ...)\n                    end\n                elseif select(1, ...) == 'ABSORB' then\n                    damageTaken = select(3, ...) \n                end\n            end\n            if damageTaken ~= nil then            \n                tinsert(aura_env.damageEvents, {['time'] = damageTime, ['damage'] = damageTaken})\n                WeakAuras.ScanEvents(\"DEATH_STRIKE_TRACKER_DAMAGE_ENTERED\")\n                C_Timer.After(aura_env.trackingTime, function() WeakAuras.ScanEvents(\"DEATH_STRIKE_TRACKER_DAMAGE_EXPIRED\") end)\n            end\n        end        \n    end\n    \nend",
+						["spellIds"] = {
+						},
+						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
+						["custom_type"] = "event",
+						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+						["custom"] = "function()\n    return true\nend",
+					},
+				}, -- [1]
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["custom_type"] = "status",
+						["event"] = "Health",
+						["subeventPrefix"] = "SPELL",
+						["customName"] = "function()\n    return aura_env.output\nend",
+						["events"] = "DEATH_STRIKE_TRACKER_DAMAGE_ENTERED, DEATH_STRIKE_TRACKER_DAMAGE_REMOVED, UNIT_HEALTH:player, UNIT_AURA:player, COMBAT_RATING_UPDATE, UNIT_INVENTORY_CHANGED, SOULBIND_CONDUIT_COLLECTION_UPDATED, SOULBIND_ACTIVATED, SOULBIND_CONDUIT_INSTALLED, SOULBIND_CONDUIT_UNINSTALLED",
+						["check"] = "event",
+						["custom"] = "function()\n    aura_env:updateOutput()\n    return true\nend\n\n\n",
+						["subeventSuffix"] = "_CAST_START",
+					},
+					["untrigger"] = {
+						["custom"] = "function()    \n    return true\nend",
+					},
+				}, -- [2]
+				{
+					["trigger"] = {
+						["custom_type"] = "status",
+						["type"] = "custom",
+						["events"] = "DEATH_STRIKE_TRACKER_DAMAGE_EXPIRED",
+						["subeventSuffix"] = "_CAST_START",
+						["check"] = "event",
+						["custom"] = "function()\n    tremove(aura_env.damageEvents, 1)\n    WeakAuras.ScanEvents(\"DEATH_STRIKE_TRACKER_DAMAGE_REMOVED\")\nend",
+						["event"] = "Health",
+						["subeventPrefix"] = "SPELL",
+					},
+					["untrigger"] = {
+						["custom"] = "function()\n    return true\nend",
+					},
+				}, -- [3]
+				{
+					["trigger"] = {
+						["type"] = "status",
+						["use_incombat"] = true,
+						["unevent"] = "auto",
+						["use_vehicle"] = false,
+						["use_absorbMode"] = true,
+						["event"] = "Conditions",
+						["use_unit"] = true,
+						["subeventPrefix"] = "SPELL",
+						["subeventSuffix"] = "_CAST_START",
+						["duration"] = "1",
+						["unit"] = "player",
+					},
+					["untrigger"] = {
+					},
+				}, -- [4]
+				{
+					["trigger"] = {
+						["type"] = "status",
+						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
+						["duration"] = "1",
+						["use_absorbMode"] = true,
+						["genericShowOn"] = "showAlways",
+						["use_unit"] = true,
+						["realSpellName"] = "Death Strike",
+						["use_spellName"] = true,
+						["use_genericShowOn"] = true,
+						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
+						["event"] = "Cooldown Progress (Spell)",
+						["use_track"] = true,
+						["spellName"] = 49998,
+					},
+					["untrigger"] = {
+						["genericShowOn"] = "showAlways",
+					},
+				}, -- [5]
+				{
+					["trigger"] = {
+						["duration"] = "1",
+						["genericShowOn"] = "showOnCooldown",
+						["unit"] = "player",
+						["debuffType"] = "HELPFUL",
+						["type"] = "custom",
+						["unevent"] = "auto",
+						["spellName"] = 0,
+						["subeventPrefix"] = "",
+						["event"] = "Cooldown Progress (Spell)",
+						["custom"] = "function(event, ...)\n    aura_env.baseHealPercentage = GetSpecialization() == 1 and 0.25 or 0.4\n    aura_env.minimumHealPercentage = GetSpecialization() == 1 and 0.07 or 0.105 \nend",
+						["realSpellName"] = 0,
+						["use_spellName"] = true,
+						["events"] = "PLAYER_SPECIALIZATION_CHANGED",
+						["custom_type"] = "status",
+						["check"] = "event",
+						["subeventSuffix"] = "",
+						["use_track"] = true,
+						["use_genericShowOn"] = true,
+					},
+					["untrigger"] = {
+					},
+				}, -- [6]
+				["disjunctive"] = "any",
+				["activeTriggerMode"] = 2,
+			},
+			["displayText_format_p_format"] = "timed",
+			["internalVersion"] = 40,
+			["wordWrap"] = "WordWrap",
+			["font"] = "Friz Quadrata TT",
+			["version"] = 11,
+			["subRegions"] = {
+			},
+			["load"] = {
+				["use_class"] = true,
+				["use_never"] = false,
+				["class_and_spec"] = {
+					["single"] = 250,
+					["multi"] = {
+						[250] = true,
+					},
+				},
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["fontSize"] = 20,
+			["displayText_format_n_format"] = "none",
+			["shadowXOffset"] = 1,
+			["regionType"] = "text",
+			["fixedWidth"] = 200,
+			["selfPoint"] = "BOTTOM",
+			["authorOptions"] = {
+				{
+					["desc"] = "The form of healing that the aura will display.",
+					["type"] = "select",
+					["default"] = 1,
+					["values"] = {
+						"Percentage", -- [1]
+						"Raw Healing", -- [2]
+					},
+					["key"] = "outputType",
+					["useDesc"] = true,
+					["name"] = "Output Type",
+					["width"] = 1,
+				}, -- [1]
+				{
+					["type"] = "toggle",
+					["key"] = "showDamageTaken",
+					["desc"] = "Enable this to also show the amount of damage taken recently.",
+					["default"] = false,
+					["useDesc"] = true,
+					["name"] = "Show Damage Taken",
+					["width"] = 1,
+				}, -- [2]
+				{
+					["type"] = "header",
+					["useName"] = false,
+					["text"] = "",
+					["noMerge"] = false,
+					["width"] = 1,
+				}, -- [3]
+				{
+					["subOptions"] = {
+						{
+							["type"] = "toggle",
+							["key"] = "useHealingColours",
+							["desc"] = "If this is selected, the output text will be coloured based on the options below.",
+							["default"] = false,
+							["useDesc"] = true,
+							["name"] = "Use Healing Colours",
+							["width"] = 2,
+						}, -- [1]
+						{
+							["type"] = "color",
+							["key"] = "lowHealColour",
+							["desc"] = "This colour will be used if the next Death Strike will do less healing than the Low Healing threshold.",
+							["default"] = {
+								1, -- [1]
+								0.15686274509804, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["useDesc"] = true,
+							["name"] = "Low Heal",
+							["width"] = 2,
+						}, -- [2]
+						{
+							["type"] = "color",
+							["key"] = "mediumHealColour",
+							["desc"] = "This colour will be used if the next Death Strike is in between the Low and High thresholds. E.g. 25-60% of max HP.",
+							["default"] = {
+								1, -- [1]
+								0.85098039215686, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["useDesc"] = true,
+							["name"] = "Medium Heal",
+							["width"] = 1,
+						}, -- [3]
+						{
+							["type"] = "toggle",
+							["key"] = "useMediumHealColour",
+							["desc"] = "Select this option if you want to have an 'in-between' colour if the next Death Strike doesn't match the Low or High thresholds.",
+							["default"] = true,
+							["useDesc"] = true,
+							["name"] = "Use Medium Heal Colour",
+							["width"] = 1,
+						}, -- [4]
+						{
+							["type"] = "color",
+							["key"] = "largeHealColour",
+							["desc"] = "This colour will be used if the next Death Strike will do more than the High Healing threshold.",
+							["default"] = {
+								0.13333333333333, -- [1]
+								0.88235294117647, -- [2]
+								0.11372549019608, -- [3]
+								1, -- [4]
+							},
+							["useDesc"] = true,
+							["name"] = "Large Heal",
+							["width"] = 2,
+						}, -- [5]
+					},
+					["hideReorder"] = true,
+					["useDesc"] = false,
+					["nameSource"] = 0,
+					["width"] = 1,
+					["useCollapse"] = true,
+					["collapse"] = false,
+					["name"] = "Healing Colours",
+					["key"] = "healingColours",
+					["limitType"] = "none",
+					["groupType"] = "simple",
+					["type"] = "group",
+					["size"] = 10,
+				}, -- [4]
+				{
+					["type"] = "header",
+					["useName"] = false,
+					["text"] = "",
+					["noMerge"] = false,
+					["width"] = 1,
+				}, -- [5]
+				{
+					["subOptions"] = {
+						{
+							["type"] = "number",
+							["useDesc"] = true,
+							["max"] = 30,
+							["step"] = 1,
+							["width"] = 1,
+							["min"] = 0,
+							["key"] = "lowHealThreshold",
+							["desc"] = "If the next Death Strike will heal less than this percent of max HP, it will use the Low Heal colour.",
+							["name"] = "Low Heal Threshold",
+							["default"] = 20,
+						}, -- [1]
+						{
+							["type"] = "number",
+							["useDesc"] = true,
+							["max"] = 100,
+							["step"] = 1,
+							["width"] = 1,
+							["min"] = 10,
+							["key"] = "largeHealThreshold",
+							["desc"] = "If the next Death Strike will heal more than this percent of max HP, it will use the Large Heal colour.",
+							["name"] = "Large Heal Threshold",
+							["default"] = 50,
+						}, -- [2]
+					},
+					["hideReorder"] = true,
+					["useDesc"] = false,
+					["nameSource"] = 0,
+					["width"] = 1,
+					["useCollapse"] = true,
+					["collapse"] = false,
+					["name"] = "Healing Thresholds",
+					["key"] = "healingThresholds",
+					["limitType"] = "none",
+					["groupType"] = "simple",
+					["type"] = "group",
+					["size"] = 10,
+				}, -- [6]
+			},
+			["displayText_format_p_time_precision"] = 1,
+			["automaticWidth"] = "Auto",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
+			["justify"] = "CENTER",
+			["semver"] = "1.1.6",
+			["tocversion"] = 90002,
+			["id"] = "Death Strike Tracker",
+			["config"] = {
+				["healingColours"] = {
+					["largeHealColour"] = {
+						0.13333333333333, -- [1]
+						0.88235294117647, -- [2]
+						0.11372549019608, -- [3]
+						1, -- [4]
+					},
+					["mediumHealColour"] = {
+						1, -- [1]
+						0.85098039215686, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["lowHealColour"] = {
+						1, -- [1]
+						0.15686274509804, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["useMediumHealColour"] = true,
+					["useHealingColours"] = false,
+				},
+				["healingThresholds"] = {
+					["lowHealThreshold"] = 20,
+					["largeHealThreshold"] = 50,
+				},
+				["showDamageTaken"] = false,
+				["outputType"] = 1,
+			},
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["shadowYOffset"] = -1,
+			["uid"] = "e5OzewoiXIa",
+			["xOffset"] = -24.38128662109375,
+			["anchorPoint"] = "CENTER",
+			["shadowColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				1, -- [4]
+			},
+			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = 4,
+						["variable"] = "show",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								0, -- [4]
+							},
+							["property"] = "color",
+						}, -- [1]
+					},
+				}, -- [1]
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["preferToUpdate"] = false,
+		},
+		["BoneShield Background Layer 2"] = {
+			["user_y"] = 0.03,
+			["slantMode"] = "INSIDE",
+			["user_x"] = 0,
+			["authorOptions"] = {
+			},
+			["adjustedMax"] = 30,
+			["adjustedMin"] = 0,
+			["yOffset"] = -260,
+			["anchorPoint"] = "CENTER",
+			["desaturateBackground"] = false,
+			["sameTexture"] = true,
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["backgroundColor"] = {
+				0.019607843137255, -- [1]
+				0.07843137254902, -- [2]
+				0.015686274509804, -- [3]
+				1, -- [4]
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["auranames"] = {
+							"195181", -- [1]
+						},
+						["matchesShowOn"] = "showAlways",
+						["genericShowOn"] = "showOnActive",
+						["subeventPrefix"] = "SPELL",
+						["use_tooltip"] = false,
+						["debuffType"] = "HELPFUL",
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Health",
+						["names"] = {
+							"Bone Shield", -- [1]
+						},
+						["spellIds"] = {
+							195181, -- [1]
+						},
+						["useGroup_count"] = false,
+						["useName"] = true,
+						["combineMatches"] = "showLowest",
+						["buffShowOn"] = "showOnActive",
+						["unit"] = "player",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
+			["endAngle"] = 360,
+			["internalVersion"] = 40,
+			["slanted"] = false,
+			["animation"] = {
+				["start"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["duration"] = "1",
+					["alphaType"] = "straight",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
+					["use_alpha"] = false,
+					["type"] = "none",
+					["colorA"] = 1,
+					["easeType"] = "none",
+					["use_scale"] = true,
+					["scaley"] = 1.1,
+					["alpha"] = 0,
+					["easeStrength"] = 3,
+					["y"] = 0,
+					["x"] = 0,
+					["scalex"] = 1.1,
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      return startX + (((math.sin(angle) + 1)/2) * (scaleX - 1)), startY + (((math.sin(angle) + 1)/2) * (scaleY - 1))\n    end\n  ",
+					["scaleType"] = "pulse",
+					["rotate"] = 0,
+					["preset"] = "pulse",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+			},
+			["xOffset"] = 0,
+			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "incombat",
+						["value"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = 1,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				}, -- [1]
+			},
+			["parent"] = "Bone Shield Group",
+			["desc"] = "1",
+			["rotation"] = 0,
+			["font"] = "Friz Quadrata TT",
+			["version"] = 3,
+			["foregroundColor"] = {
+				0.22745098039216, -- [1]
+				0.82745098039216, -- [2]
+				0.12549019607843, -- [3]
+				0, -- [4]
+			},
+			["height"] = 270,
+			["preferToUpdate"] = false,
+			["load"] = {
+				["use_petbattle"] = false,
+				["use_never"] = false,
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["use_class"] = true,
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+				["talent2"] = {
+					["multi"] = {
+					},
+				},
+				["talent"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["ingroup"] = {
+					["multi"] = {
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["config"] = {
+			},
+			["useAdjustededMax"] = true,
+			["backgroundTexture"] = "450915",
+			["selfPoint"] = "CENTER",
+			["startAngle"] = 0,
+			["anchorFrameType"] = "SCREEN",
+			["frameStrata"] = 1,
+			["mirror"] = false,
+			["useAdjustededMin"] = false,
+			["regionType"] = "progresstexture",
+			["fontSize"] = 12,
+			["blendMode"] = "BLEND",
+			["crop_y"] = 0,
+			["compress"] = false,
+			["slantFirst"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["color"] = {
+			},
+			["textureWrapMode"] = "CLAMP",
+			["semver"] = "1.0.2",
+			["tocversion"] = 90001,
+			["id"] = "BoneShield Background Layer 2",
+			["foregroundTexture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura21",
+			["alpha"] = 1,
+			["width"] = 300,
+			["stickyDuration"] = false,
+			["uid"] = "GimoT(HCnSj",
+			["inverse"] = false,
+			["desaturateForeground"] = false,
+			["orientation"] = "ANTICLOCKWISE",
+			["crop_x"] = 0,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["backgroundOffset"] = 0,
+		},
+		["Bonestorm duration right"] = {
+			["user_y"] = 0,
+			["user_x"] = 0,
+			["authorOptions"] = {
+			},
+			["preferToUpdate"] = false,
+			["adjustedMin"] = 50,
+			["yOffset"] = -262,
+			["foregroundColor"] = {
+				0, -- [1]
+				0.79607843137255, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["desaturateBackground"] = false,
+			["sameTexture"] = true,
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["desaturateForeground"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "aura2",
+						["auranames"] = {
+							"194844", -- [1]
+						},
+						["matchesShowOn"] = "showOnActive",
+						["event"] = "Health",
+						["unit"] = "player",
+						["unitExists"] = false,
+						["ownOnly"] = true,
+						["spellIds"] = {
+						},
+						["names"] = {
+						},
+						["useName"] = true,
+						["subeventPrefix"] = "SPELL",
+						["subeventSuffix"] = "_CAST_START",
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
+			["endAngle"] = 180,
+			["internalVersion"] = 40,
+			["foregroundTexture"] = "165634",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
+			["xOffset"] = 0,
+			["stickyDuration"] = false,
+			["rotation"] = 0,
+			["font"] = "Friz Quadrata TT",
+			["version"] = 3,
+			["selfPoint"] = "CENTER",
+			["height"] = 290,
+			["conditions"] = {
+			},
+			["load"] = {
+				["use_petbattle"] = false,
+				["talent"] = {
+					["single"] = 21,
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["use_talent"] = true,
+				["use_class"] = true,
+				["use_spec"] = true,
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["use_vehicleUi"] = false,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["backgroundColor"] = {
+				0.50196078431373, -- [1]
+				0.50196078431373, -- [2]
+				0.50196078431373, -- [3]
+				0, -- [4]
+			},
+			["useAdjustededMax"] = false,
+			["backgroundTexture"] = "450915",
+			["parent"] = "Bone Shield Group",
+			["startAngle"] = 0,
+			["crop_y"] = 0,
+			["config"] = {
+			},
+			["mirror"] = false,
+			["useAdjustededMin"] = false,
+			["regionType"] = "progresstexture",
+			["textureWrapMode"] = "CLAMP",
+			["blendMode"] = "BLEND",
+			["anchorFrameType"] = "SCREEN",
+			["alpha"] = 1,
+			["slantMode"] = "INSIDE",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["compress"] = false,
+			["smoothProgress"] = false,
+			["semver"] = "1.0.2",
+			["tocversion"] = 90001,
+			["id"] = "Bonestorm duration right",
+			["fontSize"] = 12,
+			["frameStrata"] = 1,
+			["width"] = 290,
+			["color"] = {
+			},
+			["uid"] = "RMqaMGMgAmN",
+			["inverse"] = false,
+			["anchorPoint"] = "CENTER",
+			["orientation"] = "CLOCKWISE",
+			["crop_x"] = 0,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["backgroundOffset"] = 0,
+		},
+		["Bonestorm duration left"] = {
+			["user_y"] = 0,
+			["user_x"] = 0,
+			["authorOptions"] = {
+			},
+			["preferToUpdate"] = false,
+			["adjustedMin"] = 50,
+			["yOffset"] = -262,
+			["foregroundColor"] = {
+				0, -- [1]
+				0.79607843137255, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["desaturateBackground"] = false,
+			["sameTexture"] = true,
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["desaturateForeground"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "aura2",
+						["auranames"] = {
+							"194844", -- [1]
+						},
+						["matchesShowOn"] = "showOnActive",
+						["event"] = "Health",
+						["unit"] = "player",
+						["unitExists"] = false,
+						["ownOnly"] = true,
+						["spellIds"] = {
+						},
+						["names"] = {
+						},
+						["useName"] = true,
+						["subeventPrefix"] = "SPELL",
+						["subeventSuffix"] = "_CAST_START",
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
+			["endAngle"] = 360,
+			["internalVersion"] = 40,
+			["foregroundTexture"] = "165634",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
+			["xOffset"] = 0,
+			["stickyDuration"] = false,
+			["rotation"] = 0,
+			["font"] = "Friz Quadrata TT",
+			["version"] = 3,
+			["selfPoint"] = "CENTER",
+			["height"] = 290,
+			["conditions"] = {
+			},
+			["load"] = {
+				["use_petbattle"] = false,
+				["talent"] = {
+					["single"] = 21,
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["use_talent"] = true,
+				["use_class"] = true,
+				["use_spec"] = true,
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["use_vehicleUi"] = false,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["backgroundColor"] = {
+				0.50196078431373, -- [1]
+				0.50196078431373, -- [2]
+				0.50196078431373, -- [3]
+				0, -- [4]
+			},
+			["useAdjustededMax"] = false,
+			["backgroundTexture"] = "450915",
+			["parent"] = "Bone Shield Group",
+			["startAngle"] = 180,
+			["crop_y"] = 0,
+			["config"] = {
+			},
+			["mirror"] = false,
+			["useAdjustededMin"] = false,
+			["regionType"] = "progresstexture",
+			["textureWrapMode"] = "CLAMP",
+			["blendMode"] = "BLEND",
+			["anchorFrameType"] = "SCREEN",
+			["alpha"] = 1,
+			["slantMode"] = "INSIDE",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["compress"] = false,
+			["smoothProgress"] = false,
+			["semver"] = "1.0.2",
+			["tocversion"] = 90001,
+			["id"] = "Bonestorm duration left",
+			["fontSize"] = 12,
+			["frameStrata"] = 1,
+			["width"] = 290,
+			["color"] = {
+			},
+			["uid"] = "7)ih6O0242O",
+			["inverse"] = false,
+			["anchorPoint"] = "CENTER",
+			["orientation"] = "ANTICLOCKWISE",
+			["crop_x"] = 0,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["backgroundOffset"] = 0,
+		},
+		["BoneShield Lose Stack 2"] = {
+			["color"] = {
+				1, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.75, -- [4]
+			},
+			["preferToUpdate"] = false,
+			["yOffset"] = -260,
+			["anchorPoint"] = "CENTER",
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["direction"] = "LOST",
+						["spellId"] = "195181",
+						["duration"] = "0.001",
+						["use_direction"] = true,
+						["spellName"] = 195181,
+						["subeventSuffix"] = "_AURA_REMOVED_DOSE",
+						["event"] = "Combat Log",
+						["use_exact_spellName"] = true,
+						["use_spellId"] = true,
+						["name"] = "Bonestorm",
+						["use_sourceUnit"] = true,
+						["use_charges"] = false,
+						["unit"] = "player",
+						["useExactSpellId"] = true,
+						["use_number"] = false,
+						["use_sourceName"] = false,
+						["use_cloneId"] = false,
+						["debuffType"] = "HELPFUL",
+						["charges_operator"] = "==",
+						["charges"] = "1",
+						["type"] = "event",
+						["auraType"] = "BUFF",
+						["auraspellids"] = {
+							"195181", -- [1]
+						},
+						["names"] = {
+						},
+						["sourceName"] = "Ukratar",
+						["realSpellName"] = 195181,
+						["number_operator"] = "==",
+						["use_spellName"] = false,
+						["spellIds"] = {
+						},
+						["unevent"] = "timed",
+						["subeventPrefix"] = "SPELL",
+						["buffShowOn"] = "showOnActive",
+						["sourceUnit"] = "player",
+						["use_auraType"] = false,
+					},
+					["untrigger"] = {
+						["use_charges"] = false,
+						["direction"] = "LOST",
+						["use_spellName"] = true,
+						["use_direction"] = true,
+					},
+				}, -- [1]
+				{
+					["trigger"] = {
+						["unit"] = "player",
+						["type"] = "aura2",
+						["useExactSpellId"] = true,
+						["auraspellids"] = {
+							"195181", -- [1]
+						},
+						["debuffType"] = "HELPFUL",
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Health",
+						["subeventPrefix"] = "SPELL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [2]
+				["activeTriggerMode"] = -10,
+			},
+			["internalVersion"] = 40,
+			["animation"] = {
+				["start"] = {
+					["colorR"] = 1,
+					["duration"] = "0.1",
+					["alphaType"] = "straight",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
+					["use_alpha"] = false,
+					["type"] = "custom",
+					["colorA"] = 1,
+					["easeType"] = "none",
+					["use_scale"] = false,
+					["scaley"] = 0,
+					["alpha"] = 0,
+					["easeStrength"] = 3,
+					["y"] = 0,
+					["x"] = 0,
+					["scalex"] = 0,
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      return startX + (((math.sin(angle) + 1)/2) * (scaleX - 1)), startY + (((math.sin(angle) + 1)/2) * (scaleY - 1))\n    end\n  ",
+					["scaleType"] = "pulse",
+					["rotate"] = 0,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["duration"] = "0.25",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["scaleType"] = "straightScale",
+					["easeType"] = "none",
+					["colorA"] = 1,
+					["scaley"] = 1.5,
+					["alpha"] = 0,
+					["scalex"] = 1.5,
+					["y"] = 0,
+					["x"] = 0,
+					["easeStrength"] = 3,
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      return startX + (progress * (scaleX - startX)), startY + (progress * (scaleY - startY))\n    end\n  ",
+					["type"] = "none",
+					["rotate"] = 0,
+					["duration_type"] = "seconds",
+					["use_scale"] = true,
+				},
+				["finish"] = {
+					["colorR"] = 1,
+					["duration"] = "0.25",
+					["alphaType"] = "straight",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "function(progress, start, delta)\n    return start + (progress * delta)\nend\n",
+					["use_alpha"] = true,
+					["type"] = "custom",
+					["colorA"] = 1,
+					["easeType"] = "none",
+					["use_scale"] = true,
+					["scaley"] = 2,
+					["alpha"] = 0.2,
+					["easeStrength"] = 3,
+					["y"] = 0,
+					["x"] = 0,
+					["scalex"] = 2,
+					["scaleFunc"] = "function(progress, startX, startY, scaleX, scaleY)\n    return startX + (progress * (scaleX - startX)), startY + (progress * (scaleY - startY))\nend\n",
+					["scaleType"] = "straightScale",
+					["rotate"] = 0,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+			},
+			["desaturate"] = false,
+			["discrete_rotation"] = 0,
+			["version"] = 3,
+			["height"] = 270,
+			["rotate"] = true,
+			["load"] = {
+				["use_petbattle"] = false,
+				["use_never"] = true,
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["use_class"] = true,
+				["use_vehicleUi"] = false,
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["textureWrapMode"] = "CLAMP",
+			["mirror"] = false,
+			["regionType"] = "texture",
+			["blendMode"] = "BLEND",
+			["anchorFrameType"] = "SCREEN",
+			["texture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura21",
+			["xOffset"] = 0,
+			["parent"] = "Bone Shield Group",
+			["semver"] = "1.0.2",
+			["tocversion"] = 90001,
+			["id"] = "BoneShield Lose Stack 2",
+			["selfPoint"] = "CENTER",
+			["frameStrata"] = 1,
+			["width"] = 300,
+			["uid"] = "n)(LJEu7PFP",
+			["config"] = {
+			},
+			["authorOptions"] = {
+			},
+			["alpha"] = 1,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["rotation"] = 0,
+		},
+		["BoneShield Stacks"] = {
+			["user_y"] = 0,
+			["text2Point"] = "CENTER",
+			["user_x"] = 0,
+			["authorOptions"] = {
+			},
+			["displayText"] = "%s",
+			["yOffset"] = -264,
+			["foregroundColor"] = {
+				1, -- [1]
+				0, -- [2]
+				0, -- [3]
+				1, -- [4]
+			},
+			["sameTexture"] = true,
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["text1Enabled"] = true,
+			["wordWrap"] = "WordWrap",
+			["desaturate"] = false,
+			["rotation"] = 0,
+			["font"] = "Nimrod MT",
+			["text2FontFlags"] = "OUTLINE",
+			["crop_y"] = 0.41,
+			["textureWrapMode"] = "CLAMP",
+			["foregroundTexture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Circle_Smooth_Border",
+			["shadowXOffset"] = 1,
+			["useAdjustededMin"] = false,
+			["crop"] = 0.41,
+			["blendMode"] = "BLEND",
+			["text2FontSize"] = 24,
+			["cooldownTextDisabled"] = false,
+			["auto"] = true,
+			["tocversion"] = 90001,
+			["text2Enabled"] = false,
+			["uid"] = "hnvVH8WIeIp",
+			["fixedWidth"] = 200,
+			["backgroundOffset"] = 2,
+			["outline"] = "OUTLINE",
+			["color"] = {
+				1, -- [1]
+				0, -- [2]
+				0, -- [3]
+				1, -- [4]
+			},
+			["shadowYOffset"] = -1,
+			["desaturateBackground"] = false,
+			["parent"] = "Bone Shield Group",
+			["customTextUpdate"] = "update",
+			["automaticWidth"] = "Auto",
+			["desaturateForeground"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["autoclone"] = false,
+						["spellId"] = "195181",
+						["useGroup_count"] = false,
+						["ownOnly"] = true,
+						["genericShowOn"] = "showOnActive",
+						["names"] = {
+							"Souldrinker", -- [1]
+						},
+						["use_tooltip"] = false,
+						["subeventPrefix"] = "SPELL",
+						["custom_hide"] = "timed",
+						["debuffType"] = "HELPFUL",
+						["useExactSpellId"] = true,
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["auraspellids"] = {
+							"195181", -- [1]
+						},
+						["buffShowOn"] = "showOnActive",
+						["countOperator"] = "<=",
+						["spellIds"] = {
+							240558, -- [1]
+						},
+						["matchesShowOn"] = "showOnActive",
+						["use_spellId"] = true,
+						["count"] = "9",
+						["name"] = "Bone Shield",
+						["event"] = "Health",
+						["combineMatches"] = "showLowest",
+						["unit"] = "player",
+						["fullscan"] = true,
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
+			["endAngle"] = 360,
+			["internalVersion"] = 40,
+			["zoom"] = 0,
+			["animation"] = {
+				["start"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["duration"] = "1",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["use_translate"] = true,
+					["type"] = "none",
+					["easeType"] = "none",
+					["translateFunc"] = "    function(progress, startX, startY, deltaX, deltaY)\n      local angle = progress * 2 * math.pi\n      return startX + (deltaX * math.cos(angle)), startY + (deltaY * math.sin(angle))\n    end\n  ",
+					["scaley"] = 1,
+					["alpha"] = 0,
+					["colorA"] = 1,
+					["y"] = 0,
+					["x"] = 2,
+					["scalex"] = 1,
+					["easeStrength"] = 3,
+					["preset"] = "shake",
+					["rotate"] = 0,
+					["duration_type"] = "seconds",
+					["translateType"] = "circle",
+				},
+				["finish"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+			},
+			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["op"] = ">=",
+						["variable"] = "stacks",
+						["value"] = "5",
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								0.25882352941177, -- [1]
+								1, -- [2]
+								0.23921568627451, -- [3]
+								1, -- [4]
+							},
+							["property"] = "color",
+						}, -- [1]
+						{
+							["value"] = 45,
+							["property"] = "fontSize",
+						}, -- [2]
+						{
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["op"] = "<",
+						["variable"] = "stacks",
+						["value"] = "5",
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								1, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["property"] = "color",
+						}, -- [1]
+						{
+							["value"] = 40,
+							["property"] = "fontSize",
+						}, -- [2]
+					},
+				}, -- [2]
+			},
+			["shadowColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				1, -- [4]
+			},
+			["alpha"] = 0.7,
+			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
+			["regionType"] = "text",
+			["version"] = 3,
+			["load"] = {
+				["use_petbattle"] = false,
+				["use_never"] = false,
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["use_class"] = true,
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+				["talent2"] = {
+					["multi"] = {
+					},
+				},
+				["talent"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["ingroup"] = {
+					["multi"] = {
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["height"] = 19.999952316284,
+			["width"] = 25.00005531311,
+			["text1Point"] = "CENTER",
+			["displayText_format_s_format"] = "none",
+			["useAdjustededMax"] = false,
+			["backgroundTexture"] = "Textures\\SpellActivationOverlays\\Eclipse_Sun",
+			["text2Containment"] = "INSIDE",
+			["text1Font"] = "Expressway",
+			["text1Color"] = {
+				1, -- [1]
+				0.96862745098039, -- [2]
+				0, -- [3]
+				1, -- [4]
+			},
+			["text2"] = "%p",
+			["mirror"] = false,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Containment"] = "INSIDE",
+			["semver"] = "1.0.2",
+			["icon"] = true,
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				1, -- [4]
+			},
+			["text1FontSize"] = 15,
+			["xOffset"] = 1,
+			["text1"] = "%%s",
+			["compress"] = false,
+			["glow"] = false,
+			["anchorPoint"] = "CENTER",
+			["justify"] = "CENTER",
+			["text1FontFlags"] = "OUTLINE",
+			["id"] = "BoneShield Stacks",
+			["fontSize"] = 40,
+			["frameStrata"] = 4,
+			["anchorFrameType"] = "SCREEN",
+			["config"] = {
+			},
+			["text2Font"] = "Friz Quadrata TT",
+			["inverse"] = false,
+			["startAngle"] = 0,
+			["orientation"] = "VERTICAL",
+			["crop_x"] = 0.4,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["preferToUpdate"] = false,
+		},
+		["BoneShield Spark"] = {
+			["user_y"] = 0.03,
+			["slantFirst"] = false,
+			["user_x"] = 0,
+			["color"] = {
+			},
+			["adjustedMax"] = 30,
+			["adjustedMin"] = 0,
+			["yOffset"] = -260,
+			["anchorPoint"] = "CENTER",
+			["desaturateBackground"] = false,
+			["slanted"] = false,
+			["sameTexture"] = true,
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["auranames"] = {
+							"195181", -- [1]
+						},
+						["matchesShowOn"] = "showOnActive",
+						["genericShowOn"] = "showOnActive",
+						["subeventPrefix"] = "SPELL",
+						["use_tooltip"] = false,
+						["debuffType"] = "HELPFUL",
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Health",
+						["names"] = {
+							"Bone Shield", -- [1]
+						},
+						["spellIds"] = {
+							195181, -- [1]
+						},
+						["useGroup_count"] = false,
+						["useName"] = true,
+						["combineMatches"] = "showLowest",
+						["buffShowOn"] = "showOnActive",
+						["unit"] = "player",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
+			["endAngle"] = 360,
+			["internalVersion"] = 40,
+			["foregroundColor"] = {
+				1, -- [1]
+				0, -- [2]
+				0, -- [3]
+				1, -- [4]
+			},
+			["selfPoint"] = "CENTER",
+			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "incombat",
+						["value"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = 1,
+							["property"] = "alpha",
+						}, -- [1]
+						{
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["op"] = ">",
+						["variable"] = "expirationTime",
+						["value"] = "10",
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								1, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["property"] = "foregroundColor",
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["op"] = "<=",
+						["variable"] = "expirationTime",
+						["value"] = "10",
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								0.95686274509804, -- [1]
+								0, -- [2]
+								1, -- [3]
+								1, -- [4]
+							},
+							["property"] = "foregroundColor",
+						}, -- [1]
+					},
+				}, -- [3]
+			},
+			["xOffset"] = 0,
+			["backgroundColor"] = {
+				0.019607843137255, -- [1]
+				0.07843137254902, -- [2]
+				0.015686274509804, -- [3]
+				0, -- [4]
+			},
+			["stickyDuration"] = false,
+			["rotation"] = 0,
+			["font"] = "Friz Quadrata TT",
+			["version"] = 3,
+			["animation"] = {
+				["start"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["translateType"] = "straightTranslate",
+					["rotateType"] = "straight",
+					["use_rotate"] = false,
+					["scalex"] = 1.05,
+					["rotateFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
+					["colorA"] = 1,
+					["alphaType"] = "straight",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
+					["duration"] = "0.2",
+					["use_color"] = true,
+					["use_translate"] = false,
+					["use_alpha"] = false,
+					["colorType"] = "pulseHSV",
+					["type"] = "custom",
+					["scaley"] = 1.05,
+					["easeType"] = "none",
+					["translateFunc"] = "    function(progress, startX, startY, deltaX, deltaY)\n      return startX + (progress * deltaX), startY + (progress * deltaY)\n    end\n  ",
+					["preset"] = "alphaPulse",
+					["alpha"] = 0,
+					["easeStrength"] = 3,
+					["y"] = 0,
+					["x"] = 0,
+					["scaleType"] = "pulse",
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      return startX + (((math.sin(angle) + 1)/2) * (scaleX - 1)), startY + (((math.sin(angle) + 1)/2) * (scaleY - 1))\n    end\n  ",
+					["colorFunc"] = "function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n    local angle = (progress * 2 * math.pi) - (math.pi / 2)\n    local newProgress = ((math.sin(angle) + 1)/2);\n    return WeakAuras.GetHSVTransition(newProgress, r1, g1, b1, a1, r2, g2, b2, a2)\nend\n",
+					["rotate"] = 33,
+					["duration_type"] = "seconds",
+					["use_scale"] = false,
+				},
+				["finish"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+			},
+			["height"] = 270,
+			["uid"] = "3EugwpLT0ux",
+			["load"] = {
+				["use_petbattle"] = false,
+				["use_never"] = false,
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["use_class"] = true,
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+				["talent2"] = {
+					["multi"] = {
+					},
+				},
+				["talent"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["ingroup"] = {
+					["multi"] = {
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["backgroundTexture"] = "450915",
+			["useAdjustededMax"] = true,
+			["fontSize"] = 12,
+			["anchorFrameType"] = "SCREEN",
+			["startAngle"] = 0,
+			["frameStrata"] = 1,
+			["desc"] = "1",
+			["mirror"] = false,
+			["useAdjustededMin"] = false,
+			["regionType"] = "progresstexture",
+			["textureWrapMode"] = "CLAMP",
+			["blendMode"] = "ADD",
+			["tocversion"] = 90001,
+			["foregroundTexture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura21",
+			["slantMode"] = "INSIDE",
+			["smoothProgress"] = true,
+			["desaturateForeground"] = false,
+			["preferToUpdate"] = false,
+			["semver"] = "1.0.2",
+			["compress"] = false,
+			["id"] = "BoneShield Spark",
+			["authorOptions"] = {
+			},
+			["alpha"] = 1,
+			["width"] = 300,
+			["crop_y"] = 0,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["parent"] = "Bone Shield Group",
+			["orientation"] = "ANTICLOCKWISE",
+			["crop_x"] = 0,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["backgroundOffset"] = 0,
+		},
+		["BoneShield Progress layer1"] = {
+			["user_y"] = 0.03,
+			["slantFirst"] = false,
+			["user_x"] = 0,
+			["color"] = {
+			},
+			["adjustedMax"] = 30,
+			["adjustedMin"] = 0.7,
+			["yOffset"] = -260.00003051758,
+			["anchorPoint"] = "CENTER",
+			["desaturateBackground"] = false,
+			["slanted"] = false,
+			["sameTexture"] = true,
+			["url"] = "https://wago.io/KjXWZnYTc/3",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["auranames"] = {
+							"195181", -- [1]
+						},
+						["matchesShowOn"] = "showOnActive",
+						["genericShowOn"] = "showOnActive",
+						["subeventPrefix"] = "SPELL",
+						["use_tooltip"] = false,
+						["debuffType"] = "HELPFUL",
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Health",
+						["names"] = {
+							"Bone Shield", -- [1]
+						},
+						["spellIds"] = {
+							195181, -- [1]
+						},
+						["useGroup_count"] = false,
+						["useName"] = true,
+						["combineMatches"] = "showLowest",
+						["buffShowOn"] = "showOnActive",
+						["unit"] = "player",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
+			["endAngle"] = 360,
+			["internalVersion"] = 40,
+			["foregroundColor"] = {
+				0.22745098039216, -- [1]
+				0.82745098039216, -- [2]
+				0.12549019607843, -- [3]
+				1, -- [4]
+			},
+			["selfPoint"] = "CENTER",
+			["conditions"] = {
+				{
+					["check"] = {
+						["op"] = ">",
+						["checks"] = {
+							{
+								["trigger"] = -1,
+								["variable"] = "incombat",
+								["value"] = 1,
+							}, -- [1]
+							{
+								["trigger"] = 1,
+								["op"] = ">",
+								["variable"] = "expirationTime",
+								["value"] = "10",
+							}, -- [2]
+						},
+						["value"] = "10",
+						["variable"] = "expirationTime",
+						["trigger"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								0.22745098039216, -- [1]
+								0.82745098039216, -- [2]
+								0.12549019607843, -- [3]
+								1, -- [4]
+							},
+							["property"] = "foregroundColor",
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["check"] = {
+						["op"] = "<=",
+						["checks"] = {
+							{
+								["trigger"] = -1,
+								["variable"] = "incombat",
+								["value"] = 1,
+							}, -- [1]
+							{
+								["trigger"] = 1,
+								["op"] = "<=",
+								["variable"] = "expirationTime",
+								["value"] = "10",
+							}, -- [2]
+						},
+						["value"] = "10",
+						["variable"] = "expirationTime",
+						["trigger"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								1, -- [1]
+								0, -- [2]
+								0.019607843137255, -- [3]
+								1, -- [4]
+							},
+							["property"] = "foregroundColor",
+						}, -- [1]
+					},
+				}, -- [2]
+			},
+			["xOffset"] = 0,
+			["backgroundColor"] = {
+				0.019607843137255, -- [1]
+				0.07843137254902, -- [2]
+				0.015686274509804, -- [3]
+				0, -- [4]
+			},
+			["stickyDuration"] = false,
+			["rotation"] = 0,
+			["font"] = "Friz Quadrata TT",
+			["version"] = 3,
+			["animation"] = {
+				["start"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["easeStrength"] = 3,
+					["preset"] = "fade",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["duration"] = "1",
+					["alphaType"] = "straight",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
+					["use_alpha"] = false,
+					["type"] = "none",
+					["colorA"] = 1,
+					["easeType"] = "none",
+					["use_scale"] = true,
+					["scaley"] = 1.1,
+					["alpha"] = 0,
+					["easeStrength"] = 3,
+					["y"] = 0,
+					["x"] = 0,
+					["scalex"] = 1.1,
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      return startX + (((math.sin(angle) + 1)/2) * (scaleX - 1)), startY + (((math.sin(angle) + 1)/2) * (scaleY - 1))\n    end\n  ",
+					["scaleType"] = "pulse",
+					["rotate"] = 0,
+					["preset"] = "pulse",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["colorR"] = 1,
+					["duration"] = "0.2",
+					["colorA"] = 1,
+					["colorG"] = 0,
+					["colorB"] = 0,
+					["use_scale"] = true,
+					["easeStrength"] = 3,
+					["type"] = "preset",
+					["scalex"] = 2,
+					["easeType"] = "none",
+					["preset"] = "fade",
+					["use_color"] = true,
+					["alpha"] = 0,
+					["x"] = 0,
+					["y"] = 0,
+					["colorType"] = "straightHSV",
+					["scaleFunc"] = "    function(progress, startX, startY, scaleX, scaleY)\n      return startX + (progress * (scaleX - startX)), startY + (progress * (scaleY - startY))\n    end\n  ",
+					["scaley"] = 2,
+					["colorFunc"] = "    function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n      return WeakAuras.GetHSVTransition(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n    end\n  ",
+					["rotate"] = 0,
+					["scaleType"] = "straightScale",
+					["duration_type"] = "seconds",
+				},
+			},
+			["height"] = 270,
+			["uid"] = "BbMkODHoKKJ",
+			["load"] = {
+				["use_petbattle"] = false,
+				["use_never"] = false,
+				["class"] = {
+					["single"] = "DEATHKNIGHT",
+					["multi"] = {
+					},
+				},
+				["use_class"] = true,
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+				["talent2"] = {
+					["multi"] = {
+					},
+				},
+				["talent"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["ingroup"] = {
+					["multi"] = {
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["backgroundTexture"] = "450915",
+			["useAdjustededMax"] = true,
+			["fontSize"] = 12,
+			["anchorFrameType"] = "SCREEN",
+			["startAngle"] = 0,
+			["frameStrata"] = 1,
+			["desc"] = "1",
+			["mirror"] = false,
+			["useAdjustededMin"] = true,
+			["regionType"] = "progresstexture",
+			["textureWrapMode"] = "CLAMP",
+			["blendMode"] = "BLEND",
+			["tocversion"] = 90001,
+			["foregroundTexture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura21",
+			["slantMode"] = "INSIDE",
+			["smoothProgress"] = true,
+			["desaturateForeground"] = false,
+			["preferToUpdate"] = false,
+			["semver"] = "1.0.2",
+			["compress"] = false,
+			["id"] = "BoneShield Progress layer1",
+			["authorOptions"] = {
+			},
+			["alpha"] = 1,
+			["width"] = 300,
+			["crop_y"] = 0,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["parent"] = "Bone Shield Group",
+			["orientation"] = "ANTICLOCKWISE",
+			["crop_x"] = 0,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["backgroundOffset"] = 0,
+		},
+	},
+	["lastArchiveClear"] = 1609150732,
+	["minimap"] = {
+		["hide"] = false,
+	},
+	["lastUpgrade"] = 1609150739,
+	["dbVersion"] = 40,
+	["login_squelch_time"] = 10,
+	["registered"] = {
+	},
+	["frame"] = {
+		["xOffset"] = -36.04736328125,
+		["yOffset"] = -90.6109619140625,
+		["height"] = 665.0000610351562,
+		["width"] = 830,
+	},
+	["editor_theme"] = "Monokai",
+}
